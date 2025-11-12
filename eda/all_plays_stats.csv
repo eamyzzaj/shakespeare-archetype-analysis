@@ -1,142 +1,140 @@
-Play,Character,Total Speeches,Scenes Appeared,Speech Share (%),Avg Speeches/Scene,Role Type
-A Midsummer Night's Dream,BOTTOM,50,5,10.0,10.0,main
-A Midsummer Night's Dream,LYSANDER,50,5,10.0,10.0,main
-A Midsummer Night's Dream,DEMETRIUS,48,6,9.6,8.0,main
-A Midsummer Night's Dream,THESEUS,48,3,9.6,16.0,main
-A Midsummer Night's Dream,HERMIA,47,4,9.4,11.75,main
-A Midsummer Night's Dream,QUINCE,38,3,7.6,12.67,main
-A Midsummer Night's Dream,HELENA,36,5,7.2,7.2,main
-A Midsummer Night's Dream,PUCK,33,6,6.6,5.5,main
-A Midsummer Night's Dream,OBERON,29,5,5.8,5.8,main
-A Midsummer Night's Dream,TITANIA,23,5,4.6,4.6,main
-A Midsummer Night's Dream,HIPPOLYTA,14,3,2.8,4.67,main
-A Midsummer Night's Dream,FLUTE,10,3,2.0,3.33,main
-A Midsummer Night's Dream,Pyramus,9,1,1.8,9.0,side
-A Midsummer Night's Dream,Thisbe,8,1,1.6,8.0,side
-A Midsummer Night's Dream,SNOUT,7,2,1.4,3.5,main
-A Midsummer Night's Dream,EGEUS,7,2,1.4,3.5,main
-A Midsummer Night's Dream,PHILOSTRATE,6,1,1.2,6.0,main
-A Midsummer Night's Dream,MUSTARDSEED,5,2,1.0,2.5,main
-A Midsummer Night's Dream,STARVELING,4,3,0.8,1.33,main
-A Midsummer Night's Dream,Fairy,4,2,0.8,2.0,side
-A Midsummer Night's Dream,COBWEB,4,2,0.8,2.0,main
-A Midsummer Night's Dream,PEASEBLOSSOM,4,2,0.8,2.0,main
-A Midsummer Night's Dream,Moonshine,3,1,0.6,3.0,side
-A Midsummer Night's Dream,Prologue,2,1,0.4,2.0,side
-A Midsummer Night's Dream,MOTH,2,1,0.4,2.0,main
-A Midsummer Night's Dream,Lion,2,1,0.4,2.0,side
-A Midsummer Night's Dream,ALL,2,2,0.4,1.0,side
-A Midsummer Night's Dream,SNUG,2,2,0.4,1.0,main
-A Midsummer Night's Dream,Wall,2,1,0.4,2.0,side
-A Midsummer Night's Dream,HERNIA,1,1,0.2,1.0,side
-"The Tragedy of Hamlet, Prince of Denmark",HAMLET,359,13,31.22,27.62,main
-"The Tragedy of Hamlet, Prince of Denmark",HORATIO,112,9,9.74,12.44,main
-"The Tragedy of Hamlet, Prince of Denmark",KING CLAUDIUS,102,11,8.87,9.27,side
-"The Tragedy of Hamlet, Prince of Denmark",LORD POLONIUS,86,8,7.48,10.75,side
-"The Tragedy of Hamlet, Prince of Denmark",QUEEN GERTRUDE,69,10,6.0,6.9,side
-"The Tragedy of Hamlet, Prince of Denmark",LAERTES,62,6,5.39,10.33,main
-"The Tragedy of Hamlet, Prince of Denmark",OPHELIA,58,5,5.04,11.6,main
-"The Tragedy of Hamlet, Prince of Denmark",ROSENCRANTZ,49,7,4.26,7.0,main
-"The Tragedy of Hamlet, Prince of Denmark",MARCELLUS,36,4,3.13,9.0,main
-"The Tragedy of Hamlet, Prince of Denmark",First Clown,33,1,2.87,33.0,side
-"The Tragedy of Hamlet, Prince of Denmark",GUILDENSTERN,33,5,2.87,6.6,main
-"The Tragedy of Hamlet, Prince of Denmark",OSRIC,25,1,2.17,25.0,main
-"The Tragedy of Hamlet, Prince of Denmark",BERNARDO,23,2,2.0,11.5,main
-"The Tragedy of Hamlet, Prince of Denmark",Ghost,14,2,1.22,7.0,side
-"The Tragedy of Hamlet, Prince of Denmark",REYNALDO,13,1,1.13,13.0,main
-"The Tragedy of Hamlet, Prince of Denmark",Second Clown,12,1,1.04,12.0,side
-"The Tragedy of Hamlet, Prince of Denmark",First Player,8,2,0.7,4.0,side
-"The Tragedy of Hamlet, Prince of Denmark",FRANCISCO,8,1,0.7,8.0,main
-"The Tragedy of Hamlet, Prince of Denmark",Captain,7,1,0.61,7.0,side
-"The Tragedy of Hamlet, Prince of Denmark",PRINCE FORTINBRAS,6,2,0.52,3.0,side
-"The Tragedy of Hamlet, Prince of Denmark",Player Queen,5,1,0.43,5.0,side
-"The Tragedy of Hamlet, Prince of Denmark",Player King,4,1,0.35,4.0,side
-"The Tragedy of Hamlet, Prince of Denmark",All,4,4,0.35,1.0,side
-"The Tragedy of Hamlet, Prince of Denmark",Danes,3,1,0.26,3.0,side
-"The Tragedy of Hamlet, Prince of Denmark",Gentleman,3,1,0.26,3.0,side
-"The Tragedy of Hamlet, Prince of Denmark",Lord,3,1,0.26,3.0,side
-"The Tragedy of Hamlet, Prince of Denmark",First Sailor,2,1,0.17,2.0,side
-"The Tragedy of Hamlet, Prince of Denmark",Messenger,2,1,0.17,2.0,side
-"The Tragedy of Hamlet, Prince of Denmark",First Priest,2,1,0.17,2.0,side
-"The Tragedy of Hamlet, Prince of Denmark",VOLTIMAND,2,2,0.17,1.0,main
-"The Tragedy of Hamlet, Prince of Denmark",Prologue,1,1,0.09,1.0,side
-"The Tragedy of Hamlet, Prince of Denmark",LUCIANUS,1,1,0.09,1.0,main
-"The Tragedy of Hamlet, Prince of Denmark",Servant,1,1,0.09,1.0,side
-"The Tragedy of Hamlet, Prince of Denmark",CORNELIUS,1,1,0.09,1.0,main
-"The Tragedy of Hamlet, Prince of Denmark",First Ambassador,1,1,0.09,1.0,side
-The Tragedy of Macbeth,MACBETH,146,15,22.46,9.73,main
-The Tragedy of Macbeth,LADY MACBETH,59,9,9.08,6.56,main
-The Tragedy of Macbeth,MACDUFF,59,7,9.08,8.43,main
-The Tragedy of Macbeth,MALCOLM,40,8,6.15,5.0,main
-The Tragedy of Macbeth,ROSS,39,7,6.0,5.57,main
-The Tragedy of Macbeth,BANQUO,33,7,5.08,4.71,main
-The Tragedy of Macbeth,First Witch,23,4,3.54,5.75,side
-The Tragedy of Macbeth,LENNOX,22,6,3.38,3.67,main
-The Tragedy of Macbeth,Doctor,20,3,3.08,6.67,side
-The Tragedy of Macbeth,First Murderer,19,4,2.92,4.75,side
-The Tragedy of Macbeth,LADY MACDUFF,19,1,2.92,19.0,main
-The Tragedy of Macbeth,DUNCAN,18,3,2.77,6.0,main
-The Tragedy of Macbeth,Second Witch,15,3,2.31,5.0,side
-The Tragedy of Macbeth,Son,14,1,2.15,14.0,side
-The Tragedy of Macbeth,ALL,13,5,2.0,2.6,side
-The Tragedy of Macbeth,Third Witch,13,3,2.0,4.33,side
-The Tragedy of Macbeth,Gentlewoman,11,1,1.69,11.0,side
-The Tragedy of Macbeth,SIWARD,11,4,1.69,2.75,main
-The Tragedy of Macbeth,Messenger,6,3,0.92,2.0,side
-The Tragedy of Macbeth,Third Murderer,6,1,0.92,6.0,side
-The Tragedy of Macbeth,Second Murderer,6,2,0.92,3.0,side
-The Tragedy of Macbeth,MENTEITH,5,2,0.77,2.5,main
-The Tragedy of Macbeth,SEYTON,5,2,0.77,2.5,main
-The Tragedy of Macbeth,Servant,5,2,0.77,2.5,side
-The Tragedy of Macbeth,YOUNG SIWARD,4,1,0.62,4.0,main
-The Tragedy of Macbeth,Old Man,4,1,0.62,4.0,side
-The Tragedy of Macbeth,Porter,4,1,0.62,4.0,side
-The Tragedy of Macbeth,ANGUS,4,2,0.62,2.0,main
-The Tragedy of Macbeth,Lords,3,1,0.46,3.0,side
-The Tragedy of Macbeth,Lord,3,1,0.46,3.0,side
-The Tragedy of Macbeth,DONALBAIN,3,1,0.46,3.0,main
-The Tragedy of Macbeth,CAITHNESS,3,1,0.46,3.0,main
-The Tragedy of Macbeth,Sergeant,3,1,0.46,3.0,side
-The Tragedy of Macbeth,HECATE,2,2,0.31,1.0,main
-The Tragedy of Macbeth,Second Apparition,2,1,0.31,2.0,side
-The Tragedy of Macbeth,FLEANCE,2,1,0.31,2.0,main
-The Tragedy of Macbeth,Both Murderers,2,1,0.31,2.0,side
-The Tragedy of Macbeth,First Apparition,1,1,0.15,1.0,side
-The Tragedy of Macbeth,Third Apparition,1,1,0.15,1.0,side
-The Tragedy of Macbeth,ATTENDANT,1,1,0.15,1.0,side
-The Tragedy of Macbeth,Soldiers,1,1,0.15,1.0,side
-The Tragedy of Romeo and Juliet,ROMEO,163,14,19.43,11.64,main
-The Tragedy of Romeo and Juliet,JULIET,118,11,14.06,10.73,main
-The Tragedy of Romeo and Juliet,Nurse,89,11,10.61,8.09,side
-The Tragedy of Romeo and Juliet,BENVOLIO,64,7,7.63,9.14,main
-The Tragedy of Romeo and Juliet,MERCUTIO,62,4,7.39,15.5,main
-The Tragedy of Romeo and Juliet,FRIAR LAURENCE,55,7,6.56,7.86,main
-The Tragedy of Romeo and Juliet,CAPULET,50,9,5.96,5.56,main
-The Tragedy of Romeo and Juliet,LADY CAPULET,44,10,5.24,4.4,main
-The Tragedy of Romeo and Juliet,PARIS,23,5,2.74,4.6,main
-The Tragedy of Romeo and Juliet,SAMPSON,20,1,2.38,20.0,main
-The Tragedy of Romeo and Juliet,TYBALT,17,3,2.03,5.67,main
-The Tragedy of Romeo and Juliet,PRINCE,16,3,1.91,5.33,side
-The Tragedy of Romeo and Juliet,GREGORY,15,1,1.79,15.0,main
-The Tragedy of Romeo and Juliet,PETER,13,2,1.55,6.5,main
-The Tragedy of Romeo and Juliet,BALTHASAR,12,2,1.43,6.0,main
-The Tragedy of Romeo and Juliet,Servant,10,3,1.19,3.33,side
-The Tragedy of Romeo and Juliet,MONTAGUE,10,3,1.19,3.33,main
-The Tragedy of Romeo and Juliet,First Musician,9,1,1.07,9.0,side
-The Tragedy of Romeo and Juliet,First Watchman,6,1,0.72,6.0,side
-The Tragedy of Romeo and Juliet,Second Servant,6,3,0.72,2.0,side
-The Tragedy of Romeo and Juliet,ABRAHAM,5,1,0.6,5.0,main
-The Tragedy of Romeo and Juliet,FRIAR JOHN,4,1,0.48,4.0,main
-The Tragedy of Romeo and Juliet,PAGE,4,1,0.48,4.0,side
-The Tragedy of Romeo and Juliet,Apothecary,4,1,0.48,4.0,side
-The Tragedy of Romeo and Juliet,First Servant,4,2,0.48,2.0,side
-The Tragedy of Romeo and Juliet,Second Musician,3,1,0.36,3.0,side
-The Tragedy of Romeo and Juliet,First Citizen,3,2,0.36,1.5,side
-The Tragedy of Romeo and Juliet,Second Capulet,2,1,0.24,2.0,side
-The Tragedy of Romeo and Juliet,LADY MONTAGUE,2,1,0.24,2.0,main
-The Tragedy of Romeo and Juliet,Musician,1,1,0.12,1.0,side
-The Tragedy of Romeo and Juliet,Third Musician,1,1,0.12,1.0,side
-The Tragedy of Romeo and Juliet,LADY  CAPULET,1,1,0.12,1.0,side
-The Tragedy of Romeo and Juliet,NURSE,1,1,0.12,1.0,side
-The Tragedy of Romeo and Juliet,Second Watchman,1,1,0.12,1.0,side
-The Tragedy of Romeo and Juliet,Third Watchman,1,1,0.12,1.0,side
+Play,Character,Total Speeches,Total Lines,Scenes Appeared,Acts Appeared,Speech Share (%),Line Share (%),Avg Speeches/Scene,Avg Lines/Speech,Verbosity,Talkativeness,Dominance,Focus (Lines/Act),Breadth (Scene Ratio),Role Type
+A Midsummer Night's Dream,THESEUS,48,233,3,3,9.6,10.79,16.0,4.85,4.85,16.0,10.79,77.67,0.33,main
+A Midsummer Night's Dream,HELENA,36,229,5,4,7.2,10.61,7.2,6.36,6.36,7.2,10.61,57.25,0.56,main
+A Midsummer Night's Dream,OBERON,29,226,5,4,5.8,10.47,5.8,7.79,7.79,5.8,10.47,56.5,0.56,main
+A Midsummer Night's Dream,PUCK,33,209,6,4,6.6,9.68,5.5,6.33,6.33,5.5,9.68,52.25,0.67,main
+A Midsummer Night's Dream,BOTTOM,50,204,5,4,10.0,9.45,10.0,4.08,4.08,10.0,9.45,51.0,0.56,main
+A Midsummer Night's Dream,LYSANDER,50,178,5,5,10.0,8.24,10.0,3.56,3.56,10.0,8.24,35.6,0.56,main
+A Midsummer Night's Dream,HERMIA,47,165,4,4,9.4,7.64,11.75,3.51,3.51,11.75,7.64,41.25,0.44,main
+A Midsummer Night's Dream,TITANIA,23,158,5,4,4.6,7.32,4.6,6.87,6.87,4.6,7.32,39.5,0.56,main
+A Midsummer Night's Dream,DEMETRIUS,48,134,6,5,9.6,6.21,8.0,2.79,2.79,8.0,6.21,26.8,0.67,main
+A Midsummer Night's Dream,QUINCE,38,83,3,3,7.6,3.84,12.67,2.18,2.18,12.67,3.84,27.67,0.33,main
+A Midsummer Night's Dream,PYRAMUS,9,56,1,1,1.8,2.59,9.0,6.22,6.22,9.0,2.59,56.0,0.11,side
+A Midsummer Night's Dream,EGEUS,7,41,2,2,1.4,1.9,3.5,5.86,5.86,3.5,1.9,20.5,0.22,main
+A Midsummer Night's Dream,PROLOGUE,2,35,1,1,0.4,1.62,2.0,17.5,17.5,2.0,1.62,35.0,0.11,side
+A Midsummer Night's Dream,HIPPOLYTA,14,34,3,3,2.8,1.57,4.67,2.43,2.43,4.67,1.57,11.33,0.33,main
+A Midsummer Night's Dream,THISBE,8,34,1,1,1.6,1.57,8.0,4.25,4.25,8.0,1.57,34.0,0.11,side
+A Midsummer Night's Dream,FAIRY,4,30,2,1,0.8,1.39,2.0,7.5,7.5,2.0,1.39,30.0,0.22,side
+A Midsummer Night's Dream,PHILOSTRATE,6,24,1,1,1.2,1.11,6.0,4.0,4.0,6.0,1.11,24.0,0.11,main
+A Midsummer Night's Dream,FLUTE,10,23,3,3,2.0,1.07,3.33,2.3,2.3,3.33,1.07,7.67,0.33,main
+A Midsummer Night's Dream,WALL,2,12,1,1,0.4,0.56,2.0,6.0,6.0,2.0,0.56,12.0,0.11,side
+A Midsummer Night's Dream,LION,2,9,1,1,0.4,0.42,2.0,4.5,4.5,2.0,0.42,9.0,0.11,side
+A Midsummer Night's Dream,SNOUT,7,7,2,2,1.4,0.32,3.5,1.0,1.0,3.5,0.32,3.5,0.22,main
+A Midsummer Night's Dream,MOONSHINE,3,6,1,1,0.6,0.28,3.0,2.0,2.0,3.0,0.28,6.0,0.11,side
+A Midsummer Night's Dream,SNUG,2,6,2,2,0.4,0.28,1.0,3.0,3.0,1.0,0.28,3.0,0.22,main
+A Midsummer Night's Dream,STARVELING,4,5,3,3,0.8,0.23,1.33,1.25,1.25,1.33,0.23,1.67,0.33,main
+A Midsummer Night's Dream,MUSTARDSEED,5,5,2,2,1.0,0.23,2.5,1.0,1.0,2.5,0.23,2.5,0.22,main
+A Midsummer Night's Dream,PEASEBLOSSOM,4,4,2,2,0.8,0.19,2.0,1.0,1.0,2.0,0.19,2.0,0.22,main
+A Midsummer Night's Dream,COBWEB,4,4,2,2,0.8,0.19,2.0,1.0,1.0,2.0,0.19,2.0,0.22,main
+A Midsummer Night's Dream,MOTH,2,2,1,1,0.4,0.09,2.0,1.0,1.0,2.0,0.09,2.0,0.11,main
+A Midsummer Night's Dream,ALL,2,2,2,2,0.4,0.09,1.0,1.0,1.0,1.0,0.09,1.0,0.22,side
+A Midsummer Night's Dream,HERNIA,1,1,1,1,0.2,0.05,1.0,1.0,1.0,1.0,0.05,1.0,0.11,side
+"The Tragedy of Hamlet, Prince of Denmark",HAMLET,359,1495,13,5,31.22,37.13,27.62,4.16,4.16,27.62,37.13,299.0,0.65,main
+"The Tragedy of Hamlet, Prince of Denmark",KING CLAUDIUS,102,550,11,5,8.87,13.66,9.27,5.39,5.39,9.27,13.66,110.0,0.55,side
+"The Tragedy of Hamlet, Prince of Denmark",LORD POLONIUS,86,355,8,3,7.48,8.82,10.75,4.13,4.13,10.75,8.82,118.33,0.4,side
+"The Tragedy of Hamlet, Prince of Denmark",HORATIO,112,291,9,4,9.74,7.23,12.44,2.6,2.6,12.44,7.23,72.75,0.45,main
+"The Tragedy of Hamlet, Prince of Denmark",LAERTES,62,206,6,3,5.39,5.12,10.33,3.32,3.32,10.33,5.12,68.67,0.3,main
+"The Tragedy of Hamlet, Prince of Denmark",OPHELIA,58,173,5,4,5.04,4.3,11.6,2.98,2.98,11.6,4.3,43.25,0.25,main
+"The Tragedy of Hamlet, Prince of Denmark",QUEEN GERTRUDE,69,157,10,5,6.0,3.9,6.9,2.28,2.28,6.9,3.9,31.4,0.5,side
+"The Tragedy of Hamlet, Prince of Denmark",ROSENCRANTZ,49,97,7,3,4.26,2.41,7.0,1.98,1.98,7.0,2.41,32.33,0.35,main
+"The Tragedy of Hamlet, Prince of Denmark",GHOST,14,95,2,2,1.22,2.36,7.0,6.79,6.79,7.0,2.36,47.5,0.1,side
+"The Tragedy of Hamlet, Prince of Denmark",FIRST CLOWN,33,93,1,1,2.87,2.31,33.0,2.82,2.82,33.0,2.31,93.0,0.05,side
+"The Tragedy of Hamlet, Prince of Denmark",MARCELLUS,36,67,4,1,3.13,1.66,9.0,1.86,1.86,9.0,1.66,67.0,0.2,main
+"The Tragedy of Hamlet, Prince of Denmark",GUILDENSTERN,33,53,5,3,2.87,1.32,6.6,1.61,1.61,6.6,1.32,17.67,0.25,main
+"The Tragedy of Hamlet, Prince of Denmark",FIRST PLAYER,8,52,2,2,0.7,1.29,4.0,6.5,6.5,4.0,1.29,26.0,0.1,side
+"The Tragedy of Hamlet, Prince of Denmark",OSRIC,25,48,1,1,2.17,1.19,25.0,1.92,1.92,25.0,1.19,48.0,0.05,main
+"The Tragedy of Hamlet, Prince of Denmark",PLAYER KING,4,44,1,1,0.35,1.09,4.0,11.0,11.0,4.0,1.09,44.0,0.05,side
+"The Tragedy of Hamlet, Prince of Denmark",BERNARDO,23,38,2,1,2.0,0.94,11.5,1.65,1.65,11.5,0.94,38.0,0.1,main
+"The Tragedy of Hamlet, Prince of Denmark",PLAYER QUEEN,5,30,1,1,0.43,0.75,5.0,6.0,6.0,5.0,0.75,30.0,0.05,side
+"The Tragedy of Hamlet, Prince of Denmark",PRINCE FORTINBRAS,6,27,2,2,0.52,0.67,3.0,4.5,4.5,3.0,0.67,13.5,0.1,side
+"The Tragedy of Hamlet, Prince of Denmark",GENTLEMAN,3,24,1,1,0.26,0.6,3.0,8.0,8.0,3.0,0.6,24.0,0.05,side
+"The Tragedy of Hamlet, Prince of Denmark",VOLTIMAND,2,22,2,2,0.17,0.55,1.0,11.0,11.0,1.0,0.55,11.0,0.1,main
+"The Tragedy of Hamlet, Prince of Denmark",SECOND CLOWN,12,18,1,1,1.04,0.45,12.0,1.5,1.5,12.0,0.45,18.0,0.05,side
+"The Tragedy of Hamlet, Prince of Denmark",REYNALDO,13,15,1,1,1.13,0.37,13.0,1.15,1.15,13.0,0.37,15.0,0.05,main
+"The Tragedy of Hamlet, Prince of Denmark",FIRST PRIEST,2,13,1,1,0.17,0.32,2.0,6.5,6.5,2.0,0.32,13.0,0.05,side
+"The Tragedy of Hamlet, Prince of Denmark",CAPTAIN,7,12,1,1,0.61,0.3,7.0,1.71,1.71,7.0,0.3,12.0,0.05,side
+"The Tragedy of Hamlet, Prince of Denmark",FRANCISCO,8,10,1,1,0.7,0.25,8.0,1.25,1.25,8.0,0.25,10.0,0.05,main
+"The Tragedy of Hamlet, Prince of Denmark",LORD,3,7,1,1,0.26,0.17,3.0,2.33,2.33,3.0,0.17,7.0,0.05,side
+"The Tragedy of Hamlet, Prince of Denmark",LUCIANUS,1,6,1,1,0.09,0.15,1.0,6.0,6.0,1.0,0.15,6.0,0.05,main
+"The Tragedy of Hamlet, Prince of Denmark",FIRST AMBASSADOR,1,6,1,1,0.09,0.15,1.0,6.0,6.0,1.0,0.15,6.0,0.05,side
+"The Tragedy of Hamlet, Prince of Denmark",MESSENGER,2,5,1,1,0.17,0.12,2.0,2.5,2.5,2.0,0.12,5.0,0.05,side
+"The Tragedy of Hamlet, Prince of Denmark",FIRST SAILOR,2,5,1,1,0.17,0.12,2.0,2.5,2.5,2.0,0.12,5.0,0.05,side
+"The Tragedy of Hamlet, Prince of Denmark",ALL,4,4,4,3,0.35,0.1,1.0,1.0,1.0,1.0,0.1,1.33,0.2,side
+"The Tragedy of Hamlet, Prince of Denmark",DANES,3,3,1,1,0.26,0.07,3.0,1.0,1.0,3.0,0.07,3.0,0.05,side
+"The Tragedy of Hamlet, Prince of Denmark",PROLOGUE,1,3,1,1,0.09,0.07,1.0,3.0,3.0,1.0,0.07,3.0,0.05,side
+"The Tragedy of Hamlet, Prince of Denmark",CORNELIUS,1,1,1,1,0.09,0.02,1.0,1.0,1.0,1.0,0.02,1.0,0.05,main
+"The Tragedy of Hamlet, Prince of Denmark",SERVANT,1,1,1,1,0.09,0.02,1.0,1.0,1.0,1.0,0.02,1.0,0.05,side
+The Tragedy of Macbeth,MACBETH,146,719,15,5,22.46,30.13,9.73,4.92,4.92,9.73,30.13,143.8,0.54,main
+The Tragedy of Macbeth,LADY MACBETH,59,265,9,4,9.08,11.11,6.56,4.49,4.49,6.56,11.11,66.25,0.32,main
+The Tragedy of Macbeth,MALCOLM,40,212,8,4,6.15,8.89,5.0,5.3,5.3,5.0,8.89,53.0,0.29,main
+The Tragedy of Macbeth,MACDUFF,59,180,7,3,9.08,7.54,8.43,3.05,3.05,8.43,7.54,60.0,0.25,main
+The Tragedy of Macbeth,ROSS,39,135,7,5,6.0,5.66,5.57,3.46,3.46,5.57,5.66,27.0,0.25,main
+The Tragedy of Macbeth,BANQUO,33,113,7,3,5.08,4.74,4.71,3.42,3.42,4.71,4.74,37.67,0.25,main
+The Tragedy of Macbeth,LENNOX,22,74,6,5,3.38,3.1,3.67,3.36,3.36,3.67,3.1,14.8,0.21,main
+The Tragedy of Macbeth,DUNCAN,18,70,3,1,2.77,2.93,6.0,3.89,3.89,6.0,2.93,70.0,0.11,main
+The Tragedy of Macbeth,FIRST WITCH,23,62,4,3,3.54,2.6,5.75,2.7,2.7,5.75,2.6,20.67,0.14,side
+The Tragedy of Macbeth,PORTER,4,46,1,1,0.62,1.93,4.0,11.5,11.5,4.0,1.93,46.0,0.04,side
+The Tragedy of Macbeth,DOCTOR,20,45,3,2,3.08,1.89,6.67,2.25,2.25,6.67,1.89,22.5,0.11,side
+The Tragedy of Macbeth,LADY MACDUFF,19,41,1,1,2.92,1.72,19.0,2.16,2.16,19.0,1.72,41.0,0.04,main
+The Tragedy of Macbeth,HECATE,2,39,2,2,0.31,1.63,1.0,19.5,19.5,1.0,1.63,19.5,0.07,main
+The Tragedy of Macbeth,SERGEANT,3,35,1,1,0.46,1.47,3.0,11.67,11.67,3.0,1.47,35.0,0.04,side
+The Tragedy of Macbeth,SIWARD,11,30,4,1,1.69,1.26,2.75,2.73,2.73,2.75,1.26,30.0,0.14,main
+The Tragedy of Macbeth,FIRST MURDERER,19,30,4,2,2.92,1.26,4.75,1.58,1.58,4.75,1.26,15.0,0.14,side
+The Tragedy of Macbeth,SECOND WITCH,15,27,3,2,2.31,1.13,5.0,1.8,1.8,5.0,1.13,13.5,0.11,side
+The Tragedy of Macbeth,THIRD WITCH,13,27,3,2,2.0,1.13,4.33,2.08,2.08,4.33,1.13,13.5,0.11,side
+The Tragedy of Macbeth,ALL,13,24,5,4,2.0,1.01,2.6,1.85,1.85,2.6,1.01,6.0,0.18,side
+The Tragedy of Macbeth,GENTLEWOMAN,11,23,1,1,1.69,0.96,11.0,2.09,2.09,11.0,0.96,23.0,0.04,side
+The Tragedy of Macbeth,MESSENGER,6,23,3,3,0.92,0.96,2.0,3.83,3.83,2.0,0.96,7.67,0.11,side
+The Tragedy of Macbeth,ANGUS,4,21,2,2,0.62,0.88,2.0,5.25,5.25,2.0,0.88,10.5,0.07,main
+The Tragedy of Macbeth,LORD,3,21,1,1,0.46,0.88,3.0,7.0,7.0,3.0,0.88,21.0,0.04,side
+The Tragedy of Macbeth,SON,14,20,1,1,2.15,0.84,14.0,1.43,1.43,14.0,0.84,20.0,0.04,side
+The Tragedy of Macbeth,SECOND MURDERER,6,15,2,1,0.92,0.63,3.0,2.5,2.5,3.0,0.63,15.0,0.07,side
+The Tragedy of Macbeth,MENTEITH,5,12,2,1,0.77,0.5,2.5,2.4,2.4,2.5,0.5,12.0,0.07,main
+The Tragedy of Macbeth,OLD MAN,4,11,1,1,0.62,0.46,4.0,2.75,2.75,4.0,0.46,11.0,0.04,side
+The Tragedy of Macbeth,CAITHNESS,3,11,1,1,0.46,0.46,3.0,3.67,3.67,3.0,0.46,11.0,0.04,main
+The Tragedy of Macbeth,DONALBAIN,3,10,1,1,0.46,0.42,3.0,3.33,3.33,3.0,0.42,10.0,0.04,main
+The Tragedy of Macbeth,THIRD MURDERER,6,8,1,1,0.92,0.34,6.0,1.33,1.33,6.0,0.34,8.0,0.04,side
+The Tragedy of Macbeth,YOUNG SIWARD,4,7,1,1,0.62,0.29,4.0,1.75,1.75,4.0,0.29,7.0,0.04,main
+The Tragedy of Macbeth,SERVANT,5,5,2,2,0.77,0.21,2.5,1.0,1.0,2.5,0.21,2.5,0.07,side
+The Tragedy of Macbeth,SEYTON,5,5,2,1,0.77,0.21,2.5,1.0,1.0,2.5,0.21,5.0,0.07,main
+The Tragedy of Macbeth,THIRD APPARITION,1,5,1,1,0.15,0.21,1.0,5.0,5.0,1.0,0.21,5.0,0.04,side
+The Tragedy of Macbeth,SECOND APPARITION,2,4,1,1,0.31,0.17,2.0,2.0,2.0,2.0,0.17,4.0,0.04,side
+The Tragedy of Macbeth,LORDS,3,3,1,1,0.46,0.13,3.0,1.0,1.0,3.0,0.13,3.0,0.04,side
+The Tragedy of Macbeth,BOTH MURDERERS,2,2,1,1,0.31,0.08,2.0,1.0,1.0,2.0,0.08,2.0,0.04,side
+The Tragedy of Macbeth,FIRST APPARITION,1,2,1,1,0.15,0.08,1.0,2.0,2.0,1.0,0.08,2.0,0.04,side
+The Tragedy of Macbeth,FLEANCE,2,2,1,1,0.31,0.08,2.0,1.0,1.0,2.0,0.08,2.0,0.04,main
+The Tragedy of Macbeth,SOLDIERS,1,1,1,1,0.15,0.04,1.0,1.0,1.0,1.0,0.04,1.0,0.04,side
+The Tragedy of Macbeth,ATTENDANT,1,1,1,1,0.15,0.04,1.0,1.0,1.0,1.0,0.04,1.0,0.04,side
+The Tragedy of Romeo and Juliet,ROMEO,163,612,14,4,19.43,19.97,11.64,3.75,3.75,11.64,19.97,153.0,0.58,main
+The Tragedy of Romeo and Juliet,JULIET,118,544,11,5,14.06,17.75,10.73,4.61,4.61,10.73,17.75,108.8,0.46,main
+The Tragedy of Romeo and Juliet,FRIAR LAURENCE,55,351,7,4,6.56,11.45,7.86,6.38,6.38,7.86,11.45,87.75,0.29,main
+The Tragedy of Romeo and Juliet,NURSE,90,281,12,4,5.364999999999999,4.579999999999999,4.545,6.03,6.03,4.545,4.579999999999999,38.5,0.25,side
+The Tragedy of Romeo and Juliet,CAPULET,50,273,9,4,5.96,8.91,5.56,5.46,5.46,5.56,8.91,68.25,0.38,main
+The Tragedy of Romeo and Juliet,MERCUTIO,62,261,4,3,7.39,8.52,15.5,4.21,4.21,15.5,8.52,87.0,0.17,main
+The Tragedy of Romeo and Juliet,BENVOLIO,64,160,7,3,7.63,5.22,9.14,2.5,2.5,9.14,5.22,53.33,0.29,main
+The Tragedy of Romeo and Juliet,LADY CAPULET,45,115,11,4,2.68,1.88,2.7,2.285,2.285,2.7,1.88,15.125,0.22999999999999998,main
+The Tragedy of Romeo and Juliet,PRINCE,16,76,3,3,1.91,2.48,5.33,4.75,4.75,5.33,2.48,25.33,0.12,side
+The Tragedy of Romeo and Juliet,PARIS,23,70,5,4,2.74,2.28,4.6,3.04,3.04,4.6,2.28,17.5,0.21,main
+The Tragedy of Romeo and Juliet,MONTAGUE,10,41,3,3,1.19,1.34,3.33,4.1,4.1,3.33,1.34,13.67,0.12,main
+The Tragedy of Romeo and Juliet,TYBALT,17,36,3,2,2.03,1.17,5.67,2.12,2.12,5.67,1.17,18.0,0.12,main
+The Tragedy of Romeo and Juliet,PETER,13,33,2,2,1.55,1.08,6.5,2.54,2.54,6.5,1.08,16.5,0.08,main
+The Tragedy of Romeo and Juliet,BALTHASAR,12,32,2,1,1.43,1.04,6.0,2.67,2.67,6.0,1.04,32.0,0.08,main
+The Tragedy of Romeo and Juliet,SAMPSON,20,31,1,1,2.38,1.01,20.0,1.55,1.55,20.0,1.01,31.0,0.04,main
+The Tragedy of Romeo and Juliet,SERVANT,10,23,3,1,1.19,0.75,3.33,2.3,2.3,3.33,0.75,23.0,0.12,side
+The Tragedy of Romeo and Juliet,GREGORY,15,20,1,1,1.79,0.65,15.0,1.33,1.33,15.0,0.65,20.0,0.04,main
+The Tragedy of Romeo and Juliet,FIRST WATCHMAN,6,19,1,1,0.72,0.62,6.0,3.17,3.17,6.0,0.62,19.0,0.04,side
+The Tragedy of Romeo and Juliet,FRIAR JOHN,4,13,1,1,0.48,0.42,4.0,3.25,3.25,4.0,0.42,13.0,0.04,main
+The Tragedy of Romeo and Juliet,SECOND SERVANT,6,12,3,2,0.72,0.39,2.0,2.0,2.0,2.0,0.39,6.0,0.12,side
+The Tragedy of Romeo and Juliet,FIRST SERVANT,4,10,2,2,0.48,0.33,2.0,2.5,2.5,2.0,0.33,5.0,0.08,side
+The Tragedy of Romeo and Juliet,PAGE,4,9,1,1,0.48,0.29,4.0,2.25,2.25,4.0,0.29,9.0,0.04,side
+The Tragedy of Romeo and Juliet,FIRST MUSICIAN,9,9,1,1,1.07,0.29,9.0,1.0,1.0,9.0,0.29,9.0,0.04,side
+The Tragedy of Romeo and Juliet,APOTHECARY,4,7,1,1,0.48,0.23,4.0,1.75,1.75,4.0,0.23,7.0,0.04,side
+The Tragedy of Romeo and Juliet,FIRST CITIZEN,3,6,2,2,0.36,0.2,1.5,2.0,2.0,1.5,0.2,3.0,0.08,side
+The Tragedy of Romeo and Juliet,ABRAHAM,5,5,1,1,0.6,0.16,5.0,1.0,1.0,5.0,0.16,5.0,0.04,main
+The Tragedy of Romeo and Juliet,SECOND MUSICIAN,3,4,1,1,0.36,0.13,3.0,1.33,1.33,3.0,0.13,4.0,0.04,side
+The Tragedy of Romeo and Juliet,SECOND CAPULET,2,3,1,1,0.24,0.1,2.0,1.5,1.5,2.0,0.1,3.0,0.04,side
+The Tragedy of Romeo and Juliet,LADY MONTAGUE,2,3,1,1,0.24,0.1,2.0,1.5,1.5,2.0,0.1,3.0,0.04,main
+The Tragedy of Romeo and Juliet,THIRD WATCHMAN,1,3,1,1,0.12,0.1,1.0,3.0,3.0,1.0,0.1,3.0,0.04,side
+The Tragedy of Romeo and Juliet,MUSICIAN,1,1,1,1,0.12,0.03,1.0,1.0,1.0,1.0,0.03,1.0,0.04,side
+The Tragedy of Romeo and Juliet,SECOND WATCHMAN,1,1,1,1,0.12,0.03,1.0,1.0,1.0,1.0,0.03,1.0,0.04,side
+The Tragedy of Romeo and Juliet,THIRD MUSICIAN,1,1,1,1,0.12,0.03,1.0,1.0,1.0,1.0,0.03,1.0,0.04,side

@@ -1,6 +1,11 @@
 import nltk
+from collections import defaultdict
+import pandas as pd
 
 
+# -----------------------------------------------
+# 1. Extract character data
+# -----------------------------------------------
 def extract_charcs_xml(lit_work: list, print_charcs=False):
     main_charcs = []
     side_charcs = []
@@ -14,80 +19,66 @@ def extract_charcs_xml(lit_work: list, print_charcs=False):
             if lines and "Dramatis Personae" in lines[0]:
                 lines.pop(0)
 
-            group = []  # stores consecutive uppercase names
+            group = []
 
             for line in lines:
-                # Case 1: fully uppercase line (part of a grouped name block)
                 if line.isupper():
                     group.append(line)
                     continue
 
-                # Case 2: description following a group of uppercase names
                 if group:
                     desc = line.strip(". ")
                     prefix = "(of the group) " if len(group) > 1 else ""
                     for name in group:
-                        main_charcs.append({
-                            "name": name,
-                            "desc": prefix + desc
-                        })
+                        main_charcs.append({"name": name, "desc": prefix + desc})
                     group = []
                     continue
 
-                # Case 3: single-line entry (name + comma + desc)
                 if "," in line:
                     name_part, desc_part = line.split(",", 1)
                     name_part, desc_part = name_part.strip(), desc_part.strip(". ")
-
-                    # If the first "word" is ALL CAPS, treat as main character.
                     first_word = name_part.split()[0]
                     if first_word.isupper():
-                        main_charcs.append({
-                            "name": name_part,
-                            "desc": desc_part
-                        })
+                        main_charcs.append({"name": name_part, "desc": desc_part})
                     else:
                         side_charcs.append({"desc": line.strip(". ")})
                     continue
 
-                # Case 4: other lines (no comma)
                 first_word = line.split()[0]
                 if first_word.isupper():
                     main_charcs.append({"name": line, "desc": ""})
                 else:
                     side_charcs.append({"desc": line.strip(". ")})
 
-            # Handle any leftover uppercase names
             for name in group:
                 main_charcs.append({"name": name, "desc": ""})
 
     if print_charcs:
-        # -------- Output --------
-        print("="*50)
+        print("=" * 50)
         print(f"{title}")
-        print("="*50)
+        print("=" * 50)
         print("Main Characters:")
         for c in main_charcs:
             print(f" - {c['name']}: {c['desc']}")
-
         print("\nSide Characters:")
         for c in side_charcs:
             print(f" - {c['desc']}")
-
         print("\n\n")
-    
+
     return main_charcs, side_charcs
 
 
+# -----------------------------------------------
+# 2. Parse play XML
+# -----------------------------------------------
 def parse_play_xml(xml_tree):
     """
     Parses a Shakespeare XML play into a structured dictionary.
-    Includes characters, acts, scenes, and per-scene speech + line counts.
+    Includes acts, scenes, and per-scene speech + line counts.
     """
     root = xml_tree
     title = root.find('.//TITLE').text if root.find('.//TITLE') is not None else "Unknown Title"
 
-    # --- Extract characters ---
     chars = root.findall('.//PERSONA')
     group_chars = root.findall('.//PGROUP')
     acts = root.findall('.//ACT')
@@ -106,10 +97,7 @@ def parse_play_xml(xml_tree):
                         "desc": desc.strip()
                     })
             else:
-                main_characters.append({
-                    "name": l,
-                    "desc": ""
-                })
+                main_characters.append({"name": l, "desc": ""})
 
     group_characters = []
     for gchar in group_chars:
@@ -125,34 +113,31 @@ def parse_play_xml(xml_tree):
                     "group_desc": f"(in group) {desc}"
                 })
 
-    # --- Extract acts, scenes, and speech/line counts ---
+    # --- Extract acts, scenes, and counts ---
     act_data = []
     for act_i, act in enumerate(acts, start=1):
         scenes = act.findall('.//SCENE')
         scene_data = []
 
         for scene_i, scene in enumerate(scenes, start=1):
-            speech_stats = {}  # {speaker_name: {"speeches": n, "lines": n}}
+            speech_stats = {}
             speakers = []
 
             for speech in scene.findall('.//SPEECH'):
-                # Count lines in this speech
                 line_count = len(speech.findall('.//LINE'))
-                # There may be multiple speakers (shared speeches)
                 for s in speech.findall('.//SPEAKER'):
                     if not s.text:
                         continue
                     name = s.text.strip()
                     speakers.append(name)
 
-                    # initialize if not present
                     if name not in speech_stats:
-                        speech_stats[name] = {"speeches": 0, "lines": 0}
+                        speech_stats[name] = {"speeches": 0, "lines": 0, "acts": set()}
 
                     speech_stats[name]["speeches"] += 1
                     speech_stats[name]["lines"] += line_count
+                    speech_stats[name]["acts"].add(act_i)
 
-            # Build scene data
             unique_speakers = sorted(set(speakers))
             scene_data.append({
                 "scene": scene_i,
@@ -160,7 +145,8 @@ def parse_play_xml(xml_tree):
                     {
                         "name": spkr,
                         "speech_count": speech_stats.get(spkr, {}).get("speeches", 0),
-                        "line_count": speech_stats.get(spkr, {}).get("lines", 0)
+                        "line_count": speech_stats.get(spkr, {}).get("lines", 0),
+                        "acts_appeared": len(speech_stats.get(spkr, {}).get("acts", set()))
                     }
                     for spkr in unique_speakers
                 ]
@@ -179,14 +165,10 @@ def parse_play_xml(xml_tree):
     }
 
 
-
+# -----------------------------------------------
+# 3. Merge data
+# -----------------------------------------------
 def merge_play_data(parsed_play, main_charcs, side_charcs):
-    """
-    Merges the outputs of extract_charcs_xml() and parse_play()
-    into a single structure with character descriptions attached
-    to each scene's speakers.
-    """
-    # --- Build a lookup dictionary for quick name → description ---
     char_map = {}
 
     for c in main_charcs:
@@ -198,12 +180,10 @@ def merge_play_data(parsed_play, main_charcs, side_charcs):
         if name:
             char_map[name] = c.get("desc", "")
         else:
-            # side characters without explicit names
             desc = c.get("desc", "")
             if desc:
                 char_map[desc.upper()] = desc
 
-    # --- Merge character descriptions into parsed play data ---
     merged_acts = []
     for act in parsed_play["acts"]:
         act_entry = {"act": act["act"], "scenes": []}
@@ -214,6 +194,8 @@ def merge_play_data(parsed_play, main_charcs, side_charcs):
                 speakers.append({
                     "name": s["name"],
                     "speech_count": s.get("speech_count", 0),
+                    "line_count": s.get("line_count", 0),
+                    "acts_appeared": s.get("acts_appeared", 0),
                     "desc": char_map.get(name, "(no description found)")
                 })
             act_entry["scenes"].append({
@@ -222,7 +204,6 @@ def merge_play_data(parsed_play, main_charcs, side_charcs):
             })
         merged_acts.append(act_entry)
 
-    # --- Return unified structure ---
     return {
         "title": parsed_play.get("title", "Unknown Play"),
         "acts": merged_acts,
@@ -230,98 +211,170 @@ def merge_play_data(parsed_play, main_charcs, side_charcs):
     }
 
 
+# -----------------------------------------------
+# 4. Summarize quantitative metrics
+# -----------------------------------------------
+from dataclasses import dataclass, field
 from collections import defaultdict
 import pandas as pd
 
+@dataclass
+class CharStats:
+    speeches: int = 0
+    lines: int = 0
+    scenes: int = 0
+    acts: set[int] = field(default_factory=set)
+
+
 def summarize_play_stats(merged_play, main_charcs=None, side_charcs=None, print_summary=True):
-    """
-    Summarizes quantitative statistics from a merged Shakespeare play.
-    Designed for Tableau export (no visualization here).
-
-    Args:
-        merged_play : dict from merge_play_data()
-        main_charcs : list of main characters (from extract_charcs_xml)
-        side_charcs : list of side characters (from extract_charcs_xml)
-        print_summary : whether to print summary stats
-
-    Returns:
-        dict containing:
-            - play_title
-            - total_acts
-            - total_scenes
-            - total_speeches
-            - act_speech_totals
-            - main_side_ratio
-            - character_df (DataFrame)
-    """
-
-    totals = defaultdict(lambda: {"speeches": 0, "scenes": 0})
+    """Summarizes quantitative statistics from a merged Shakespeare play."""
+    totals: dict[str, CharStats] = defaultdict(CharStats)
     total_speeches = 0
+    total_lines = 0
     total_scenes = 0
-    act_speech_totals = {}
+    act_speech_totals: dict[int, int] = {}
 
-    # --- Tally speeches and scenes ---
+    # --- Collect totals ---
     for act in merged_play["acts"]:
+        act_index = act["act"]
         act_total = 0
         for scene in act["scenes"]:
             total_scenes += 1
             for s in scene["speakers"]:
                 name = s["name"]
-                count = s.get("speech_count", 0)
-                totals[name]["speeches"] += count
-                if count > 0:
-                    totals[name]["scenes"] += 1
-                total_speeches += count
-                act_total += count
-        act_speech_totals[act["act"]] = act_total
+                speeches = s.get("speech_count", 0)
+                lines = s.get("line_count", 0)
 
+                stats = totals[name]
+                stats.speeches += speeches
+                stats.lines += lines
+                stats.acts.add(act_index)
+                if speeches > 0 or lines > 0:
+                    stats.scenes += 1
+
+                total_speeches += speeches
+                total_lines += lines
+                act_total += speeches
+        act_speech_totals[act_index] = act_total
+
+    # --- Compute global totals ---
     total_acts = len(merged_play["acts"])
     main_count = len(main_charcs) if main_charcs else 0
     side_count = len(side_charcs) if side_charcs else 0
     main_side_ratio = f"{main_count}:{side_count}" if side_count else "N/A"
 
-    # --- Compute derived metrics ---
+    # --- Build DataFrame ---
     data = []
     for name, stats in totals.items():
-        speeches = stats["speeches"]
-        scenes = stats["scenes"]
-        share = (speeches / total_speeches * 100) if total_speeches > 0 else 0
+        acts_count = len(stats.acts)
+        speeches = stats.speeches
+        lines = stats.lines
+        scenes = stats.scenes
+
+        speech_share = (speeches / total_speeches * 100) if total_speeches > 0 else 0
+        line_share = (lines / total_lines * 100) if total_lines > 0 else 0
         avg_speeches_per_scene = speeches / scenes if scenes > 0 else 0
-        role_type = "main" if main_charcs and any(name.upper() == c["name"].upper() for c in main_charcs) else "side"
+        avg_lines_per_speech = lines / speeches if speeches > 0 else 0
+        scene_ratio = scenes / total_scenes if total_scenes > 0 else 0
+
+        verbosity = avg_lines_per_speech
+        talkativeness = avg_speeches_per_scene
+        dominance = line_share
+        focus = lines / acts_count if acts_count > 0 else 0
+        breadth = scene_ratio
+
+        role_type = "main" if main_charcs and any(
+            name.upper() == c["name"].upper() for c in main_charcs
+        ) else "side"
+
         data.append({
             "Play": merged_play["title"],
             "Character": name,
             "Total Speeches": speeches,
+            "Total Lines": lines,
             "Scenes Appeared": scenes,
-            "Speech Share (%)": round(share, 2),
+            "Acts Appeared": acts_count,
+            "Speech Share (%)": round(speech_share, 2),
+            "Line Share (%)": round(line_share, 2),
             "Avg Speeches/Scene": round(avg_speeches_per_scene, 2),
-            "Role Type": role_type
+            "Avg Lines/Speech": round(avg_lines_per_speech, 2),
+            "Verbosity": round(verbosity, 2),
+            "Talkativeness": round(talkativeness, 2),
+            "Dominance": round(dominance, 2),
+            "Focus (Lines/Act)": round(focus, 2),
+            "Breadth (Scene Ratio)": round(breadth, 2),
+            "Role Type": role_type,
+            "Acts (Total)": total_acts,
+            "Scenes (Total)": total_scenes,
+            "Speeches (Total)": total_speeches,
+            "Lines (Total)": total_lines,
+            "Main:Side Ratio": main_side_ratio
         })
 
-    df = pd.DataFrame(data).sort_values("Total Speeches", ascending=False)
+    # --- Normalize names (spacing + case) ---
+    for entry in data:
+        entry["Character"] = " ".join(entry["Character"].split()).strip().upper()
+
+    df = pd.DataFrame(data)
+
+    # --- Merge duplicates regardless of Role Type ---
+    agg_cols = {
+        "Total Speeches": "sum",
+        "Total Lines": "sum",
+        "Scenes Appeared": "sum",
+        "Acts Appeared": "max",
+        "Speech Share (%)": "mean",
+        "Line Share (%)": "mean",
+        "Avg Speeches/Scene": "mean",
+        "Avg Lines/Speech": "mean",
+        "Verbosity": "mean",
+        "Talkativeness": "mean",
+        "Dominance": "mean",
+        "Focus (Lines/Act)": "mean",
+        "Breadth (Scene Ratio)": "mean",
+    }
+
+    merged_df = (
+        df.groupby(["Play", "Character"], as_index=False)
+          .agg(agg_cols)
+    )
+
+    # Reassign Role Type: main if any entry for that character was main
+    role_map = (
+        df.groupby(["Play", "Character"])["Role Type"]
+          .apply(lambda x: "main" if "main" in x.values else "side")
+          .reset_index()
+    )
+
+    df = merged_df.merge(role_map, on=["Play", "Character"], how="left")
+    df = df.sort_values("Total Lines", ascending=False).reset_index(drop=True)
 
     summary = {
         "play_title": merged_play["title"],
         "total_acts": total_acts,
         "total_scenes": total_scenes,
         "total_speeches": total_speeches,
+        "total_lines": total_lines,
         "act_speech_totals": act_speech_totals,
         "main_side_ratio": main_side_ratio,
         "character_df": df
     }
 
-    # --- Optional text summary ---
+    # --- Optional printout ---
     if print_summary:
         print(f"\n{summary['play_title']}")
         print("=" * (len(summary['play_title']) + 3))
-        print(f"Acts: {total_acts} | Scenes: {total_scenes} | Total Speeches: {total_speeches}")
+        print(
+            f"Acts: {total_acts} | Scenes: {total_scenes} | "
+            f"Total Speeches: {total_speeches} | Total Lines: {total_lines}"
+        )
         print(f"Main: {main_count} | Side: {side_count} | Ratio: {main_side_ratio}\n")
 
         print("Act-level speech totals:")
         for act, total in act_speech_totals.items():
             print(f"  Act {act}: {total} speeches")
 
-        print("\nTop 10 characters by speeches:")
+        print("\nTop 10 characters by line count:")
         print(df.head(10).to_string(index=False))
 
     return summary
