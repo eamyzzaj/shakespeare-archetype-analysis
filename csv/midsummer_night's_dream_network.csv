@@ -1,0 +1,239 @@
+Play,Character A,Character B,Scenes Together,Scenes List,Acts Together,Scenes Together (IDs)
+A Midsummer Night's Dream,ALL,BOTTOM,2,"1.2, 3.1","1, 3","1, 2"
+A Midsummer Night's Dream,ALL,COBWEB,1,3.1,3,1
+A Midsummer Night's Dream,ALL,FLUTE,2,"1.2, 3.1","1, 3","1, 2"
+A Midsummer Night's Dream,ALL,MOTH,1,3.1,3,1
+A Midsummer Night's Dream,ALL,MUSTARDSEED,1,3.1,3,1
+A Midsummer Night's Dream,ALL,PEASEBLOSSOM,1,3.1,3,1
+A Midsummer Night's Dream,ALL,PUCK,1,3.1,3,1
+A Midsummer Night's Dream,ALL,QUINCE,2,"1.2, 3.1","1, 3","1, 2"
+A Midsummer Night's Dream,ALL,SNOUT,2,"1.2, 3.1","1, 3","1, 2"
+A Midsummer Night's Dream,ALL,SNUG,1,1.2,1,2
+A Midsummer Night's Dream,ALL,STARVELING,2,"1.2, 3.1","1, 3","1, 2"
+A Midsummer Night's Dream,ALL,TITANIA,1,3.1,3,1
+A Midsummer Night's Dream,BOTTOM,COBWEB,2,"3.1, 4.1","3, 4",1
+A Midsummer Night's Dream,BOTTOM,DEMETRIUS,2,"4.1, 5.1","4, 5",1
+A Midsummer Night's Dream,BOTTOM,EGEUS,1,4.1,4,1
+A Midsummer Night's Dream,BOTTOM,FLUTE,3,"1.2, 3.1, 4.2","1, 3, 4","1, 2"
+A Midsummer Night's Dream,BOTTOM,HELENA,1,4.1,4,1
+A Midsummer Night's Dream,BOTTOM,HERMIA,1,4.1,4,1
+A Midsummer Night's Dream,BOTTOM,HIPPOLYTA,2,"4.1, 5.1","4, 5",1
+A Midsummer Night's Dream,BOTTOM,LION,1,5.1,5,1
+A Midsummer Night's Dream,BOTTOM,LYSANDER,2,"4.1, 5.1","4, 5",1
+A Midsummer Night's Dream,BOTTOM,MOONSHINE,1,5.1,5,1
+A Midsummer Night's Dream,BOTTOM,MOTH,1,3.1,3,1
+A Midsummer Night's Dream,BOTTOM,MUSTARDSEED,2,"3.1, 4.1","3, 4",1
+A Midsummer Night's Dream,BOTTOM,OBERON,2,"4.1, 5.1","4, 5",1
+A Midsummer Night's Dream,BOTTOM,PEASEBLOSSOM,2,"3.1, 4.1","3, 4",1
+A Midsummer Night's Dream,BOTTOM,PHILOSTRATE,1,5.1,5,1
+A Midsummer Night's Dream,BOTTOM,PROLOGUE,1,5.1,5,1
+A Midsummer Night's Dream,BOTTOM,PUCK,3,"3.1, 4.1, 5.1","3, 4, 5",1
+A Midsummer Night's Dream,BOTTOM,PYRAMUS,1,5.1,5,1
+A Midsummer Night's Dream,BOTTOM,QUINCE,3,"1.2, 3.1, 4.2","1, 3, 4","1, 2"
+A Midsummer Night's Dream,BOTTOM,SNOUT,2,"1.2, 3.1","1, 3","1, 2"
+A Midsummer Night's Dream,BOTTOM,SNUG,2,"1.2, 4.2","1, 4",2
+A Midsummer Night's Dream,BOTTOM,STARVELING,3,"1.2, 3.1, 4.2","1, 3, 4","1, 2"
+A Midsummer Night's Dream,BOTTOM,THESEUS,2,"4.1, 5.1","4, 5",1
+A Midsummer Night's Dream,BOTTOM,THISBE,1,5.1,5,1
+A Midsummer Night's Dream,BOTTOM,TITANIA,3,"3.1, 4.1, 5.1","3, 4, 5",1
+A Midsummer Night's Dream,BOTTOM,WALL,1,5.1,5,1
+A Midsummer Night's Dream,COBWEB,DEMETRIUS,1,4.1,4,1
+A Midsummer Night's Dream,COBWEB,EGEUS,1,4.1,4,1
+A Midsummer Night's Dream,COBWEB,FLUTE,1,3.1,3,1
+A Midsummer Night's Dream,COBWEB,HELENA,1,4.1,4,1
+A Midsummer Night's Dream,COBWEB,HERMIA,1,4.1,4,1
+A Midsummer Night's Dream,COBWEB,HIPPOLYTA,1,4.1,4,1
+A Midsummer Night's Dream,COBWEB,LYSANDER,1,4.1,4,1
+A Midsummer Night's Dream,COBWEB,MOTH,1,3.1,3,1
+A Midsummer Night's Dream,COBWEB,MUSTARDSEED,2,"3.1, 4.1","3, 4",1
+A Midsummer Night's Dream,COBWEB,OBERON,1,4.1,4,1
+A Midsummer Night's Dream,COBWEB,PEASEBLOSSOM,2,"3.1, 4.1","3, 4",1
+A Midsummer Night's Dream,COBWEB,PUCK,2,"3.1, 4.1","3, 4",1
+A Midsummer Night's Dream,COBWEB,QUINCE,1,3.1,3,1
+A Midsummer Night's Dream,COBWEB,SNOUT,1,3.1,3,1
+A Midsummer Night's Dream,COBWEB,STARVELING,1,3.1,3,1
+A Midsummer Night's Dream,COBWEB,THESEUS,1,4.1,4,1
+A Midsummer Night's Dream,COBWEB,TITANIA,2,"3.1, 4.1","3, 4",1
+A Midsummer Night's Dream,DEMETRIUS,EGEUS,2,"1.1, 4.1","1, 4",1
+A Midsummer Night's Dream,DEMETRIUS,FAIRY,2,"2.1, 2.2",2,"1, 2"
+A Midsummer Night's Dream,DEMETRIUS,HELENA,5,"1.1, 2.1, 2.2, 3.2, 4.1","1, 2, 3, 4","1, 2"
+A Midsummer Night's Dream,DEMETRIUS,HERMIA,4,"1.1, 2.2, 3.2, 4.1","1, 2, 3, 4","1, 2"
+A Midsummer Night's Dream,DEMETRIUS,HERNIA,1,3.2,3,2
+A Midsummer Night's Dream,DEMETRIUS,HIPPOLYTA,3,"1.1, 4.1, 5.1","1, 4, 5",1
+A Midsummer Night's Dream,DEMETRIUS,LION,1,5.1,5,1
+A Midsummer Night's Dream,DEMETRIUS,LYSANDER,5,"1.1, 2.2, 3.2, 4.1, 5.1","1, 2, 3, 4, 5","1, 2"
+A Midsummer Night's Dream,DEMETRIUS,MOONSHINE,1,5.1,5,1
+A Midsummer Night's Dream,DEMETRIUS,MUSTARDSEED,1,4.1,4,1
+A Midsummer Night's Dream,DEMETRIUS,OBERON,5,"2.1, 2.2, 3.2, 4.1, 5.1","2, 3, 4, 5","1, 2"
+A Midsummer Night's Dream,DEMETRIUS,PEASEBLOSSOM,1,4.1,4,1
+A Midsummer Night's Dream,DEMETRIUS,PHILOSTRATE,1,5.1,5,1
+A Midsummer Night's Dream,DEMETRIUS,PROLOGUE,1,5.1,5,1
+A Midsummer Night's Dream,DEMETRIUS,PUCK,5,"2.1, 2.2, 3.2, 4.1, 5.1","2, 3, 4, 5","1, 2"
+A Midsummer Night's Dream,DEMETRIUS,PYRAMUS,1,5.1,5,1
+A Midsummer Night's Dream,DEMETRIUS,THESEUS,3,"1.1, 4.1, 5.1","1, 4, 5",1
+A Midsummer Night's Dream,DEMETRIUS,THISBE,1,5.1,5,1
+A Midsummer Night's Dream,DEMETRIUS,TITANIA,4,"2.1, 2.2, 4.1, 5.1","2, 4, 5","1, 2"
+A Midsummer Night's Dream,DEMETRIUS,WALL,1,5.1,5,1
+A Midsummer Night's Dream,EGEUS,HELENA,2,"1.1, 4.1","1, 4",1
+A Midsummer Night's Dream,EGEUS,HERMIA,2,"1.1, 4.1","1, 4",1
+A Midsummer Night's Dream,EGEUS,HIPPOLYTA,2,"1.1, 4.1","1, 4",1
+A Midsummer Night's Dream,EGEUS,LYSANDER,2,"1.1, 4.1","1, 4",1
+A Midsummer Night's Dream,EGEUS,MUSTARDSEED,1,4.1,4,1
+A Midsummer Night's Dream,EGEUS,OBERON,1,4.1,4,1
+A Midsummer Night's Dream,EGEUS,PEASEBLOSSOM,1,4.1,4,1
+A Midsummer Night's Dream,EGEUS,PUCK,1,4.1,4,1
+A Midsummer Night's Dream,EGEUS,THESEUS,2,"1.1, 4.1","1, 4",1
+A Midsummer Night's Dream,EGEUS,TITANIA,1,4.1,4,1
+A Midsummer Night's Dream,FAIRY,HELENA,2,"2.1, 2.2",2,"1, 2"
+A Midsummer Night's Dream,FAIRY,HERMIA,1,2.2,2,2
+A Midsummer Night's Dream,FAIRY,LYSANDER,1,2.2,2,2
+A Midsummer Night's Dream,FAIRY,OBERON,2,"2.1, 2.2",2,"1, 2"
+A Midsummer Night's Dream,FAIRY,PUCK,2,"2.1, 2.2",2,"1, 2"
+A Midsummer Night's Dream,FAIRY,TITANIA,2,"2.1, 2.2",2,"1, 2"
+A Midsummer Night's Dream,FLUTE,MOTH,1,3.1,3,1
+A Midsummer Night's Dream,FLUTE,MUSTARDSEED,1,3.1,3,1
+A Midsummer Night's Dream,FLUTE,PEASEBLOSSOM,1,3.1,3,1
+A Midsummer Night's Dream,FLUTE,PUCK,1,3.1,3,1
+A Midsummer Night's Dream,FLUTE,QUINCE,3,"1.2, 3.1, 4.2","1, 3, 4","1, 2"
+A Midsummer Night's Dream,FLUTE,SNOUT,2,"1.2, 3.1","1, 3","1, 2"
+A Midsummer Night's Dream,FLUTE,SNUG,2,"1.2, 4.2","1, 4",2
+A Midsummer Night's Dream,FLUTE,STARVELING,3,"1.2, 3.1, 4.2","1, 3, 4","1, 2"
+A Midsummer Night's Dream,FLUTE,TITANIA,1,3.1,3,1
+A Midsummer Night's Dream,HELENA,HERMIA,4,"1.1, 2.2, 3.2, 4.1","1, 2, 3, 4","1, 2"
+A Midsummer Night's Dream,HELENA,HERNIA,1,3.2,3,2
+A Midsummer Night's Dream,HELENA,HIPPOLYTA,2,"1.1, 4.1","1, 4",1
+A Midsummer Night's Dream,HELENA,LYSANDER,4,"1.1, 2.2, 3.2, 4.1","1, 2, 3, 4","1, 2"
+A Midsummer Night's Dream,HELENA,MUSTARDSEED,1,4.1,4,1
+A Midsummer Night's Dream,HELENA,OBERON,4,"2.1, 2.2, 3.2, 4.1","2, 3, 4","1, 2"
+A Midsummer Night's Dream,HELENA,PEASEBLOSSOM,1,4.1,4,1
+A Midsummer Night's Dream,HELENA,PUCK,4,"2.1, 2.2, 3.2, 4.1","2, 3, 4","1, 2"
+A Midsummer Night's Dream,HELENA,THESEUS,2,"1.1, 4.1","1, 4",1
+A Midsummer Night's Dream,HELENA,TITANIA,3,"2.1, 2.2, 4.1","2, 4","1, 2"
+A Midsummer Night's Dream,HERMIA,HERNIA,1,3.2,3,2
+A Midsummer Night's Dream,HERMIA,HIPPOLYTA,2,"1.1, 4.1","1, 4",1
+A Midsummer Night's Dream,HERMIA,LYSANDER,4,"1.1, 2.2, 3.2, 4.1","1, 2, 3, 4","1, 2"
+A Midsummer Night's Dream,HERMIA,MUSTARDSEED,1,4.1,4,1
+A Midsummer Night's Dream,HERMIA,OBERON,3,"2.2, 3.2, 4.1","2, 3, 4","1, 2"
+A Midsummer Night's Dream,HERMIA,PEASEBLOSSOM,1,4.1,4,1
+A Midsummer Night's Dream,HERMIA,PUCK,3,"2.2, 3.2, 4.1","2, 3, 4","1, 2"
+A Midsummer Night's Dream,HERMIA,THESEUS,2,"1.1, 4.1","1, 4",1
+A Midsummer Night's Dream,HERMIA,TITANIA,2,"2.2, 4.1","2, 4","1, 2"
+A Midsummer Night's Dream,HERNIA,LYSANDER,1,3.2,3,2
+A Midsummer Night's Dream,HERNIA,OBERON,1,3.2,3,2
+A Midsummer Night's Dream,HERNIA,PUCK,1,3.2,3,2
+A Midsummer Night's Dream,HIPPOLYTA,LION,1,5.1,5,1
+A Midsummer Night's Dream,HIPPOLYTA,LYSANDER,3,"1.1, 4.1, 5.1","1, 4, 5",1
+A Midsummer Night's Dream,HIPPOLYTA,MOONSHINE,1,5.1,5,1
+A Midsummer Night's Dream,HIPPOLYTA,MUSTARDSEED,1,4.1,4,1
+A Midsummer Night's Dream,HIPPOLYTA,OBERON,2,"4.1, 5.1","4, 5",1
+A Midsummer Night's Dream,HIPPOLYTA,PEASEBLOSSOM,1,4.1,4,1
+A Midsummer Night's Dream,HIPPOLYTA,PHILOSTRATE,1,5.1,5,1
+A Midsummer Night's Dream,HIPPOLYTA,PROLOGUE,1,5.1,5,1
+A Midsummer Night's Dream,HIPPOLYTA,PUCK,2,"4.1, 5.1","4, 5",1
+A Midsummer Night's Dream,HIPPOLYTA,PYRAMUS,1,5.1,5,1
+A Midsummer Night's Dream,HIPPOLYTA,THESEUS,3,"1.1, 4.1, 5.1","1, 4, 5",1
+A Midsummer Night's Dream,HIPPOLYTA,THISBE,1,5.1,5,1
+A Midsummer Night's Dream,HIPPOLYTA,TITANIA,2,"4.1, 5.1","4, 5",1
+A Midsummer Night's Dream,HIPPOLYTA,WALL,1,5.1,5,1
+A Midsummer Night's Dream,LION,LYSANDER,1,5.1,5,1
+A Midsummer Night's Dream,LION,MOONSHINE,1,5.1,5,1
+A Midsummer Night's Dream,LION,OBERON,1,5.1,5,1
+A Midsummer Night's Dream,LION,PHILOSTRATE,1,5.1,5,1
+A Midsummer Night's Dream,LION,PROLOGUE,1,5.1,5,1
+A Midsummer Night's Dream,LION,PUCK,1,5.1,5,1
+A Midsummer Night's Dream,LION,PYRAMUS,1,5.1,5,1
+A Midsummer Night's Dream,LION,THESEUS,1,5.1,5,1
+A Midsummer Night's Dream,LION,THISBE,1,5.1,5,1
+A Midsummer Night's Dream,LION,TITANIA,1,5.1,5,1
+A Midsummer Night's Dream,LION,WALL,1,5.1,5,1
+A Midsummer Night's Dream,LYSANDER,MOONSHINE,1,5.1,5,1
+A Midsummer Night's Dream,LYSANDER,MUSTARDSEED,1,4.1,4,1
+A Midsummer Night's Dream,LYSANDER,OBERON,4,"2.2, 3.2, 4.1, 5.1","2, 3, 4, 5","1, 2"
+A Midsummer Night's Dream,LYSANDER,PEASEBLOSSOM,1,4.1,4,1
+A Midsummer Night's Dream,LYSANDER,PHILOSTRATE,1,5.1,5,1
+A Midsummer Night's Dream,LYSANDER,PROLOGUE,1,5.1,5,1
+A Midsummer Night's Dream,LYSANDER,PUCK,4,"2.2, 3.2, 4.1, 5.1","2, 3, 4, 5","1, 2"
+A Midsummer Night's Dream,LYSANDER,PYRAMUS,1,5.1,5,1
+A Midsummer Night's Dream,LYSANDER,THESEUS,3,"1.1, 4.1, 5.1","1, 4, 5",1
+A Midsummer Night's Dream,LYSANDER,THISBE,1,5.1,5,1
+A Midsummer Night's Dream,LYSANDER,TITANIA,3,"2.2, 4.1, 5.1","2, 4, 5","1, 2"
+A Midsummer Night's Dream,LYSANDER,WALL,1,5.1,5,1
+A Midsummer Night's Dream,MOONSHINE,OBERON,1,5.1,5,1
+A Midsummer Night's Dream,MOONSHINE,PHILOSTRATE,1,5.1,5,1
+A Midsummer Night's Dream,MOONSHINE,PROLOGUE,1,5.1,5,1
+A Midsummer Night's Dream,MOONSHINE,PUCK,1,5.1,5,1
+A Midsummer Night's Dream,MOONSHINE,PYRAMUS,1,5.1,5,1
+A Midsummer Night's Dream,MOONSHINE,THESEUS,1,5.1,5,1
+A Midsummer Night's Dream,MOONSHINE,THISBE,1,5.1,5,1
+A Midsummer Night's Dream,MOONSHINE,TITANIA,1,5.1,5,1
+A Midsummer Night's Dream,MOONSHINE,WALL,1,5.1,5,1
+A Midsummer Night's Dream,MOTH,MUSTARDSEED,1,3.1,3,1
+A Midsummer Night's Dream,MOTH,PEASEBLOSSOM,1,3.1,3,1
+A Midsummer Night's Dream,MOTH,PUCK,1,3.1,3,1
+A Midsummer Night's Dream,MOTH,QUINCE,1,3.1,3,1
+A Midsummer Night's Dream,MOTH,SNOUT,1,3.1,3,1
+A Midsummer Night's Dream,MOTH,STARVELING,1,3.1,3,1
+A Midsummer Night's Dream,MOTH,TITANIA,1,3.1,3,1
+A Midsummer Night's Dream,MUSTARDSEED,OBERON,1,4.1,4,1
+A Midsummer Night's Dream,MUSTARDSEED,PEASEBLOSSOM,2,"3.1, 4.1","3, 4",1
+A Midsummer Night's Dream,MUSTARDSEED,PUCK,2,"3.1, 4.1","3, 4",1
+A Midsummer Night's Dream,MUSTARDSEED,QUINCE,1,3.1,3,1
+A Midsummer Night's Dream,MUSTARDSEED,SNOUT,1,3.1,3,1
+A Midsummer Night's Dream,MUSTARDSEED,STARVELING,1,3.1,3,1
+A Midsummer Night's Dream,MUSTARDSEED,THESEUS,1,4.1,4,1
+A Midsummer Night's Dream,MUSTARDSEED,TITANIA,2,"3.1, 4.1","3, 4",1
+A Midsummer Night's Dream,OBERON,PEASEBLOSSOM,1,4.1,4,1
+A Midsummer Night's Dream,OBERON,PHILOSTRATE,1,5.1,5,1
+A Midsummer Night's Dream,OBERON,PROLOGUE,1,5.1,5,1
+A Midsummer Night's Dream,OBERON,PUCK,5,"2.1, 2.2, 3.2, 4.1, 5.1","2, 3, 4, 5","1, 2"
+A Midsummer Night's Dream,OBERON,PYRAMUS,1,5.1,5,1
+A Midsummer Night's Dream,OBERON,THESEUS,2,"4.1, 5.1","4, 5",1
+A Midsummer Night's Dream,OBERON,THISBE,1,5.1,5,1
+A Midsummer Night's Dream,OBERON,TITANIA,4,"2.1, 2.2, 4.1, 5.1","2, 4, 5","1, 2"
+A Midsummer Night's Dream,OBERON,WALL,1,5.1,5,1
+A Midsummer Night's Dream,PEASEBLOSSOM,PUCK,2,"3.1, 4.1","3, 4",1
+A Midsummer Night's Dream,PEASEBLOSSOM,QUINCE,1,3.1,3,1
+A Midsummer Night's Dream,PEASEBLOSSOM,SNOUT,1,3.1,3,1
+A Midsummer Night's Dream,PEASEBLOSSOM,STARVELING,1,3.1,3,1
+A Midsummer Night's Dream,PEASEBLOSSOM,THESEUS,1,4.1,4,1
+A Midsummer Night's Dream,PEASEBLOSSOM,TITANIA,2,"3.1, 4.1","3, 4",1
+A Midsummer Night's Dream,PHILOSTRATE,PROLOGUE,1,5.1,5,1
+A Midsummer Night's Dream,PHILOSTRATE,PUCK,1,5.1,5,1
+A Midsummer Night's Dream,PHILOSTRATE,PYRAMUS,1,5.1,5,1
+A Midsummer Night's Dream,PHILOSTRATE,THESEUS,1,5.1,5,1
+A Midsummer Night's Dream,PHILOSTRATE,THISBE,1,5.1,5,1
+A Midsummer Night's Dream,PHILOSTRATE,TITANIA,1,5.1,5,1
+A Midsummer Night's Dream,PHILOSTRATE,WALL,1,5.1,5,1
+A Midsummer Night's Dream,PROLOGUE,PUCK,1,5.1,5,1
+A Midsummer Night's Dream,PROLOGUE,PYRAMUS,1,5.1,5,1
+A Midsummer Night's Dream,PROLOGUE,THESEUS,1,5.1,5,1
+A Midsummer Night's Dream,PROLOGUE,THISBE,1,5.1,5,1
+A Midsummer Night's Dream,PROLOGUE,TITANIA,1,5.1,5,1
+A Midsummer Night's Dream,PROLOGUE,WALL,1,5.1,5,1
+A Midsummer Night's Dream,PUCK,PYRAMUS,1,5.1,5,1
+A Midsummer Night's Dream,PUCK,QUINCE,1,3.1,3,1
+A Midsummer Night's Dream,PUCK,SNOUT,1,3.1,3,1
+A Midsummer Night's Dream,PUCK,STARVELING,1,3.1,3,1
+A Midsummer Night's Dream,PUCK,THESEUS,2,"4.1, 5.1","4, 5",1
+A Midsummer Night's Dream,PUCK,THISBE,1,5.1,5,1
+A Midsummer Night's Dream,PUCK,TITANIA,5,"2.1, 2.2, 3.1, 4.1, 5.1","2, 3, 4, 5","1, 2"
+A Midsummer Night's Dream,PUCK,WALL,1,5.1,5,1
+A Midsummer Night's Dream,PYRAMUS,THESEUS,1,5.1,5,1
+A Midsummer Night's Dream,PYRAMUS,THISBE,1,5.1,5,1
+A Midsummer Night's Dream,PYRAMUS,TITANIA,1,5.1,5,1
+A Midsummer Night's Dream,PYRAMUS,WALL,1,5.1,5,1
+A Midsummer Night's Dream,QUINCE,SNOUT,2,"1.2, 3.1","1, 3","1, 2"
+A Midsummer Night's Dream,QUINCE,SNUG,2,"1.2, 4.2","1, 4",2
+A Midsummer Night's Dream,QUINCE,STARVELING,3,"1.2, 3.1, 4.2","1, 3, 4","1, 2"
+A Midsummer Night's Dream,QUINCE,TITANIA,1,3.1,3,1
+A Midsummer Night's Dream,SNOUT,SNUG,1,1.2,1,2
+A Midsummer Night's Dream,SNOUT,STARVELING,2,"1.2, 3.1","1, 3","1, 2"
+A Midsummer Night's Dream,SNOUT,TITANIA,1,3.1,3,1
+A Midsummer Night's Dream,SNUG,STARVELING,2,"1.2, 4.2","1, 4",2
+A Midsummer Night's Dream,STARVELING,TITANIA,1,3.1,3,1
+A Midsummer Night's Dream,THESEUS,THISBE,1,5.1,5,1
+A Midsummer Night's Dream,THESEUS,TITANIA,2,"4.1, 5.1","4, 5",1
+A Midsummer Night's Dream,THESEUS,WALL,1,5.1,5,1
+A Midsummer Night's Dream,THISBE,TITANIA,1,5.1,5,1
+A Midsummer Night's Dream,THISBE,WALL,1,5.1,5,1
+A Midsummer Night's Dream,TITANIA,WALL,1,5.1,5,1

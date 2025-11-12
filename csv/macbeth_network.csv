@@ -1,0 +1,189 @@
+Play,Character A,Character B,Scenes Together,Scenes List,Acts Together,Scenes Together (IDs)
+The Tragedy of Macbeth,ALL,ANGUS,1,1.3,1,3
+The Tragedy of Macbeth,ALL,BANQUO,2,"1.3, 2.3","1, 2",3
+The Tragedy of Macbeth,ALL,DONALBAIN,1,2.3,2,3
+The Tragedy of Macbeth,ALL,FIRST APPARITION,1,4.1,4,1
+The Tragedy of Macbeth,ALL,FIRST WITCH,3,"1.1, 1.3, 4.1","1, 4","1, 3"
+The Tragedy of Macbeth,ALL,HECATE,1,4.1,4,1
+The Tragedy of Macbeth,ALL,LADY MACBETH,1,2.3,2,3
+The Tragedy of Macbeth,ALL,LENNOX,2,"2.3, 4.1","2, 4","1, 3"
+The Tragedy of Macbeth,ALL,MACBETH,4,"1.3, 2.3, 4.1, 5.8","1, 2, 4, 5","1, 3, 8"
+The Tragedy of Macbeth,ALL,MACDUFF,2,"2.3, 5.8","2, 5","3, 8"
+The Tragedy of Macbeth,ALL,MALCOLM,2,"2.3, 5.8","2, 5","3, 8"
+The Tragedy of Macbeth,ALL,PORTER,1,2.3,2,3
+The Tragedy of Macbeth,ALL,ROSS,2,"1.3, 5.8","1, 5","3, 8"
+The Tragedy of Macbeth,ALL,SECOND APPARITION,1,4.1,4,1
+The Tragedy of Macbeth,ALL,SECOND WITCH,3,"1.1, 1.3, 4.1","1, 4","1, 3"
+The Tragedy of Macbeth,ALL,SIWARD,1,5.8,5,8
+The Tragedy of Macbeth,ALL,THIRD APPARITION,1,4.1,4,1
+The Tragedy of Macbeth,ALL,THIRD WITCH,3,"1.1, 1.3, 4.1","1, 4","1, 3"
+The Tragedy of Macbeth,ANGUS,BANQUO,1,1.3,1,3
+The Tragedy of Macbeth,ANGUS,CAITHNESS,1,5.2,5,2
+The Tragedy of Macbeth,ANGUS,FIRST WITCH,1,1.3,1,3
+The Tragedy of Macbeth,ANGUS,LENNOX,1,5.2,5,2
+The Tragedy of Macbeth,ANGUS,MACBETH,1,1.3,1,3
+The Tragedy of Macbeth,ANGUS,MENTEITH,1,5.2,5,2
+The Tragedy of Macbeth,ANGUS,ROSS,1,1.3,1,3
+The Tragedy of Macbeth,ANGUS,SECOND WITCH,1,1.3,1,3
+The Tragedy of Macbeth,ANGUS,THIRD WITCH,1,1.3,1,3
+The Tragedy of Macbeth,ATTENDANT,BANQUO,1,3.1,3,1
+The Tragedy of Macbeth,ATTENDANT,BOTH MURDERERS,1,3.1,3,1
+The Tragedy of Macbeth,ATTENDANT,FIRST MURDERER,1,3.1,3,1
+The Tragedy of Macbeth,ATTENDANT,LADY MACBETH,1,3.1,3,1
+The Tragedy of Macbeth,ATTENDANT,MACBETH,1,3.1,3,1
+The Tragedy of Macbeth,ATTENDANT,SECOND MURDERER,1,3.1,3,1
+The Tragedy of Macbeth,BANQUO,BOTH MURDERERS,1,3.1,3,1
+The Tragedy of Macbeth,BANQUO,DONALBAIN,1,2.3,2,3
+The Tragedy of Macbeth,BANQUO,DUNCAN,2,"1.4, 1.6",1,"4, 6"
+The Tragedy of Macbeth,BANQUO,FIRST MURDERER,2,"3.1, 3.3",3,"1, 3"
+The Tragedy of Macbeth,BANQUO,FIRST WITCH,1,1.3,1,3
+The Tragedy of Macbeth,BANQUO,FLEANCE,1,2.1,2,1
+The Tragedy of Macbeth,BANQUO,LADY MACBETH,3,"1.6, 2.3, 3.1","1, 2, 3","1, 3, 6"
+The Tragedy of Macbeth,BANQUO,LENNOX,1,2.3,2,3
+The Tragedy of Macbeth,BANQUO,MACBETH,5,"1.3, 1.4, 2.1, 2.3, 3.1","1, 2, 3","1, 3, 4"
+The Tragedy of Macbeth,BANQUO,MACDUFF,1,2.3,2,3
+The Tragedy of Macbeth,BANQUO,MALCOLM,2,"1.4, 2.3","1, 2","3, 4"
+The Tragedy of Macbeth,BANQUO,PORTER,1,2.3,2,3
+The Tragedy of Macbeth,BANQUO,ROSS,1,1.3,1,3
+The Tragedy of Macbeth,BANQUO,SECOND MURDERER,2,"3.1, 3.3",3,"1, 3"
+The Tragedy of Macbeth,BANQUO,SECOND WITCH,1,1.3,1,3
+The Tragedy of Macbeth,BANQUO,THIRD MURDERER,1,3.3,3,3
+The Tragedy of Macbeth,BANQUO,THIRD WITCH,1,1.3,1,3
+The Tragedy of Macbeth,BOTH MURDERERS,FIRST MURDERER,1,3.1,3,1
+The Tragedy of Macbeth,BOTH MURDERERS,LADY MACBETH,1,3.1,3,1
+The Tragedy of Macbeth,BOTH MURDERERS,MACBETH,1,3.1,3,1
+The Tragedy of Macbeth,BOTH MURDERERS,SECOND MURDERER,1,3.1,3,1
+The Tragedy of Macbeth,CAITHNESS,LENNOX,1,5.2,5,2
+The Tragedy of Macbeth,CAITHNESS,MENTEITH,1,5.2,5,2
+The Tragedy of Macbeth,DOCTOR,GENTLEWOMAN,1,5.1,5,1
+The Tragedy of Macbeth,DOCTOR,LADY MACBETH,1,5.1,5,1
+The Tragedy of Macbeth,DOCTOR,MACBETH,1,5.3,5,3
+The Tragedy of Macbeth,DOCTOR,MACDUFF,1,4.3,4,3
+The Tragedy of Macbeth,DOCTOR,MALCOLM,1,4.3,4,3
+The Tragedy of Macbeth,DOCTOR,ROSS,1,4.3,4,3
+The Tragedy of Macbeth,DOCTOR,SERVANT,1,5.3,5,3
+The Tragedy of Macbeth,DOCTOR,SEYTON,1,5.3,5,3
+The Tragedy of Macbeth,DONALBAIN,LADY MACBETH,1,2.3,2,3
+The Tragedy of Macbeth,DONALBAIN,LENNOX,1,2.3,2,3
+The Tragedy of Macbeth,DONALBAIN,MACBETH,1,2.3,2,3
+The Tragedy of Macbeth,DONALBAIN,MACDUFF,1,2.3,2,3
+The Tragedy of Macbeth,DONALBAIN,MALCOLM,1,2.3,2,3
+The Tragedy of Macbeth,DONALBAIN,PORTER,1,2.3,2,3
+The Tragedy of Macbeth,DUNCAN,LADY MACBETH,1,1.6,1,6
+The Tragedy of Macbeth,DUNCAN,LENNOX,1,1.2,1,2
+The Tragedy of Macbeth,DUNCAN,MACBETH,1,1.4,1,4
+The Tragedy of Macbeth,DUNCAN,MALCOLM,2,"1.2, 1.4",1,"2, 4"
+The Tragedy of Macbeth,DUNCAN,ROSS,1,1.2,1,2
+The Tragedy of Macbeth,DUNCAN,SERGEANT,1,1.2,1,2
+The Tragedy of Macbeth,FIRST APPARITION,FIRST WITCH,1,4.1,4,1
+The Tragedy of Macbeth,FIRST APPARITION,HECATE,1,4.1,4,1
+The Tragedy of Macbeth,FIRST APPARITION,LENNOX,1,4.1,4,1
+The Tragedy of Macbeth,FIRST APPARITION,MACBETH,1,4.1,4,1
+The Tragedy of Macbeth,FIRST APPARITION,SECOND APPARITION,1,4.1,4,1
+The Tragedy of Macbeth,FIRST APPARITION,SECOND WITCH,1,4.1,4,1
+The Tragedy of Macbeth,FIRST APPARITION,THIRD APPARITION,1,4.1,4,1
+The Tragedy of Macbeth,FIRST APPARITION,THIRD WITCH,1,4.1,4,1
+The Tragedy of Macbeth,FIRST MURDERER,LADY MACBETH,2,"3.1, 3.4",3,"1, 4"
+The Tragedy of Macbeth,FIRST MURDERER,LADY MACDUFF,1,4.2,4,2
+The Tragedy of Macbeth,FIRST MURDERER,LENNOX,1,3.4,3,4
+The Tragedy of Macbeth,FIRST MURDERER,LORDS,1,3.4,3,4
+The Tragedy of Macbeth,FIRST MURDERER,MACBETH,2,"3.1, 3.4",3,"1, 4"
+The Tragedy of Macbeth,FIRST MURDERER,MESSENGER,1,4.2,4,2
+The Tragedy of Macbeth,FIRST MURDERER,ROSS,2,"3.4, 4.2","3, 4","2, 4"
+The Tragedy of Macbeth,FIRST MURDERER,SECOND MURDERER,2,"3.1, 3.3",3,"1, 3"
+The Tragedy of Macbeth,FIRST MURDERER,SON,1,4.2,4,2
+The Tragedy of Macbeth,FIRST MURDERER,THIRD MURDERER,1,3.3,3,3
+The Tragedy of Macbeth,FIRST WITCH,HECATE,2,"3.5, 4.1","3, 4","1, 5"
+The Tragedy of Macbeth,FIRST WITCH,LENNOX,1,4.1,4,1
+The Tragedy of Macbeth,FIRST WITCH,MACBETH,2,"1.3, 4.1","1, 4","1, 3"
+The Tragedy of Macbeth,FIRST WITCH,ROSS,1,1.3,1,3
+The Tragedy of Macbeth,FIRST WITCH,SECOND APPARITION,1,4.1,4,1
+The Tragedy of Macbeth,FIRST WITCH,SECOND WITCH,3,"1.1, 1.3, 4.1","1, 4","1, 3"
+The Tragedy of Macbeth,FIRST WITCH,THIRD APPARITION,1,4.1,4,1
+The Tragedy of Macbeth,FIRST WITCH,THIRD WITCH,3,"1.1, 1.3, 4.1","1, 4","1, 3"
+The Tragedy of Macbeth,FLEANCE,MACBETH,1,2.1,2,1
+The Tragedy of Macbeth,GENTLEWOMAN,LADY MACBETH,1,5.1,5,1
+The Tragedy of Macbeth,HECATE,LENNOX,1,4.1,4,1
+The Tragedy of Macbeth,HECATE,MACBETH,1,4.1,4,1
+The Tragedy of Macbeth,HECATE,SECOND APPARITION,1,4.1,4,1
+The Tragedy of Macbeth,HECATE,SECOND WITCH,1,4.1,4,1
+The Tragedy of Macbeth,HECATE,THIRD APPARITION,1,4.1,4,1
+The Tragedy of Macbeth,HECATE,THIRD WITCH,1,4.1,4,1
+The Tragedy of Macbeth,LADY MACBETH,LENNOX,2,"2.3, 3.4","2, 3","3, 4"
+The Tragedy of Macbeth,LADY MACBETH,LORDS,1,3.4,3,4
+The Tragedy of Macbeth,LADY MACBETH,MACBETH,7,"1.5, 1.7, 2.2, 2.3, 3.1, 3.2, 3.4","1, 2, 3","1, 2, 3, 4, 5, 7"
+The Tragedy of Macbeth,LADY MACBETH,MACDUFF,1,2.3,2,3
+The Tragedy of Macbeth,LADY MACBETH,MALCOLM,1,2.3,2,3
+The Tragedy of Macbeth,LADY MACBETH,MESSENGER,1,1.5,1,5
+The Tragedy of Macbeth,LADY MACBETH,PORTER,1,2.3,2,3
+The Tragedy of Macbeth,LADY MACBETH,ROSS,1,3.4,3,4
+The Tragedy of Macbeth,LADY MACBETH,SECOND MURDERER,1,3.1,3,1
+The Tragedy of Macbeth,LADY MACBETH,SERVANT,1,3.2,3,2
+The Tragedy of Macbeth,LADY MACDUFF,MESSENGER,1,4.2,4,2
+The Tragedy of Macbeth,LADY MACDUFF,ROSS,1,4.2,4,2
+The Tragedy of Macbeth,LADY MACDUFF,SON,1,4.2,4,2
+The Tragedy of Macbeth,LENNOX,LORD,1,3.6,3,6
+The Tragedy of Macbeth,LENNOX,LORDS,1,3.4,3,4
+The Tragedy of Macbeth,LENNOX,MACBETH,3,"2.3, 3.4, 4.1","2, 3, 4","1, 3, 4"
+The Tragedy of Macbeth,LENNOX,MACDUFF,1,2.3,2,3
+The Tragedy of Macbeth,LENNOX,MALCOLM,2,"1.2, 2.3","1, 2","2, 3"
+The Tragedy of Macbeth,LENNOX,MENTEITH,1,5.2,5,2
+The Tragedy of Macbeth,LENNOX,PORTER,1,2.3,2,3
+The Tragedy of Macbeth,LENNOX,ROSS,2,"1.2, 3.4","1, 3","2, 4"
+The Tragedy of Macbeth,LENNOX,SECOND APPARITION,1,4.1,4,1
+The Tragedy of Macbeth,LENNOX,SECOND WITCH,1,4.1,4,1
+The Tragedy of Macbeth,LENNOX,SERGEANT,1,1.2,1,2
+The Tragedy of Macbeth,LENNOX,THIRD APPARITION,1,4.1,4,1
+The Tragedy of Macbeth,LENNOX,THIRD WITCH,1,4.1,4,1
+The Tragedy of Macbeth,LORDS,MACBETH,1,3.4,3,4
+The Tragedy of Macbeth,LORDS,ROSS,1,3.4,3,4
+The Tragedy of Macbeth,MACBETH,MACDUFF,3,"2.3, 5.7, 5.8","2, 5","3, 7, 8"
+The Tragedy of Macbeth,MACBETH,MALCOLM,4,"1.4, 2.3, 5.7, 5.8","1, 2, 5","3, 4, 7, 8"
+The Tragedy of Macbeth,MACBETH,MESSENGER,2,"1.5, 5.5","1, 5",5
+The Tragedy of Macbeth,MACBETH,PORTER,1,2.3,2,3
+The Tragedy of Macbeth,MACBETH,ROSS,3,"1.3, 3.4, 5.8","1, 3, 5","3, 4, 8"
+The Tragedy of Macbeth,MACBETH,SECOND APPARITION,1,4.1,4,1
+The Tragedy of Macbeth,MACBETH,SECOND MURDERER,1,3.1,3,1
+The Tragedy of Macbeth,MACBETH,SECOND WITCH,2,"1.3, 4.1","1, 4","1, 3"
+The Tragedy of Macbeth,MACBETH,SERVANT,2,"3.2, 5.3","3, 5","2, 3"
+The Tragedy of Macbeth,MACBETH,SEYTON,2,"5.3, 5.5",5,"3, 5"
+The Tragedy of Macbeth,MACBETH,SIWARD,2,"5.7, 5.8",5,"7, 8"
+The Tragedy of Macbeth,MACBETH,THIRD APPARITION,1,4.1,4,1
+The Tragedy of Macbeth,MACBETH,THIRD WITCH,2,"1.3, 4.1","1, 4","1, 3"
+The Tragedy of Macbeth,MACBETH,YOUNG SIWARD,1,5.7,5,7
+The Tragedy of Macbeth,MACDUFF,MALCOLM,6,"2.3, 4.3, 5.4, 5.6, 5.7, 5.8","2, 4, 5","3, 4, 6, 7, 8"
+The Tragedy of Macbeth,MACDUFF,MENTEITH,1,5.4,5,4
+The Tragedy of Macbeth,MACDUFF,OLD MAN,1,2.4,2,4
+The Tragedy of Macbeth,MACDUFF,PORTER,1,2.3,2,3
+The Tragedy of Macbeth,MACDUFF,ROSS,3,"2.4, 4.3, 5.8","2, 4, 5","3, 4, 8"
+The Tragedy of Macbeth,MACDUFF,SIWARD,4,"5.4, 5.6, 5.7, 5.8",5,"4, 6, 7, 8"
+The Tragedy of Macbeth,MACDUFF,SOLDIERS,1,5.4,5,4
+The Tragedy of Macbeth,MACDUFF,YOUNG SIWARD,1,5.7,5,7
+The Tragedy of Macbeth,MALCOLM,MENTEITH,1,5.4,5,4
+The Tragedy of Macbeth,MALCOLM,PORTER,1,2.3,2,3
+The Tragedy of Macbeth,MALCOLM,ROSS,3,"1.2, 4.3, 5.8","1, 4, 5","2, 3, 8"
+The Tragedy of Macbeth,MALCOLM,SERGEANT,1,1.2,1,2
+The Tragedy of Macbeth,MALCOLM,SIWARD,4,"5.4, 5.6, 5.7, 5.8",5,"4, 6, 7, 8"
+The Tragedy of Macbeth,MALCOLM,SOLDIERS,1,5.4,5,4
+The Tragedy of Macbeth,MALCOLM,YOUNG SIWARD,1,5.7,5,7
+The Tragedy of Macbeth,MENTEITH,SIWARD,1,5.4,5,4
+The Tragedy of Macbeth,MENTEITH,SOLDIERS,1,5.4,5,4
+The Tragedy of Macbeth,MESSENGER,ROSS,1,4.2,4,2
+The Tragedy of Macbeth,MESSENGER,SEYTON,1,5.5,5,5
+The Tragedy of Macbeth,MESSENGER,SON,1,4.2,4,2
+The Tragedy of Macbeth,OLD MAN,ROSS,1,2.4,2,4
+The Tragedy of Macbeth,ROSS,SECOND WITCH,1,1.3,1,3
+The Tragedy of Macbeth,ROSS,SERGEANT,1,1.2,1,2
+The Tragedy of Macbeth,ROSS,SIWARD,1,5.8,5,8
+The Tragedy of Macbeth,ROSS,SON,1,4.2,4,2
+The Tragedy of Macbeth,ROSS,THIRD WITCH,1,1.3,1,3
+The Tragedy of Macbeth,SECOND APPARITION,SECOND WITCH,1,4.1,4,1
+The Tragedy of Macbeth,SECOND APPARITION,THIRD APPARITION,1,4.1,4,1
+The Tragedy of Macbeth,SECOND APPARITION,THIRD WITCH,1,4.1,4,1
+The Tragedy of Macbeth,SECOND MURDERER,THIRD MURDERER,1,3.3,3,3
+The Tragedy of Macbeth,SECOND WITCH,THIRD APPARITION,1,4.1,4,1
+The Tragedy of Macbeth,SECOND WITCH,THIRD WITCH,3,"1.1, 1.3, 4.1","1, 4","1, 3"
+The Tragedy of Macbeth,SERVANT,SEYTON,1,5.3,5,3
+The Tragedy of Macbeth,SIWARD,SOLDIERS,1,5.4,5,4
+The Tragedy of Macbeth,SIWARD,YOUNG SIWARD,1,5.7,5,7
+The Tragedy of Macbeth,THIRD APPARITION,THIRD WITCH,1,4.1,4,1

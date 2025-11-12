@@ -378,3 +378,142 @@ def summarize_play_stats(merged_play, main_charcs=None, side_charcs=None, print_
         print(df.head(10).to_string(index=False))
 
     return summary
+
+
+# -----------------------
+# Networks
+# -----------------------
+
+import itertools
+import pandas as pd
+from collections import Counter
+
+def normalize_name(name: str) -> str:
+    """Uppercase, trim, and collapse multiple spaces."""
+    return " ".join(str(name).strip().upper().split())
+
+
+def build_cooccurrence_network_clean(merged_play):
+    """
+    Build a cleaned co-occurrence table for a play.
+    Each row: pair of characters, scene count, act-scene list.
+    Names normalized; reversed pairs deduplicated; scenes sorted numerically.
+    """
+    title = merged_play["title"]
+    interactions = defaultdict(set)  # {(A,B): {(act,scene)}}
+
+    for act in merged_play["acts"]:
+        act_num = act["act"]
+        for scene in act["scenes"]:
+            scene_num = scene["scene"]
+            speakers = [
+                normalize_name(s["name"])
+                for s in scene["speakers"]
+                if s["name"]
+            ]
+            unique_speakers = sorted(set(speakers))
+
+            # record co-occurrence for all pairs in this scene
+            for a, b in itertools.combinations(unique_speakers, 2):
+                key = tuple(sorted([a, b]))  # ensure (A,B) == (B,A)
+                interactions[key].add((act_num, scene_num))
+
+    # convert to DataFrame
+    rows = []
+    for (a, b), scenes in interactions.items():
+        scene_list = sorted(f"{act}.{scene}" for act, scene in scenes)
+        act_nums = sorted({int(a) for a, _ in scenes})
+        scene_nums = sorted({int(s) for _, s in scenes})
+
+        rows.append({
+            "Play": title,
+            "Character A": a,
+            "Character B": b,
+            "Scenes Together": len(scenes),
+            "Scenes List": ", ".join(scene_list),
+            "Acts Together": ", ".join(map(str, act_nums)),
+            "Scenes Together (IDs)": ", ".join(map(str, scene_nums))
+        })
+
+    return pd.DataFrame(rows)
+
+
+def build_networks_for_all(works):
+    """
+    For each play in `works`, build a cleaned co-occurrence network
+    and save one CSV per play.
+    """
+    for w in works:
+        xml_tree = w["work_xml"]
+        play_name = w["work_name"]
+
+        main, side = extract_charcs_xml(xml_tree, print_charcs=False)
+        parsed = parse_play_xml(xml_tree)
+        merged = merge_play_data(parsed, main, side)
+
+        df_edges = build_cooccurrence_network_clean(merged)
+
+        df_edges = df_edges.sort_values(
+            ["Character A", "Character B"]
+        ).reset_index(drop=True)
+
+        out_path = f"../csv/{play_name.lower().replace(' ', '_')}_network.csv"
+        df_edges.to_csv(out_path, index=False)
+        print(f"Saved cleaned network for {play_name}: {out_path}")
+
+
+# -----------------------
+# Speech-level extraction
+# -----------------------
+
+def extract_speeches_by_scene(xml_tree):
+    """
+    Extracts every speech (sequence of lines) from the play,
+    tagging each with Act and Scene numbers.
+    Returns a DataFrame with:
+        Play, Act, Scene, Character, Line Count, Text
+    """
+    root = xml_tree
+    title = root.find(".//TITLE").text if root.find(".//TITLE") is not None else "Unknown Play"
+
+    rows = []
+
+    for act_i, act in enumerate(root.findall(".//ACT"), start=1):
+        for scene_i, scene in enumerate(act.findall(".//SCENE"), start=1):
+            for speech in scene.findall(".//SPEECH"):
+                speakers = [normalize_name(s.text) for s in speech.findall(".//SPEAKER") if s.text]
+                lines = [l.text.strip() for l in speech.findall(".//LINE") if l.text and l.text.strip()]
+                if not speakers or not lines:
+                    continue
+                text = " ".join(lines)
+                line_count = len(text.split())
+
+                for speaker in speakers:
+                    rows.append({
+                        "Play": title,
+                        "Act": act_i,
+                        "Scene": scene_i,
+                        "Character": speaker,
+                        "Line Count": line_count,
+                        "Text": text
+                    })
+
+    df = pd.DataFrame(rows)
+    return df
+
+
+def extract_all_speeches(works):
+    """
+    Extract speech-level data for each play and save separate CSVs.
+    (Renamed from extract_all_plays to avoid name collision)
+    """
+    for w in works:
+        xml_tree = w["work_xml"]
+        play_name = w["work_name"]
+        print(f"Extracting speeches for {play_name}...")
+
+        df = extract_speeches_by_scene(xml_tree)
+
+        out_path = "../csv/" + play_name.lower().replace(" ", "_").replace("'", "") + "_speeches.csv"
+        df.to_csv(out_path, index=False)
+        print(f"Saved {out_path} ({len(df)} speeches)")

@@ -1,0 +1,218 @@
+Play,Character A,Character B,Scenes Together,Scenes List,Acts Together,Scenes Together (IDs)
+"The Tragedy of Hamlet, Prince of Denmark",ALL,BERNARDO,1,1.2,1,2
+"The Tragedy of Hamlet, Prince of Denmark",ALL,CORNELIUS,1,1.2,1,2
+"The Tragedy of Hamlet, Prince of Denmark",ALL,FIRST AMBASSADOR,1,5.2,5,2
+"The Tragedy of Hamlet, Prince of Denmark",ALL,FIRST CLOWN,1,5.1,5,1
+"The Tragedy of Hamlet, Prince of Denmark",ALL,FIRST PLAYER,1,3.2,3,2
+"The Tragedy of Hamlet, Prince of Denmark",ALL,FIRST PRIEST,1,5.1,5,1
+"The Tragedy of Hamlet, Prince of Denmark",ALL,GUILDENSTERN,1,3.2,3,2
+"The Tragedy of Hamlet, Prince of Denmark",ALL,HAMLET,4,"1.2, 3.2, 5.1, 5.2","1, 3, 5","1, 2"
+"The Tragedy of Hamlet, Prince of Denmark",ALL,HORATIO,4,"1.2, 3.2, 5.1, 5.2","1, 3, 5","1, 2"
+"The Tragedy of Hamlet, Prince of Denmark",ALL,KING CLAUDIUS,4,"1.2, 3.2, 5.1, 5.2","1, 3, 5","1, 2"
+"The Tragedy of Hamlet, Prince of Denmark",ALL,LAERTES,3,"1.2, 5.1, 5.2","1, 5","1, 2"
+"The Tragedy of Hamlet, Prince of Denmark",ALL,LORD,1,5.2,5,2
+"The Tragedy of Hamlet, Prince of Denmark",ALL,LORD POLONIUS,2,"1.2, 3.2","1, 3",2
+"The Tragedy of Hamlet, Prince of Denmark",ALL,LUCIANUS,1,3.2,3,2
+"The Tragedy of Hamlet, Prince of Denmark",ALL,MARCELLUS,1,1.2,1,2
+"The Tragedy of Hamlet, Prince of Denmark",ALL,OPHELIA,1,3.2,3,2
+"The Tragedy of Hamlet, Prince of Denmark",ALL,OSRIC,1,5.2,5,2
+"The Tragedy of Hamlet, Prince of Denmark",ALL,PLAYER KING,1,3.2,3,2
+"The Tragedy of Hamlet, Prince of Denmark",ALL,PLAYER QUEEN,1,3.2,3,2
+"The Tragedy of Hamlet, Prince of Denmark",ALL,PRINCE FORTINBRAS,1,5.2,5,2
+"The Tragedy of Hamlet, Prince of Denmark",ALL,PROLOGUE,1,3.2,3,2
+"The Tragedy of Hamlet, Prince of Denmark",ALL,QUEEN GERTRUDE,4,"1.2, 3.2, 5.1, 5.2","1, 3, 5","1, 2"
+"The Tragedy of Hamlet, Prince of Denmark",ALL,ROSENCRANTZ,1,3.2,3,2
+"The Tragedy of Hamlet, Prince of Denmark",ALL,SECOND CLOWN,1,5.1,5,1
+"The Tragedy of Hamlet, Prince of Denmark",ALL,VOLTIMAND,1,1.2,1,2
+"The Tragedy of Hamlet, Prince of Denmark",BERNARDO,CORNELIUS,1,1.2,1,2
+"The Tragedy of Hamlet, Prince of Denmark",BERNARDO,FRANCISCO,1,1.1,1,1
+"The Tragedy of Hamlet, Prince of Denmark",BERNARDO,HAMLET,1,1.2,1,2
+"The Tragedy of Hamlet, Prince of Denmark",BERNARDO,HORATIO,2,"1.1, 1.2",1,"1, 2"
+"The Tragedy of Hamlet, Prince of Denmark",BERNARDO,KING CLAUDIUS,1,1.2,1,2
+"The Tragedy of Hamlet, Prince of Denmark",BERNARDO,LAERTES,1,1.2,1,2
+"The Tragedy of Hamlet, Prince of Denmark",BERNARDO,LORD POLONIUS,1,1.2,1,2
+"The Tragedy of Hamlet, Prince of Denmark",BERNARDO,MARCELLUS,2,"1.1, 1.2",1,"1, 2"
+"The Tragedy of Hamlet, Prince of Denmark",BERNARDO,QUEEN GERTRUDE,1,1.2,1,2
+"The Tragedy of Hamlet, Prince of Denmark",BERNARDO,VOLTIMAND,1,1.2,1,2
+"The Tragedy of Hamlet, Prince of Denmark",CAPTAIN,HAMLET,1,4.4,4,4
+"The Tragedy of Hamlet, Prince of Denmark",CAPTAIN,PRINCE FORTINBRAS,1,4.4,4,4
+"The Tragedy of Hamlet, Prince of Denmark",CAPTAIN,ROSENCRANTZ,1,4.4,4,4
+"The Tragedy of Hamlet, Prince of Denmark",CORNELIUS,HAMLET,1,1.2,1,2
+"The Tragedy of Hamlet, Prince of Denmark",CORNELIUS,HORATIO,1,1.2,1,2
+"The Tragedy of Hamlet, Prince of Denmark",CORNELIUS,KING CLAUDIUS,1,1.2,1,2
+"The Tragedy of Hamlet, Prince of Denmark",CORNELIUS,LAERTES,1,1.2,1,2
+"The Tragedy of Hamlet, Prince of Denmark",CORNELIUS,LORD POLONIUS,1,1.2,1,2
+"The Tragedy of Hamlet, Prince of Denmark",CORNELIUS,MARCELLUS,1,1.2,1,2
+"The Tragedy of Hamlet, Prince of Denmark",CORNELIUS,QUEEN GERTRUDE,1,1.2,1,2
+"The Tragedy of Hamlet, Prince of Denmark",CORNELIUS,VOLTIMAND,1,1.2,1,2
+"The Tragedy of Hamlet, Prince of Denmark",DANES,GENTLEMAN,1,4.5,4,5
+"The Tragedy of Hamlet, Prince of Denmark",DANES,HORATIO,1,4.5,4,5
+"The Tragedy of Hamlet, Prince of Denmark",DANES,KING CLAUDIUS,1,4.5,4,5
+"The Tragedy of Hamlet, Prince of Denmark",DANES,LAERTES,1,4.5,4,5
+"The Tragedy of Hamlet, Prince of Denmark",DANES,OPHELIA,1,4.5,4,5
+"The Tragedy of Hamlet, Prince of Denmark",DANES,QUEEN GERTRUDE,1,4.5,4,5
+"The Tragedy of Hamlet, Prince of Denmark",FIRST AMBASSADOR,HAMLET,1,5.2,5,2
+"The Tragedy of Hamlet, Prince of Denmark",FIRST AMBASSADOR,HORATIO,1,5.2,5,2
+"The Tragedy of Hamlet, Prince of Denmark",FIRST AMBASSADOR,KING CLAUDIUS,1,5.2,5,2
+"The Tragedy of Hamlet, Prince of Denmark",FIRST AMBASSADOR,LAERTES,1,5.2,5,2
+"The Tragedy of Hamlet, Prince of Denmark",FIRST AMBASSADOR,LORD,1,5.2,5,2
+"The Tragedy of Hamlet, Prince of Denmark",FIRST AMBASSADOR,OSRIC,1,5.2,5,2
+"The Tragedy of Hamlet, Prince of Denmark",FIRST AMBASSADOR,PRINCE FORTINBRAS,1,5.2,5,2
+"The Tragedy of Hamlet, Prince of Denmark",FIRST AMBASSADOR,QUEEN GERTRUDE,1,5.2,5,2
+"The Tragedy of Hamlet, Prince of Denmark",FIRST CLOWN,FIRST PRIEST,1,5.1,5,1
+"The Tragedy of Hamlet, Prince of Denmark",FIRST CLOWN,HAMLET,1,5.1,5,1
+"The Tragedy of Hamlet, Prince of Denmark",FIRST CLOWN,HORATIO,1,5.1,5,1
+"The Tragedy of Hamlet, Prince of Denmark",FIRST CLOWN,KING CLAUDIUS,1,5.1,5,1
+"The Tragedy of Hamlet, Prince of Denmark",FIRST CLOWN,LAERTES,1,5.1,5,1
+"The Tragedy of Hamlet, Prince of Denmark",FIRST CLOWN,QUEEN GERTRUDE,1,5.1,5,1
+"The Tragedy of Hamlet, Prince of Denmark",FIRST CLOWN,SECOND CLOWN,1,5.1,5,1
+"The Tragedy of Hamlet, Prince of Denmark",FIRST PLAYER,GUILDENSTERN,2,"2.2, 3.2","2, 3",2
+"The Tragedy of Hamlet, Prince of Denmark",FIRST PLAYER,HAMLET,2,"2.2, 3.2","2, 3",2
+"The Tragedy of Hamlet, Prince of Denmark",FIRST PLAYER,HORATIO,1,3.2,3,2
+"The Tragedy of Hamlet, Prince of Denmark",FIRST PLAYER,KING CLAUDIUS,2,"2.2, 3.2","2, 3",2
+"The Tragedy of Hamlet, Prince of Denmark",FIRST PLAYER,LORD POLONIUS,2,"2.2, 3.2","2, 3",2
+"The Tragedy of Hamlet, Prince of Denmark",FIRST PLAYER,LUCIANUS,1,3.2,3,2
+"The Tragedy of Hamlet, Prince of Denmark",FIRST PLAYER,OPHELIA,1,3.2,3,2
+"The Tragedy of Hamlet, Prince of Denmark",FIRST PLAYER,PLAYER KING,1,3.2,3,2
+"The Tragedy of Hamlet, Prince of Denmark",FIRST PLAYER,PLAYER QUEEN,1,3.2,3,2
+"The Tragedy of Hamlet, Prince of Denmark",FIRST PLAYER,PROLOGUE,1,3.2,3,2
+"The Tragedy of Hamlet, Prince of Denmark",FIRST PLAYER,QUEEN GERTRUDE,2,"2.2, 3.2","2, 3",2
+"The Tragedy of Hamlet, Prince of Denmark",FIRST PLAYER,ROSENCRANTZ,2,"2.2, 3.2","2, 3",2
+"The Tragedy of Hamlet, Prince of Denmark",FIRST PLAYER,VOLTIMAND,1,2.2,2,2
+"The Tragedy of Hamlet, Prince of Denmark",FIRST PRIEST,HAMLET,1,5.1,5,1
+"The Tragedy of Hamlet, Prince of Denmark",FIRST PRIEST,HORATIO,1,5.1,5,1
+"The Tragedy of Hamlet, Prince of Denmark",FIRST PRIEST,KING CLAUDIUS,1,5.1,5,1
+"The Tragedy of Hamlet, Prince of Denmark",FIRST PRIEST,LAERTES,1,5.1,5,1
+"The Tragedy of Hamlet, Prince of Denmark",FIRST PRIEST,QUEEN GERTRUDE,1,5.1,5,1
+"The Tragedy of Hamlet, Prince of Denmark",FIRST PRIEST,SECOND CLOWN,1,5.1,5,1
+"The Tragedy of Hamlet, Prince of Denmark",FIRST SAILOR,HORATIO,1,4.6,4,6
+"The Tragedy of Hamlet, Prince of Denmark",FIRST SAILOR,SERVANT,1,4.6,4,6
+"The Tragedy of Hamlet, Prince of Denmark",FRANCISCO,HORATIO,1,1.1,1,1
+"The Tragedy of Hamlet, Prince of Denmark",FRANCISCO,MARCELLUS,1,1.1,1,1
+"The Tragedy of Hamlet, Prince of Denmark",GENTLEMAN,HORATIO,1,4.5,4,5
+"The Tragedy of Hamlet, Prince of Denmark",GENTLEMAN,KING CLAUDIUS,1,4.5,4,5
+"The Tragedy of Hamlet, Prince of Denmark",GENTLEMAN,LAERTES,1,4.5,4,5
+"The Tragedy of Hamlet, Prince of Denmark",GENTLEMAN,OPHELIA,1,4.5,4,5
+"The Tragedy of Hamlet, Prince of Denmark",GENTLEMAN,QUEEN GERTRUDE,1,4.5,4,5
+"The Tragedy of Hamlet, Prince of Denmark",GHOST,HAMLET,2,"1.5, 3.4","1, 3","4, 5"
+"The Tragedy of Hamlet, Prince of Denmark",GHOST,HORATIO,1,1.5,1,5
+"The Tragedy of Hamlet, Prince of Denmark",GHOST,LORD POLONIUS,1,3.4,3,4
+"The Tragedy of Hamlet, Prince of Denmark",GHOST,MARCELLUS,1,1.5,1,5
+"The Tragedy of Hamlet, Prince of Denmark",GHOST,QUEEN GERTRUDE,1,3.4,3,4
+"The Tragedy of Hamlet, Prince of Denmark",GUILDENSTERN,HAMLET,5,"2.2, 3.1, 3.2, 3.3, 4.2","2, 3, 4","1, 2, 3"
+"The Tragedy of Hamlet, Prince of Denmark",GUILDENSTERN,HORATIO,1,3.2,3,2
+"The Tragedy of Hamlet, Prince of Denmark",GUILDENSTERN,KING CLAUDIUS,4,"2.2, 3.1, 3.2, 3.3","2, 3","1, 2, 3"
+"The Tragedy of Hamlet, Prince of Denmark",GUILDENSTERN,LORD POLONIUS,4,"2.2, 3.1, 3.2, 3.3","2, 3","1, 2, 3"
+"The Tragedy of Hamlet, Prince of Denmark",GUILDENSTERN,LUCIANUS,1,3.2,3,2
+"The Tragedy of Hamlet, Prince of Denmark",GUILDENSTERN,OPHELIA,2,"3.1, 3.2",3,"1, 2"
+"The Tragedy of Hamlet, Prince of Denmark",GUILDENSTERN,PLAYER KING,1,3.2,3,2
+"The Tragedy of Hamlet, Prince of Denmark",GUILDENSTERN,PLAYER QUEEN,1,3.2,3,2
+"The Tragedy of Hamlet, Prince of Denmark",GUILDENSTERN,PROLOGUE,1,3.2,3,2
+"The Tragedy of Hamlet, Prince of Denmark",GUILDENSTERN,QUEEN GERTRUDE,3,"2.2, 3.1, 3.2","2, 3","1, 2"
+"The Tragedy of Hamlet, Prince of Denmark",GUILDENSTERN,ROSENCRANTZ,5,"2.2, 3.1, 3.2, 3.3, 4.2","2, 3, 4","1, 2, 3"
+"The Tragedy of Hamlet, Prince of Denmark",GUILDENSTERN,VOLTIMAND,1,2.2,2,2
+"The Tragedy of Hamlet, Prince of Denmark",HAMLET,HORATIO,6,"1.2, 1.4, 1.5, 3.2, 5.1, 5.2","1, 3, 5","1, 2, 4, 5"
+"The Tragedy of Hamlet, Prince of Denmark",HAMLET,KING CLAUDIUS,8,"1.2, 2.2, 3.1, 3.2, 3.3, 4.3, 5.1, 5.2","1, 2, 3, 4, 5","1, 2, 3"
+"The Tragedy of Hamlet, Prince of Denmark",HAMLET,LAERTES,3,"1.2, 5.1, 5.2","1, 5","1, 2"
+"The Tragedy of Hamlet, Prince of Denmark",HAMLET,LORD,1,5.2,5,2
+"The Tragedy of Hamlet, Prince of Denmark",HAMLET,LORD POLONIUS,6,"1.2, 2.2, 3.1, 3.2, 3.3, 3.4","1, 2, 3","1, 2, 3, 4"
+"The Tragedy of Hamlet, Prince of Denmark",HAMLET,LUCIANUS,1,3.2,3,2
+"The Tragedy of Hamlet, Prince of Denmark",HAMLET,MARCELLUS,3,"1.2, 1.4, 1.5",1,"2, 4, 5"
+"The Tragedy of Hamlet, Prince of Denmark",HAMLET,OPHELIA,2,"3.1, 3.2",3,"1, 2"
+"The Tragedy of Hamlet, Prince of Denmark",HAMLET,OSRIC,1,5.2,5,2
+"The Tragedy of Hamlet, Prince of Denmark",HAMLET,PLAYER KING,1,3.2,3,2
+"The Tragedy of Hamlet, Prince of Denmark",HAMLET,PLAYER QUEEN,1,3.2,3,2
+"The Tragedy of Hamlet, Prince of Denmark",HAMLET,PRINCE FORTINBRAS,2,"4.4, 5.2","4, 5","2, 4"
+"The Tragedy of Hamlet, Prince of Denmark",HAMLET,PROLOGUE,1,3.2,3,2
+"The Tragedy of Hamlet, Prince of Denmark",HAMLET,QUEEN GERTRUDE,7,"1.2, 2.2, 3.1, 3.2, 3.4, 5.1, 5.2","1, 2, 3, 5","1, 2, 4"
+"The Tragedy of Hamlet, Prince of Denmark",HAMLET,ROSENCRANTZ,7,"2.2, 3.1, 3.2, 3.3, 4.2, 4.3, 4.4","2, 3, 4","1, 2, 3, 4"
+"The Tragedy of Hamlet, Prince of Denmark",HAMLET,SECOND CLOWN,1,5.1,5,1
+"The Tragedy of Hamlet, Prince of Denmark",HAMLET,VOLTIMAND,2,"1.2, 2.2","1, 2",2
+"The Tragedy of Hamlet, Prince of Denmark",HORATIO,KING CLAUDIUS,5,"1.2, 3.2, 4.5, 5.1, 5.2","1, 3, 4, 5","1, 2, 5"
+"The Tragedy of Hamlet, Prince of Denmark",HORATIO,LAERTES,4,"1.2, 4.5, 5.1, 5.2","1, 4, 5","1, 2, 5"
+"The Tragedy of Hamlet, Prince of Denmark",HORATIO,LORD,1,5.2,5,2
+"The Tragedy of Hamlet, Prince of Denmark",HORATIO,LORD POLONIUS,2,"1.2, 3.2","1, 3",2
+"The Tragedy of Hamlet, Prince of Denmark",HORATIO,LUCIANUS,1,3.2,3,2
+"The Tragedy of Hamlet, Prince of Denmark",HORATIO,MARCELLUS,4,"1.1, 1.2, 1.4, 1.5",1,"1, 2, 4, 5"
+"The Tragedy of Hamlet, Prince of Denmark",HORATIO,OPHELIA,2,"3.2, 4.5","3, 4","2, 5"
+"The Tragedy of Hamlet, Prince of Denmark",HORATIO,OSRIC,1,5.2,5,2
+"The Tragedy of Hamlet, Prince of Denmark",HORATIO,PLAYER KING,1,3.2,3,2
+"The Tragedy of Hamlet, Prince of Denmark",HORATIO,PLAYER QUEEN,1,3.2,3,2
+"The Tragedy of Hamlet, Prince of Denmark",HORATIO,PRINCE FORTINBRAS,1,5.2,5,2
+"The Tragedy of Hamlet, Prince of Denmark",HORATIO,PROLOGUE,1,3.2,3,2
+"The Tragedy of Hamlet, Prince of Denmark",HORATIO,QUEEN GERTRUDE,5,"1.2, 3.2, 4.5, 5.1, 5.2","1, 3, 4, 5","1, 2, 5"
+"The Tragedy of Hamlet, Prince of Denmark",HORATIO,ROSENCRANTZ,1,3.2,3,2
+"The Tragedy of Hamlet, Prince of Denmark",HORATIO,SECOND CLOWN,1,5.1,5,1
+"The Tragedy of Hamlet, Prince of Denmark",HORATIO,SERVANT,1,4.6,4,6
+"The Tragedy of Hamlet, Prince of Denmark",HORATIO,VOLTIMAND,1,1.2,1,2
+"The Tragedy of Hamlet, Prince of Denmark",KING CLAUDIUS,LAERTES,5,"1.2, 4.5, 4.7, 5.1, 5.2","1, 4, 5","1, 2, 5, 7"
+"The Tragedy of Hamlet, Prince of Denmark",KING CLAUDIUS,LORD,1,5.2,5,2
+"The Tragedy of Hamlet, Prince of Denmark",KING CLAUDIUS,LORD POLONIUS,5,"1.2, 2.2, 3.1, 3.2, 3.3","1, 2, 3","1, 2, 3"
+"The Tragedy of Hamlet, Prince of Denmark",KING CLAUDIUS,LUCIANUS,1,3.2,3,2
+"The Tragedy of Hamlet, Prince of Denmark",KING CLAUDIUS,MARCELLUS,1,1.2,1,2
+"The Tragedy of Hamlet, Prince of Denmark",KING CLAUDIUS,MESSENGER,1,4.7,4,7
+"The Tragedy of Hamlet, Prince of Denmark",KING CLAUDIUS,OPHELIA,3,"3.1, 3.2, 4.5","3, 4","1, 2, 5"
+"The Tragedy of Hamlet, Prince of Denmark",KING CLAUDIUS,OSRIC,1,5.2,5,2
+"The Tragedy of Hamlet, Prince of Denmark",KING CLAUDIUS,PLAYER KING,1,3.2,3,2
+"The Tragedy of Hamlet, Prince of Denmark",KING CLAUDIUS,PLAYER QUEEN,1,3.2,3,2
+"The Tragedy of Hamlet, Prince of Denmark",KING CLAUDIUS,PRINCE FORTINBRAS,1,5.2,5,2
+"The Tragedy of Hamlet, Prince of Denmark",KING CLAUDIUS,PROLOGUE,1,3.2,3,2
+"The Tragedy of Hamlet, Prince of Denmark",KING CLAUDIUS,QUEEN GERTRUDE,9,"1.2, 2.2, 3.1, 3.2, 4.1, 4.5, 4.7, 5.1, 5.2","1, 2, 3, 4, 5","1, 2, 5, 7"
+"The Tragedy of Hamlet, Prince of Denmark",KING CLAUDIUS,ROSENCRANTZ,5,"2.2, 3.1, 3.2, 3.3, 4.3","2, 3, 4","1, 2, 3"
+"The Tragedy of Hamlet, Prince of Denmark",KING CLAUDIUS,SECOND CLOWN,1,5.1,5,1
+"The Tragedy of Hamlet, Prince of Denmark",KING CLAUDIUS,VOLTIMAND,2,"1.2, 2.2","1, 2",2
+"The Tragedy of Hamlet, Prince of Denmark",LAERTES,LORD,1,5.2,5,2
+"The Tragedy of Hamlet, Prince of Denmark",LAERTES,LORD POLONIUS,2,"1.2, 1.3",1,"2, 3"
+"The Tragedy of Hamlet, Prince of Denmark",LAERTES,MARCELLUS,1,1.2,1,2
+"The Tragedy of Hamlet, Prince of Denmark",LAERTES,MESSENGER,1,4.7,4,7
+"The Tragedy of Hamlet, Prince of Denmark",LAERTES,OPHELIA,2,"1.3, 4.5","1, 4","3, 5"
+"The Tragedy of Hamlet, Prince of Denmark",LAERTES,OSRIC,1,5.2,5,2
+"The Tragedy of Hamlet, Prince of Denmark",LAERTES,PRINCE FORTINBRAS,1,5.2,5,2
+"The Tragedy of Hamlet, Prince of Denmark",LAERTES,QUEEN GERTRUDE,5,"1.2, 4.5, 4.7, 5.1, 5.2","1, 4, 5","1, 2, 5, 7"
+"The Tragedy of Hamlet, Prince of Denmark",LAERTES,SECOND CLOWN,1,5.1,5,1
+"The Tragedy of Hamlet, Prince of Denmark",LAERTES,VOLTIMAND,1,1.2,1,2
+"The Tragedy of Hamlet, Prince of Denmark",LORD,OSRIC,1,5.2,5,2
+"The Tragedy of Hamlet, Prince of Denmark",LORD,PRINCE FORTINBRAS,1,5.2,5,2
+"The Tragedy of Hamlet, Prince of Denmark",LORD,QUEEN GERTRUDE,1,5.2,5,2
+"The Tragedy of Hamlet, Prince of Denmark",LORD POLONIUS,LUCIANUS,1,3.2,3,2
+"The Tragedy of Hamlet, Prince of Denmark",LORD POLONIUS,MARCELLUS,1,1.2,1,2
+"The Tragedy of Hamlet, Prince of Denmark",LORD POLONIUS,OPHELIA,4,"1.3, 2.1, 3.1, 3.2","1, 2, 3","1, 2, 3"
+"The Tragedy of Hamlet, Prince of Denmark",LORD POLONIUS,PLAYER KING,1,3.2,3,2
+"The Tragedy of Hamlet, Prince of Denmark",LORD POLONIUS,PLAYER QUEEN,1,3.2,3,2
+"The Tragedy of Hamlet, Prince of Denmark",LORD POLONIUS,PROLOGUE,1,3.2,3,2
+"The Tragedy of Hamlet, Prince of Denmark",LORD POLONIUS,QUEEN GERTRUDE,5,"1.2, 2.2, 3.1, 3.2, 3.4","1, 2, 3","1, 2, 4"
+"The Tragedy of Hamlet, Prince of Denmark",LORD POLONIUS,REYNALDO,1,2.1,2,1
+"The Tragedy of Hamlet, Prince of Denmark",LORD POLONIUS,ROSENCRANTZ,4,"2.2, 3.1, 3.2, 3.3","2, 3","1, 2, 3"
+"The Tragedy of Hamlet, Prince of Denmark",LORD POLONIUS,VOLTIMAND,2,"1.2, 2.2","1, 2",2
+"The Tragedy of Hamlet, Prince of Denmark",LUCIANUS,OPHELIA,1,3.2,3,2
+"The Tragedy of Hamlet, Prince of Denmark",LUCIANUS,PLAYER KING,1,3.2,3,2
+"The Tragedy of Hamlet, Prince of Denmark",LUCIANUS,PLAYER QUEEN,1,3.2,3,2
+"The Tragedy of Hamlet, Prince of Denmark",LUCIANUS,PROLOGUE,1,3.2,3,2
+"The Tragedy of Hamlet, Prince of Denmark",LUCIANUS,QUEEN GERTRUDE,1,3.2,3,2
+"The Tragedy of Hamlet, Prince of Denmark",LUCIANUS,ROSENCRANTZ,1,3.2,3,2
+"The Tragedy of Hamlet, Prince of Denmark",MARCELLUS,QUEEN GERTRUDE,1,1.2,1,2
+"The Tragedy of Hamlet, Prince of Denmark",MARCELLUS,VOLTIMAND,1,1.2,1,2
+"The Tragedy of Hamlet, Prince of Denmark",MESSENGER,QUEEN GERTRUDE,1,4.7,4,7
+"The Tragedy of Hamlet, Prince of Denmark",OPHELIA,PLAYER KING,1,3.2,3,2
+"The Tragedy of Hamlet, Prince of Denmark",OPHELIA,PLAYER QUEEN,1,3.2,3,2
+"The Tragedy of Hamlet, Prince of Denmark",OPHELIA,PROLOGUE,1,3.2,3,2
+"The Tragedy of Hamlet, Prince of Denmark",OPHELIA,QUEEN GERTRUDE,3,"3.1, 3.2, 4.5","3, 4","1, 2, 5"
+"The Tragedy of Hamlet, Prince of Denmark",OPHELIA,REYNALDO,1,2.1,2,1
+"The Tragedy of Hamlet, Prince of Denmark",OPHELIA,ROSENCRANTZ,2,"3.1, 3.2",3,"1, 2"
+"The Tragedy of Hamlet, Prince of Denmark",OSRIC,PRINCE FORTINBRAS,1,5.2,5,2
+"The Tragedy of Hamlet, Prince of Denmark",OSRIC,QUEEN GERTRUDE,1,5.2,5,2
+"The Tragedy of Hamlet, Prince of Denmark",PLAYER KING,PLAYER QUEEN,1,3.2,3,2
+"The Tragedy of Hamlet, Prince of Denmark",PLAYER KING,PROLOGUE,1,3.2,3,2
+"The Tragedy of Hamlet, Prince of Denmark",PLAYER KING,QUEEN GERTRUDE,1,3.2,3,2
+"The Tragedy of Hamlet, Prince of Denmark",PLAYER KING,ROSENCRANTZ,1,3.2,3,2
+"The Tragedy of Hamlet, Prince of Denmark",PLAYER QUEEN,PROLOGUE,1,3.2,3,2
+"The Tragedy of Hamlet, Prince of Denmark",PLAYER QUEEN,QUEEN GERTRUDE,1,3.2,3,2
+"The Tragedy of Hamlet, Prince of Denmark",PLAYER QUEEN,ROSENCRANTZ,1,3.2,3,2
+"The Tragedy of Hamlet, Prince of Denmark",PRINCE FORTINBRAS,QUEEN GERTRUDE,1,5.2,5,2
+"The Tragedy of Hamlet, Prince of Denmark",PRINCE FORTINBRAS,ROSENCRANTZ,1,4.4,4,4
+"The Tragedy of Hamlet, Prince of Denmark",PROLOGUE,QUEEN GERTRUDE,1,3.2,3,2
+"The Tragedy of Hamlet, Prince of Denmark",PROLOGUE,ROSENCRANTZ,1,3.2,3,2
+"The Tragedy of Hamlet, Prince of Denmark",QUEEN GERTRUDE,ROSENCRANTZ,3,"2.2, 3.1, 3.2","2, 3","1, 2"
+"The Tragedy of Hamlet, Prince of Denmark",QUEEN GERTRUDE,SECOND CLOWN,1,5.1,5,1
+"The Tragedy of Hamlet, Prince of Denmark",QUEEN GERTRUDE,VOLTIMAND,2,"1.2, 2.2","1, 2",2
+"The Tragedy of Hamlet, Prince of Denmark",ROSENCRANTZ,VOLTIMAND,1,2.2,2,2

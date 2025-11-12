@@ -1,0 +1,229 @@
+Play,Character A,Character B,Scenes Together,Scenes List,Acts Together,Scenes Together (IDs)
+The Tragedy of Romeo and Juliet,ABRAHAM,BENVOLIO,1,1.1,1,1
+The Tragedy of Romeo and Juliet,ABRAHAM,CAPULET,1,1.1,1,1
+The Tragedy of Romeo and Juliet,ABRAHAM,FIRST CITIZEN,1,1.1,1,1
+The Tragedy of Romeo and Juliet,ABRAHAM,GREGORY,1,1.1,1,1
+The Tragedy of Romeo and Juliet,ABRAHAM,LADY CAPULET,1,1.1,1,1
+The Tragedy of Romeo and Juliet,ABRAHAM,LADY MONTAGUE,1,1.1,1,1
+The Tragedy of Romeo and Juliet,ABRAHAM,MONTAGUE,1,1.1,1,1
+The Tragedy of Romeo and Juliet,ABRAHAM,PRINCE,1,1.1,1,1
+The Tragedy of Romeo and Juliet,ABRAHAM,ROMEO,1,1.1,1,1
+The Tragedy of Romeo and Juliet,ABRAHAM,SAMPSON,1,1.1,1,1
+The Tragedy of Romeo and Juliet,ABRAHAM,TYBALT,1,1.1,1,1
+The Tragedy of Romeo and Juliet,APOTHECARY,BALTHASAR,1,5.1,5,1
+The Tragedy of Romeo and Juliet,APOTHECARY,ROMEO,1,5.1,5,1
+The Tragedy of Romeo and Juliet,BALTHASAR,CAPULET,1,5.3,5,3
+The Tragedy of Romeo and Juliet,BALTHASAR,FIRST WATCHMAN,1,5.3,5,3
+The Tragedy of Romeo and Juliet,BALTHASAR,FRIAR LAURENCE,1,5.3,5,3
+The Tragedy of Romeo and Juliet,BALTHASAR,JULIET,1,5.3,5,3
+The Tragedy of Romeo and Juliet,BALTHASAR,LADY CAPULET,1,5.3,5,3
+The Tragedy of Romeo and Juliet,BALTHASAR,MONTAGUE,1,5.3,5,3
+The Tragedy of Romeo and Juliet,BALTHASAR,PAGE,1,5.3,5,3
+The Tragedy of Romeo and Juliet,BALTHASAR,PARIS,1,5.3,5,3
+The Tragedy of Romeo and Juliet,BALTHASAR,PRINCE,1,5.3,5,3
+The Tragedy of Romeo and Juliet,BALTHASAR,ROMEO,2,"5.1, 5.3",5,"1, 3"
+The Tragedy of Romeo and Juliet,BALTHASAR,SECOND WATCHMAN,1,5.3,5,3
+The Tragedy of Romeo and Juliet,BALTHASAR,THIRD WATCHMAN,1,5.3,5,3
+The Tragedy of Romeo and Juliet,BENVOLIO,CAPULET,3,"1.1, 1.2, 1.5",1,"1, 2, 5"
+The Tragedy of Romeo and Juliet,BENVOLIO,FIRST CITIZEN,2,"1.1, 3.1","1, 3",1
+The Tragedy of Romeo and Juliet,BENVOLIO,FIRST SERVANT,1,1.5,1,5
+The Tragedy of Romeo and Juliet,BENVOLIO,GREGORY,1,1.1,1,1
+The Tragedy of Romeo and Juliet,BENVOLIO,JULIET,1,1.5,1,5
+The Tragedy of Romeo and Juliet,BENVOLIO,LADY CAPULET,2,"1.1, 3.1","1, 3",1
+The Tragedy of Romeo and Juliet,BENVOLIO,LADY MONTAGUE,1,1.1,1,1
+The Tragedy of Romeo and Juliet,BENVOLIO,MERCUTIO,4,"1.4, 2.1, 2.4, 3.1","1, 2, 3","1, 4"
+The Tragedy of Romeo and Juliet,BENVOLIO,MONTAGUE,2,"1.1, 3.1","1, 3",1
+The Tragedy of Romeo and Juliet,BENVOLIO,NURSE,2,"1.5, 2.4","1, 2","4, 5"
+The Tragedy of Romeo and Juliet,BENVOLIO,PARIS,1,1.2,1,2
+The Tragedy of Romeo and Juliet,BENVOLIO,PETER,1,2.4,2,4
+The Tragedy of Romeo and Juliet,BENVOLIO,PRINCE,2,"1.1, 3.1","1, 3",1
+The Tragedy of Romeo and Juliet,BENVOLIO,ROMEO,7,"1.1, 1.2, 1.4, 1.5, 2.1, 2.4, 3.1","1, 2, 3","1, 2, 4, 5"
+The Tragedy of Romeo and Juliet,BENVOLIO,SAMPSON,1,1.1,1,1
+The Tragedy of Romeo and Juliet,BENVOLIO,SECOND CAPULET,1,1.5,1,5
+The Tragedy of Romeo and Juliet,BENVOLIO,SECOND SERVANT,1,1.5,1,5
+The Tragedy of Romeo and Juliet,BENVOLIO,SERVANT,2,"1.2, 1.5",1,"2, 5"
+The Tragedy of Romeo and Juliet,BENVOLIO,TYBALT,3,"1.1, 1.5, 3.1","1, 3","1, 5"
+The Tragedy of Romeo and Juliet,CAPULET,FIRST CITIZEN,1,1.1,1,1
+The Tragedy of Romeo and Juliet,CAPULET,FIRST MUSICIAN,1,4.5,4,5
+The Tragedy of Romeo and Juliet,CAPULET,FIRST SERVANT,2,"1.5, 4.4","1, 4","4, 5"
+The Tragedy of Romeo and Juliet,CAPULET,FIRST WATCHMAN,1,5.3,5,3
+The Tragedy of Romeo and Juliet,CAPULET,FRIAR LAURENCE,2,"4.5, 5.3","4, 5","3, 5"
+The Tragedy of Romeo and Juliet,CAPULET,GREGORY,1,1.1,1,1
+The Tragedy of Romeo and Juliet,CAPULET,JULIET,4,"1.5, 3.5, 4.2, 5.3","1, 3, 4, 5","2, 3, 5"
+The Tragedy of Romeo and Juliet,CAPULET,LADY CAPULET,7,"1.1, 3.4, 3.5, 4.2, 4.4, 4.5, 5.3","1, 3, 4, 5","1, 2, 3, 4, 5"
+The Tragedy of Romeo and Juliet,CAPULET,LADY MONTAGUE,1,1.1,1,1
+The Tragedy of Romeo and Juliet,CAPULET,MONTAGUE,2,"1.1, 5.3","1, 5","1, 3"
+The Tragedy of Romeo and Juliet,CAPULET,MUSICIAN,1,4.5,4,5
+The Tragedy of Romeo and Juliet,CAPULET,NURSE,5,"1.5, 3.5, 4.2, 4.4, 4.5","1, 3, 4","2, 4, 5"
+The Tragedy of Romeo and Juliet,CAPULET,PAGE,1,5.3,5,3
+The Tragedy of Romeo and Juliet,CAPULET,PARIS,4,"1.2, 3.4, 4.5, 5.3","1, 3, 4, 5","2, 3, 4, 5"
+The Tragedy of Romeo and Juliet,CAPULET,PETER,1,4.5,4,5
+The Tragedy of Romeo and Juliet,CAPULET,PRINCE,2,"1.1, 5.3","1, 5","1, 3"
+The Tragedy of Romeo and Juliet,CAPULET,ROMEO,5,"1.1, 1.2, 1.5, 3.5, 5.3","1, 3, 5","1, 2, 3, 5"
+The Tragedy of Romeo and Juliet,CAPULET,SAMPSON,1,1.1,1,1
+The Tragedy of Romeo and Juliet,CAPULET,SECOND CAPULET,1,1.5,1,5
+The Tragedy of Romeo and Juliet,CAPULET,SECOND MUSICIAN,1,4.5,4,5
+The Tragedy of Romeo and Juliet,CAPULET,SECOND SERVANT,3,"1.5, 4.2, 4.4","1, 4","2, 4, 5"
+The Tragedy of Romeo and Juliet,CAPULET,SECOND WATCHMAN,1,5.3,5,3
+The Tragedy of Romeo and Juliet,CAPULET,SERVANT,2,"1.2, 1.5",1,"2, 5"
+The Tragedy of Romeo and Juliet,CAPULET,THIRD MUSICIAN,1,4.5,4,5
+The Tragedy of Romeo and Juliet,CAPULET,THIRD WATCHMAN,1,5.3,5,3
+The Tragedy of Romeo and Juliet,CAPULET,TYBALT,2,"1.1, 1.5",1,"1, 5"
+The Tragedy of Romeo and Juliet,FIRST CITIZEN,GREGORY,1,1.1,1,1
+The Tragedy of Romeo and Juliet,FIRST CITIZEN,LADY CAPULET,2,"1.1, 3.1","1, 3",1
+The Tragedy of Romeo and Juliet,FIRST CITIZEN,LADY MONTAGUE,1,1.1,1,1
+The Tragedy of Romeo and Juliet,FIRST CITIZEN,MERCUTIO,1,3.1,3,1
+The Tragedy of Romeo and Juliet,FIRST CITIZEN,MONTAGUE,2,"1.1, 3.1","1, 3",1
+The Tragedy of Romeo and Juliet,FIRST CITIZEN,PRINCE,2,"1.1, 3.1","1, 3",1
+The Tragedy of Romeo and Juliet,FIRST CITIZEN,ROMEO,2,"1.1, 3.1","1, 3",1
+The Tragedy of Romeo and Juliet,FIRST CITIZEN,SAMPSON,1,1.1,1,1
+The Tragedy of Romeo and Juliet,FIRST CITIZEN,TYBALT,2,"1.1, 3.1","1, 3",1
+The Tragedy of Romeo and Juliet,FIRST MUSICIAN,FRIAR LAURENCE,1,4.5,4,5
+The Tragedy of Romeo and Juliet,FIRST MUSICIAN,LADY CAPULET,1,4.5,4,5
+The Tragedy of Romeo and Juliet,FIRST MUSICIAN,MUSICIAN,1,4.5,4,5
+The Tragedy of Romeo and Juliet,FIRST MUSICIAN,NURSE,1,4.5,4,5
+The Tragedy of Romeo and Juliet,FIRST MUSICIAN,PARIS,1,4.5,4,5
+The Tragedy of Romeo and Juliet,FIRST MUSICIAN,PETER,1,4.5,4,5
+The Tragedy of Romeo and Juliet,FIRST MUSICIAN,SECOND MUSICIAN,1,4.5,4,5
+The Tragedy of Romeo and Juliet,FIRST MUSICIAN,THIRD MUSICIAN,1,4.5,4,5
+The Tragedy of Romeo and Juliet,FIRST SERVANT,JULIET,1,1.5,1,5
+The Tragedy of Romeo and Juliet,FIRST SERVANT,LADY CAPULET,1,4.4,4,4
+The Tragedy of Romeo and Juliet,FIRST SERVANT,NURSE,2,"1.5, 4.4","1, 4","4, 5"
+The Tragedy of Romeo and Juliet,FIRST SERVANT,ROMEO,1,1.5,1,5
+The Tragedy of Romeo and Juliet,FIRST SERVANT,SECOND CAPULET,1,1.5,1,5
+The Tragedy of Romeo and Juliet,FIRST SERVANT,SECOND SERVANT,2,"1.5, 4.4","1, 4","4, 5"
+The Tragedy of Romeo and Juliet,FIRST SERVANT,SERVANT,1,1.5,1,5
+The Tragedy of Romeo and Juliet,FIRST SERVANT,TYBALT,1,1.5,1,5
+The Tragedy of Romeo and Juliet,FIRST WATCHMAN,FRIAR LAURENCE,1,5.3,5,3
+The Tragedy of Romeo and Juliet,FIRST WATCHMAN,JULIET,1,5.3,5,3
+The Tragedy of Romeo and Juliet,FIRST WATCHMAN,LADY CAPULET,1,5.3,5,3
+The Tragedy of Romeo and Juliet,FIRST WATCHMAN,MONTAGUE,1,5.3,5,3
+The Tragedy of Romeo and Juliet,FIRST WATCHMAN,PAGE,1,5.3,5,3
+The Tragedy of Romeo and Juliet,FIRST WATCHMAN,PARIS,1,5.3,5,3
+The Tragedy of Romeo and Juliet,FIRST WATCHMAN,PRINCE,1,5.3,5,3
+The Tragedy of Romeo and Juliet,FIRST WATCHMAN,ROMEO,1,5.3,5,3
+The Tragedy of Romeo and Juliet,FIRST WATCHMAN,SECOND WATCHMAN,1,5.3,5,3
+The Tragedy of Romeo and Juliet,FIRST WATCHMAN,THIRD WATCHMAN,1,5.3,5,3
+The Tragedy of Romeo and Juliet,FRIAR JOHN,FRIAR LAURENCE,1,5.2,5,2
+The Tragedy of Romeo and Juliet,FRIAR LAURENCE,JULIET,3,"2.6, 4.1, 5.3","2, 4, 5","1, 3, 6"
+The Tragedy of Romeo and Juliet,FRIAR LAURENCE,LADY CAPULET,2,"4.5, 5.3","4, 5","3, 5"
+The Tragedy of Romeo and Juliet,FRIAR LAURENCE,MONTAGUE,1,5.3,5,3
+The Tragedy of Romeo and Juliet,FRIAR LAURENCE,MUSICIAN,1,4.5,4,5
+The Tragedy of Romeo and Juliet,FRIAR LAURENCE,NURSE,2,"3.3, 4.5","3, 4","3, 5"
+The Tragedy of Romeo and Juliet,FRIAR LAURENCE,PAGE,1,5.3,5,3
+The Tragedy of Romeo and Juliet,FRIAR LAURENCE,PARIS,3,"4.1, 4.5, 5.3","4, 5","1, 3, 5"
+The Tragedy of Romeo and Juliet,FRIAR LAURENCE,PETER,1,4.5,4,5
+The Tragedy of Romeo and Juliet,FRIAR LAURENCE,PRINCE,1,5.3,5,3
+The Tragedy of Romeo and Juliet,FRIAR LAURENCE,ROMEO,4,"2.3, 2.6, 3.3, 5.3","2, 3, 5","3, 6"
+The Tragedy of Romeo and Juliet,FRIAR LAURENCE,SECOND MUSICIAN,1,4.5,4,5
+The Tragedy of Romeo and Juliet,FRIAR LAURENCE,SECOND WATCHMAN,1,5.3,5,3
+The Tragedy of Romeo and Juliet,FRIAR LAURENCE,THIRD MUSICIAN,1,4.5,4,5
+The Tragedy of Romeo and Juliet,FRIAR LAURENCE,THIRD WATCHMAN,1,5.3,5,3
+The Tragedy of Romeo and Juliet,GREGORY,LADY CAPULET,1,1.1,1,1
+The Tragedy of Romeo and Juliet,GREGORY,LADY MONTAGUE,1,1.1,1,1
+The Tragedy of Romeo and Juliet,GREGORY,MONTAGUE,1,1.1,1,1
+The Tragedy of Romeo and Juliet,GREGORY,PRINCE,1,1.1,1,1
+The Tragedy of Romeo and Juliet,GREGORY,ROMEO,1,1.1,1,1
+The Tragedy of Romeo and Juliet,GREGORY,SAMPSON,1,1.1,1,1
+The Tragedy of Romeo and Juliet,GREGORY,TYBALT,1,1.1,1,1
+The Tragedy of Romeo and Juliet,JULIET,LADY CAPULET,5,"1.3, 3.5, 4.2, 4.3, 5.3","1, 3, 4, 5","2, 3, 5"
+The Tragedy of Romeo and Juliet,JULIET,MONTAGUE,1,5.3,5,3
+The Tragedy of Romeo and Juliet,JULIET,NURSE,7,"1.3, 1.5, 2.2, 2.5, 3.2, 3.5, 4.2","1, 2, 3, 4","2, 3, 5"
+The Tragedy of Romeo and Juliet,JULIET,PAGE,1,5.3,5,3
+The Tragedy of Romeo and Juliet,JULIET,PARIS,2,"4.1, 5.3","4, 5","1, 3"
+The Tragedy of Romeo and Juliet,JULIET,PRINCE,1,5.3,5,3
+The Tragedy of Romeo and Juliet,JULIET,ROMEO,5,"1.5, 2.2, 2.6, 3.5, 5.3","1, 2, 3, 5","2, 3, 5, 6"
+The Tragedy of Romeo and Juliet,JULIET,SECOND CAPULET,1,1.5,1,5
+The Tragedy of Romeo and Juliet,JULIET,SECOND SERVANT,2,"1.5, 4.2","1, 4","2, 5"
+The Tragedy of Romeo and Juliet,JULIET,SECOND WATCHMAN,1,5.3,5,3
+The Tragedy of Romeo and Juliet,JULIET,SERVANT,2,"1.3, 1.5",1,"3, 5"
+The Tragedy of Romeo and Juliet,JULIET,THIRD WATCHMAN,1,5.3,5,3
+The Tragedy of Romeo and Juliet,JULIET,TYBALT,1,1.5,1,5
+The Tragedy of Romeo and Juliet,LADY CAPULET,LADY MONTAGUE,1,1.1,1,1
+The Tragedy of Romeo and Juliet,LADY CAPULET,MERCUTIO,1,3.1,3,1
+The Tragedy of Romeo and Juliet,LADY CAPULET,MONTAGUE,3,"1.1, 3.1, 5.3","1, 3, 5","1, 3"
+The Tragedy of Romeo and Juliet,LADY CAPULET,MUSICIAN,1,4.5,4,5
+The Tragedy of Romeo and Juliet,LADY CAPULET,NURSE,5,"1.3, 3.5, 4.2, 4.4, 4.5","1, 3, 4","2, 3, 4, 5"
+The Tragedy of Romeo and Juliet,LADY CAPULET,PAGE,1,5.3,5,3
+The Tragedy of Romeo and Juliet,LADY CAPULET,PARIS,3,"3.4, 4.5, 5.3","3, 4, 5","3, 4, 5"
+The Tragedy of Romeo and Juliet,LADY CAPULET,PETER,1,4.5,4,5
+The Tragedy of Romeo and Juliet,LADY CAPULET,PRINCE,3,"1.1, 3.1, 5.3","1, 3, 5","1, 3"
+The Tragedy of Romeo and Juliet,LADY CAPULET,ROMEO,4,"1.1, 3.1, 3.5, 5.3","1, 3, 5","1, 3, 5"
+The Tragedy of Romeo and Juliet,LADY CAPULET,SAMPSON,1,1.1,1,1
+The Tragedy of Romeo and Juliet,LADY CAPULET,SECOND MUSICIAN,1,4.5,4,5
+The Tragedy of Romeo and Juliet,LADY CAPULET,SECOND SERVANT,2,"4.2, 4.4",4,"2, 4"
+The Tragedy of Romeo and Juliet,LADY CAPULET,SECOND WATCHMAN,1,5.3,5,3
+The Tragedy of Romeo and Juliet,LADY CAPULET,SERVANT,1,1.3,1,3
+The Tragedy of Romeo and Juliet,LADY CAPULET,THIRD MUSICIAN,1,4.5,4,5
+The Tragedy of Romeo and Juliet,LADY CAPULET,THIRD WATCHMAN,1,5.3,5,3
+The Tragedy of Romeo and Juliet,LADY CAPULET,TYBALT,2,"1.1, 3.1","1, 3",1
+The Tragedy of Romeo and Juliet,LADY MONTAGUE,MONTAGUE,1,1.1,1,1
+The Tragedy of Romeo and Juliet,LADY MONTAGUE,PRINCE,1,1.1,1,1
+The Tragedy of Romeo and Juliet,LADY MONTAGUE,ROMEO,1,1.1,1,1
+The Tragedy of Romeo and Juliet,LADY MONTAGUE,SAMPSON,1,1.1,1,1
+The Tragedy of Romeo and Juliet,LADY MONTAGUE,TYBALT,1,1.1,1,1
+The Tragedy of Romeo and Juliet,MERCUTIO,MONTAGUE,1,3.1,3,1
+The Tragedy of Romeo and Juliet,MERCUTIO,NURSE,1,2.4,2,4
+The Tragedy of Romeo and Juliet,MERCUTIO,PETER,1,2.4,2,4
+The Tragedy of Romeo and Juliet,MERCUTIO,PRINCE,1,3.1,3,1
+The Tragedy of Romeo and Juliet,MERCUTIO,ROMEO,4,"1.4, 2.1, 2.4, 3.1","1, 2, 3","1, 4"
+The Tragedy of Romeo and Juliet,MERCUTIO,TYBALT,1,3.1,3,1
+The Tragedy of Romeo and Juliet,MONTAGUE,PAGE,1,5.3,5,3
+The Tragedy of Romeo and Juliet,MONTAGUE,PARIS,1,5.3,5,3
+The Tragedy of Romeo and Juliet,MONTAGUE,PRINCE,3,"1.1, 3.1, 5.3","1, 3, 5","1, 3"
+The Tragedy of Romeo and Juliet,MONTAGUE,ROMEO,3,"1.1, 3.1, 5.3","1, 3, 5","1, 3"
+The Tragedy of Romeo and Juliet,MONTAGUE,SAMPSON,1,1.1,1,1
+The Tragedy of Romeo and Juliet,MONTAGUE,SECOND WATCHMAN,1,5.3,5,3
+The Tragedy of Romeo and Juliet,MONTAGUE,THIRD WATCHMAN,1,5.3,5,3
+The Tragedy of Romeo and Juliet,MONTAGUE,TYBALT,2,"1.1, 3.1","1, 3",1
+The Tragedy of Romeo and Juliet,MUSICIAN,NURSE,1,4.5,4,5
+The Tragedy of Romeo and Juliet,MUSICIAN,PARIS,1,4.5,4,5
+The Tragedy of Romeo and Juliet,MUSICIAN,PETER,1,4.5,4,5
+The Tragedy of Romeo and Juliet,MUSICIAN,SECOND MUSICIAN,1,4.5,4,5
+The Tragedy of Romeo and Juliet,MUSICIAN,THIRD MUSICIAN,1,4.5,4,5
+The Tragedy of Romeo and Juliet,NURSE,PARIS,1,4.5,4,5
+The Tragedy of Romeo and Juliet,NURSE,PETER,2,"2.4, 4.5","2, 4","4, 5"
+The Tragedy of Romeo and Juliet,NURSE,ROMEO,5,"1.5, 2.2, 2.4, 3.3, 3.5","1, 2, 3","2, 3, 4, 5"
+The Tragedy of Romeo and Juliet,NURSE,SECOND CAPULET,1,1.5,1,5
+The Tragedy of Romeo and Juliet,NURSE,SECOND MUSICIAN,1,4.5,4,5
+The Tragedy of Romeo and Juliet,NURSE,SECOND SERVANT,3,"1.5, 4.2, 4.4","1, 4","2, 4, 5"
+The Tragedy of Romeo and Juliet,NURSE,SERVANT,2,"1.3, 1.5",1,"3, 5"
+The Tragedy of Romeo and Juliet,NURSE,THIRD MUSICIAN,1,4.5,4,5
+The Tragedy of Romeo and Juliet,NURSE,TYBALT,1,1.5,1,5
+The Tragedy of Romeo and Juliet,PAGE,PARIS,1,5.3,5,3
+The Tragedy of Romeo and Juliet,PAGE,PRINCE,1,5.3,5,3
+The Tragedy of Romeo and Juliet,PAGE,ROMEO,1,5.3,5,3
+The Tragedy of Romeo and Juliet,PAGE,SECOND WATCHMAN,1,5.3,5,3
+The Tragedy of Romeo and Juliet,PAGE,THIRD WATCHMAN,1,5.3,5,3
+The Tragedy of Romeo and Juliet,PARIS,PETER,1,4.5,4,5
+The Tragedy of Romeo and Juliet,PARIS,PRINCE,1,5.3,5,3
+The Tragedy of Romeo and Juliet,PARIS,ROMEO,2,"1.2, 5.3","1, 5","2, 3"
+The Tragedy of Romeo and Juliet,PARIS,SECOND MUSICIAN,1,4.5,4,5
+The Tragedy of Romeo and Juliet,PARIS,SECOND WATCHMAN,1,5.3,5,3
+The Tragedy of Romeo and Juliet,PARIS,SERVANT,1,1.2,1,2
+The Tragedy of Romeo and Juliet,PARIS,THIRD MUSICIAN,1,4.5,4,5
+The Tragedy of Romeo and Juliet,PARIS,THIRD WATCHMAN,1,5.3,5,3
+The Tragedy of Romeo and Juliet,PETER,ROMEO,1,2.4,2,4
+The Tragedy of Romeo and Juliet,PETER,SECOND MUSICIAN,1,4.5,4,5
+The Tragedy of Romeo and Juliet,PETER,THIRD MUSICIAN,1,4.5,4,5
+The Tragedy of Romeo and Juliet,PRINCE,ROMEO,3,"1.1, 3.1, 5.3","1, 3, 5","1, 3"
+The Tragedy of Romeo and Juliet,PRINCE,SAMPSON,1,1.1,1,1
+The Tragedy of Romeo and Juliet,PRINCE,SECOND WATCHMAN,1,5.3,5,3
+The Tragedy of Romeo and Juliet,PRINCE,THIRD WATCHMAN,1,5.3,5,3
+The Tragedy of Romeo and Juliet,PRINCE,TYBALT,2,"1.1, 3.1","1, 3",1
+The Tragedy of Romeo and Juliet,ROMEO,SAMPSON,1,1.1,1,1
+The Tragedy of Romeo and Juliet,ROMEO,SECOND CAPULET,1,1.5,1,5
+The Tragedy of Romeo and Juliet,ROMEO,SECOND SERVANT,1,1.5,1,5
+The Tragedy of Romeo and Juliet,ROMEO,SECOND WATCHMAN,1,5.3,5,3
+The Tragedy of Romeo and Juliet,ROMEO,SERVANT,2,"1.2, 1.5",1,"2, 5"
+The Tragedy of Romeo and Juliet,ROMEO,THIRD WATCHMAN,1,5.3,5,3
+The Tragedy of Romeo and Juliet,ROMEO,TYBALT,3,"1.1, 1.5, 3.1","1, 3","1, 5"
+The Tragedy of Romeo and Juliet,SAMPSON,TYBALT,1,1.1,1,1
+The Tragedy of Romeo and Juliet,SECOND CAPULET,SECOND SERVANT,1,1.5,1,5
+The Tragedy of Romeo and Juliet,SECOND CAPULET,SERVANT,1,1.5,1,5
+The Tragedy of Romeo and Juliet,SECOND CAPULET,TYBALT,1,1.5,1,5
+The Tragedy of Romeo and Juliet,SECOND MUSICIAN,THIRD MUSICIAN,1,4.5,4,5
+The Tragedy of Romeo and Juliet,SECOND SERVANT,SERVANT,1,1.5,1,5
+The Tragedy of Romeo and Juliet,SECOND SERVANT,TYBALT,1,1.5,1,5
+The Tragedy of Romeo and Juliet,SECOND WATCHMAN,THIRD WATCHMAN,1,5.3,5,3
+The Tragedy of Romeo and Juliet,SERVANT,TYBALT,1,1.5,1,5
