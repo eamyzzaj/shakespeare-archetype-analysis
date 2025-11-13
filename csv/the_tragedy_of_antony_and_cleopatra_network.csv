@@ -1,0 +1,314 @@
+Play,Character A,Character B,Scenes Together,Scenes List,Acts Together,Scenes Together (IDs)
+The Tragedy of Antony and Cleopatra,AGRIPPA,ALL,1,5.1,5,1
+The Tragedy of Antony and Cleopatra,AGRIPPA,DERCETAS,1,5.1,5,1
+The Tragedy of Antony and Cleopatra,AGRIPPA,DOLABELLA,1,5.1,5,1
+The Tragedy of Antony and Cleopatra,AGRIPPA,DOMITIUS ENOBARBUS,3,"2.2, 3.2, 4.6","2, 3, 4","2, 6"
+The Tragedy of Antony and Cleopatra,AGRIPPA,EGYPTIAN,1,5.1,5,1
+The Tragedy of Antony and Cleopatra,AGRIPPA,EROS,1,4.7,4,7
+The Tragedy of Antony and Cleopatra,AGRIPPA,LEPIDUS,3,"2.2, 2.4, 3.2","2, 3","2, 4"
+The Tragedy of Antony and Cleopatra,AGRIPPA,MARK ANTONY,3,"2.2, 3.2, 4.7","2, 3, 4","2, 7"
+The Tragedy of Antony and Cleopatra,AGRIPPA,MECAENAS,4,"2.2, 2.4, 3.6, 5.1","2, 3, 5","1, 2, 4, 6"
+The Tragedy of Antony and Cleopatra,AGRIPPA,MESSENGER,1,4.6,4,6
+The Tragedy of Antony and Cleopatra,AGRIPPA,OCTAVIA,2,"3.2, 3.6",3,"2, 6"
+The Tragedy of Antony and Cleopatra,AGRIPPA,OCTAVIUS CAESAR,5,"2.2, 3.2, 3.6, 4.6, 5.1","2, 3, 4, 5","1, 2, 6"
+The Tragedy of Antony and Cleopatra,AGRIPPA,PROCULEIUS,1,5.1,5,1
+The Tragedy of Antony and Cleopatra,AGRIPPA,SCARUS,1,4.7,4,7
+The Tragedy of Antony and Cleopatra,AGRIPPA,SOLDIER,1,4.6,4,6
+The Tragedy of Antony and Cleopatra,ALEXAS,CHARMIAN,3,"1.2, 1.5, 3.3","1, 3","2, 3, 5"
+The Tragedy of Antony and Cleopatra,ALEXAS,CLEOPATRA,3,"1.2, 1.5, 3.3","1, 3","2, 3, 5"
+The Tragedy of Antony and Cleopatra,ALEXAS,DOMITIUS ENOBARBUS,1,1.2,1,2
+The Tragedy of Antony and Cleopatra,ALEXAS,FIRST ATTENDANT,1,1.2,1,2
+The Tragedy of Antony and Cleopatra,ALEXAS,IRAS,1,1.2,1,2
+The Tragedy of Antony and Cleopatra,ALEXAS,MARDIAN,1,1.5,1,5
+The Tragedy of Antony and Cleopatra,ALEXAS,MARK ANTONY,1,1.2,1,2
+The Tragedy of Antony and Cleopatra,ALEXAS,MESSENGER,2,"1.2, 3.3","1, 3","2, 3"
+The Tragedy of Antony and Cleopatra,ALEXAS,SECOND ATTENDANT,1,1.2,1,2
+The Tragedy of Antony and Cleopatra,ALEXAS,SECOND MESSENGER,1,1.2,1,2
+The Tragedy of Antony and Cleopatra,ALEXAS,SOOTHSAYER,1,1.2,1,2
+The Tragedy of Antony and Cleopatra,ALL,CAPTAIN,1,4.4,4,4
+The Tragedy of Antony and Cleopatra,ALL,CHARMIAN,3,"3.11, 4.15, 4.4","3, 4","4, 11, 15"
+The Tragedy of Antony and Cleopatra,ALL,CLEOPATRA,4,"3.11, 4.15, 4.2, 4.4","3, 4","2, 4, 11, 15"
+The Tragedy of Antony and Cleopatra,ALL,DERCETAS,2,"4.14, 5.1","4, 5","1, 14"
+The Tragedy of Antony and Cleopatra,ALL,DIOMEDES,2,"4.14, 4.15",4,"14, 15"
+The Tragedy of Antony and Cleopatra,ALL,DOLABELLA,1,5.1,5,1
+The Tragedy of Antony and Cleopatra,ALL,DOMITIUS ENOBARBUS,1,4.2,4,2
+The Tragedy of Antony and Cleopatra,ALL,EGYPTIAN,1,5.1,5,1
+The Tragedy of Antony and Cleopatra,ALL,EROS,3,"3.11, 4.14, 4.4","3, 4","4, 11, 14"
+The Tragedy of Antony and Cleopatra,ALL,FIRST GUARD,1,4.14,4,14
+The Tragedy of Antony and Cleopatra,ALL,FIRST SOLDIER,1,4.3,4,3
+The Tragedy of Antony and Cleopatra,ALL,FOURTH SOLDIER,1,4.3,4,3
+The Tragedy of Antony and Cleopatra,ALL,IRAS,2,"3.11, 4.15","3, 4","11, 15"
+The Tragedy of Antony and Cleopatra,ALL,MARDIAN,1,4.14,4,14
+The Tragedy of Antony and Cleopatra,ALL,MARK ANTONY,5,"3.11, 4.14, 4.15, 4.2, 4.4","3, 4","2, 4, 11, 14, 15"
+The Tragedy of Antony and Cleopatra,ALL,MECAENAS,1,5.1,5,1
+The Tragedy of Antony and Cleopatra,ALL,OCTAVIUS CAESAR,1,5.1,5,1
+The Tragedy of Antony and Cleopatra,ALL,PROCULEIUS,1,5.1,5,1
+The Tragedy of Antony and Cleopatra,ALL,SECOND GUARD,1,4.14,4,14
+The Tragedy of Antony and Cleopatra,ALL,SECOND SOLDIER,1,4.3,4,3
+The Tragedy of Antony and Cleopatra,ALL,SOLDIER,1,4.4,4,4
+The Tragedy of Antony and Cleopatra,ALL,THIRD GUARD,1,4.14,4,14
+The Tragedy of Antony and Cleopatra,ALL,THIRD SOLDIER,1,4.3,4,3
+The Tragedy of Antony and Cleopatra,ATTENDANT,CLEOPATRA,2,"1.1, 3.13","1, 3","1, 13"
+The Tragedy of Antony and Cleopatra,ATTENDANT,DEMETRIUS,1,1.1,1,1
+The Tragedy of Antony and Cleopatra,ATTENDANT,DOMITIUS ENOBARBUS,1,3.13,3,13
+The Tragedy of Antony and Cleopatra,ATTENDANT,EUPHRONIUS,1,3.13,3,13
+The Tragedy of Antony and Cleopatra,ATTENDANT,FIRST ATTENDANT,1,3.13,3,13
+The Tragedy of Antony and Cleopatra,ATTENDANT,MARK ANTONY,2,"1.1, 3.13","1, 3","1, 13"
+The Tragedy of Antony and Cleopatra,ATTENDANT,PHILO,1,1.1,1,1
+The Tragedy of Antony and Cleopatra,ATTENDANT,THYREUS,1,3.13,3,13
+The Tragedy of Antony and Cleopatra,ATTENDANTS,CHARMIAN,1,2.5,2,5
+The Tragedy of Antony and Cleopatra,ATTENDANTS,CLEOPATRA,1,2.5,2,5
+The Tragedy of Antony and Cleopatra,ATTENDANTS,MARDIAN,1,2.5,2,5
+The Tragedy of Antony and Cleopatra,ATTENDANTS,MESSENGER,1,2.5,2,5
+The Tragedy of Antony and Cleopatra,CANIDIUS,CLEOPATRA,1,3.7,3,7
+The Tragedy of Antony and Cleopatra,CANIDIUS,DOMITIUS ENOBARBUS,2,"3.10, 3.7",3,"7, 10"
+The Tragedy of Antony and Cleopatra,CANIDIUS,MARK ANTONY,1,3.7,3,7
+The Tragedy of Antony and Cleopatra,CANIDIUS,MESSENGER,1,3.7,3,7
+The Tragedy of Antony and Cleopatra,CANIDIUS,SCARUS,1,3.10,3,10
+The Tragedy of Antony and Cleopatra,CANIDIUS,SOLDIER,1,3.7,3,7
+The Tragedy of Antony and Cleopatra,CAPTAIN,CHARMIAN,1,4.4,4,4
+The Tragedy of Antony and Cleopatra,CAPTAIN,CLEOPATRA,1,4.4,4,4
+The Tragedy of Antony and Cleopatra,CAPTAIN,EROS,1,4.4,4,4
+The Tragedy of Antony and Cleopatra,CAPTAIN,MARK ANTONY,1,4.4,4,4
+The Tragedy of Antony and Cleopatra,CAPTAIN,SOLDIER,1,4.4,4,4
+The Tragedy of Antony and Cleopatra,CHARMIAN,CLEOPATRA,10,"1.2, 1.3, 1.5, 2.5, 3.11, 3.3, 4.13, 4.15, 4.4, 5.2","1, 2, 3, 4, 5","2, 3, 4, 5, 11, 13, 15"
+The Tragedy of Antony and Cleopatra,CHARMIAN,CLOWN,1,5.2,5,2
+The Tragedy of Antony and Cleopatra,CHARMIAN,DIOMEDES,1,4.15,4,15
+The Tragedy of Antony and Cleopatra,CHARMIAN,DOLABELLA,1,5.2,5,2
+The Tragedy of Antony and Cleopatra,CHARMIAN,DOMITIUS ENOBARBUS,1,1.2,1,2
+The Tragedy of Antony and Cleopatra,CHARMIAN,EROS,2,"3.11, 4.4","3, 4","4, 11"
+The Tragedy of Antony and Cleopatra,CHARMIAN,FIRST ATTENDANT,1,1.2,1,2
+The Tragedy of Antony and Cleopatra,CHARMIAN,FIRST GUARD,1,5.2,5,2
+The Tragedy of Antony and Cleopatra,CHARMIAN,GALLUS,1,5.2,5,2
+The Tragedy of Antony and Cleopatra,CHARMIAN,GUARD,1,5.2,5,2
+The Tragedy of Antony and Cleopatra,CHARMIAN,IRAS,4,"1.2, 3.11, 4.15, 5.2","1, 3, 4, 5","2, 11, 15"
+The Tragedy of Antony and Cleopatra,CHARMIAN,MARDIAN,2,"1.5, 2.5","1, 2",5
+The Tragedy of Antony and Cleopatra,CHARMIAN,MARK ANTONY,5,"1.2, 1.3, 3.11, 4.15, 4.4","1, 3, 4","2, 3, 4, 11, 15"
+The Tragedy of Antony and Cleopatra,CHARMIAN,MESSENGER,3,"1.2, 2.5, 3.3","1, 2, 3","2, 3, 5"
+The Tragedy of Antony and Cleopatra,CHARMIAN,OCTAVIUS CAESAR,1,5.2,5,2
+The Tragedy of Antony and Cleopatra,CHARMIAN,PROCULEIUS,1,5.2,5,2
+The Tragedy of Antony and Cleopatra,CHARMIAN,SECOND ATTENDANT,1,1.2,1,2
+The Tragedy of Antony and Cleopatra,CHARMIAN,SECOND GUARD,1,5.2,5,2
+The Tragedy of Antony and Cleopatra,CHARMIAN,SECOND MESSENGER,1,1.2,1,2
+The Tragedy of Antony and Cleopatra,CHARMIAN,SELEUCUS,1,5.2,5,2
+The Tragedy of Antony and Cleopatra,CHARMIAN,SOLDIER,1,4.4,4,4
+The Tragedy of Antony and Cleopatra,CHARMIAN,SOOTHSAYER,1,1.2,1,2
+The Tragedy of Antony and Cleopatra,CLEOPATRA,CLOWN,1,5.2,5,2
+The Tragedy of Antony and Cleopatra,CLEOPATRA,DEMETRIUS,1,1.1,1,1
+The Tragedy of Antony and Cleopatra,CLEOPATRA,DIOMEDES,1,4.15,4,15
+The Tragedy of Antony and Cleopatra,CLEOPATRA,DOLABELLA,1,5.2,5,2
+The Tragedy of Antony and Cleopatra,CLEOPATRA,DOMITIUS ENOBARBUS,4,"1.2, 3.13, 3.7, 4.2","1, 3, 4","2, 7, 13"
+The Tragedy of Antony and Cleopatra,CLEOPATRA,EROS,2,"3.11, 4.4","3, 4","4, 11"
+The Tragedy of Antony and Cleopatra,CLEOPATRA,EUPHRONIUS,1,3.13,3,13
+The Tragedy of Antony and Cleopatra,CLEOPATRA,FIRST ATTENDANT,2,"1.2, 3.13","1, 3","2, 13"
+The Tragedy of Antony and Cleopatra,CLEOPATRA,FIRST GUARD,1,5.2,5,2
+The Tragedy of Antony and Cleopatra,CLEOPATRA,GALLUS,1,5.2,5,2
+The Tragedy of Antony and Cleopatra,CLEOPATRA,GUARD,1,5.2,5,2
+The Tragedy of Antony and Cleopatra,CLEOPATRA,IRAS,4,"1.2, 3.11, 4.15, 5.2","1, 3, 4, 5","2, 11, 15"
+The Tragedy of Antony and Cleopatra,CLEOPATRA,MARDIAN,2,"1.5, 2.5","1, 2",5
+The Tragedy of Antony and Cleopatra,CLEOPATRA,MARK ANTONY,11,"1.1, 1.2, 1.3, 3.11, 3.13, 3.7, 4.12, 4.15, 4.2, 4.4, 4.8","1, 3, 4","1, 2, 3, 4, 7, 8, 11, 12, 13, 15"
+The Tragedy of Antony and Cleopatra,CLEOPATRA,MESSENGER,4,"1.2, 2.5, 3.3, 3.7","1, 2, 3","2, 3, 5, 7"
+The Tragedy of Antony and Cleopatra,CLEOPATRA,OCTAVIUS CAESAR,1,5.2,5,2
+The Tragedy of Antony and Cleopatra,CLEOPATRA,PHILO,1,1.1,1,1
+The Tragedy of Antony and Cleopatra,CLEOPATRA,PROCULEIUS,1,5.2,5,2
+The Tragedy of Antony and Cleopatra,CLEOPATRA,SCARUS,1,4.12,4,12
+The Tragedy of Antony and Cleopatra,CLEOPATRA,SECOND ATTENDANT,1,1.2,1,2
+The Tragedy of Antony and Cleopatra,CLEOPATRA,SECOND GUARD,1,5.2,5,2
+The Tragedy of Antony and Cleopatra,CLEOPATRA,SECOND MESSENGER,1,1.2,1,2
+The Tragedy of Antony and Cleopatra,CLEOPATRA,SELEUCUS,1,5.2,5,2
+The Tragedy of Antony and Cleopatra,CLEOPATRA,SOLDIER,2,"3.7, 4.4","3, 4","4, 7"
+The Tragedy of Antony and Cleopatra,CLEOPATRA,SOOTHSAYER,1,1.2,1,2
+The Tragedy of Antony and Cleopatra,CLEOPATRA,THYREUS,1,3.13,3,13
+The Tragedy of Antony and Cleopatra,CLOWN,DOLABELLA,1,5.2,5,2
+The Tragedy of Antony and Cleopatra,CLOWN,FIRST GUARD,1,5.2,5,2
+The Tragedy of Antony and Cleopatra,CLOWN,GALLUS,1,5.2,5,2
+The Tragedy of Antony and Cleopatra,CLOWN,GUARD,1,5.2,5,2
+The Tragedy of Antony and Cleopatra,CLOWN,IRAS,1,5.2,5,2
+The Tragedy of Antony and Cleopatra,CLOWN,OCTAVIUS CAESAR,1,5.2,5,2
+The Tragedy of Antony and Cleopatra,CLOWN,PROCULEIUS,1,5.2,5,2
+The Tragedy of Antony and Cleopatra,CLOWN,SECOND GUARD,1,5.2,5,2
+The Tragedy of Antony and Cleopatra,CLOWN,SELEUCUS,1,5.2,5,2
+The Tragedy of Antony and Cleopatra,DEMETRIUS,MARK ANTONY,1,1.1,1,1
+The Tragedy of Antony and Cleopatra,DEMETRIUS,PHILO,1,1.1,1,1
+The Tragedy of Antony and Cleopatra,DERCETAS,DIOMEDES,1,4.14,4,14
+The Tragedy of Antony and Cleopatra,DERCETAS,DOLABELLA,1,5.1,5,1
+The Tragedy of Antony and Cleopatra,DERCETAS,EGYPTIAN,1,5.1,5,1
+The Tragedy of Antony and Cleopatra,DERCETAS,EROS,1,4.14,4,14
+The Tragedy of Antony and Cleopatra,DERCETAS,FIRST GUARD,1,4.14,4,14
+The Tragedy of Antony and Cleopatra,DERCETAS,MARDIAN,1,4.14,4,14
+The Tragedy of Antony and Cleopatra,DERCETAS,MARK ANTONY,1,4.14,4,14
+The Tragedy of Antony and Cleopatra,DERCETAS,MECAENAS,1,5.1,5,1
+The Tragedy of Antony and Cleopatra,DERCETAS,OCTAVIUS CAESAR,1,5.1,5,1
+The Tragedy of Antony and Cleopatra,DERCETAS,PROCULEIUS,1,5.1,5,1
+The Tragedy of Antony and Cleopatra,DERCETAS,SECOND GUARD,1,4.14,4,14
+The Tragedy of Antony and Cleopatra,DERCETAS,THIRD GUARD,1,4.14,4,14
+The Tragedy of Antony and Cleopatra,DIOMEDES,EROS,1,4.14,4,14
+The Tragedy of Antony and Cleopatra,DIOMEDES,FIRST GUARD,1,4.14,4,14
+The Tragedy of Antony and Cleopatra,DIOMEDES,IRAS,1,4.15,4,15
+The Tragedy of Antony and Cleopatra,DIOMEDES,MARDIAN,1,4.14,4,14
+The Tragedy of Antony and Cleopatra,DIOMEDES,MARK ANTONY,2,"4.14, 4.15",4,"14, 15"
+The Tragedy of Antony and Cleopatra,DIOMEDES,SECOND GUARD,1,4.14,4,14
+The Tragedy of Antony and Cleopatra,DIOMEDES,THIRD GUARD,1,4.14,4,14
+The Tragedy of Antony and Cleopatra,DOLABELLA,EGYPTIAN,1,5.1,5,1
+The Tragedy of Antony and Cleopatra,DOLABELLA,EUPHRONIUS,1,3.12,3,12
+The Tragedy of Antony and Cleopatra,DOLABELLA,FIRST GUARD,1,5.2,5,2
+The Tragedy of Antony and Cleopatra,DOLABELLA,GALLUS,1,5.2,5,2
+The Tragedy of Antony and Cleopatra,DOLABELLA,GUARD,1,5.2,5,2
+The Tragedy of Antony and Cleopatra,DOLABELLA,IRAS,1,5.2,5,2
+The Tragedy of Antony and Cleopatra,DOLABELLA,MECAENAS,1,5.1,5,1
+The Tragedy of Antony and Cleopatra,DOLABELLA,OCTAVIUS CAESAR,3,"3.12, 5.1, 5.2","3, 5","1, 2, 12"
+The Tragedy of Antony and Cleopatra,DOLABELLA,PROCULEIUS,2,"5.1, 5.2",5,"1, 2"
+The Tragedy of Antony and Cleopatra,DOLABELLA,SECOND GUARD,1,5.2,5,2
+The Tragedy of Antony and Cleopatra,DOLABELLA,SELEUCUS,1,5.2,5,2
+The Tragedy of Antony and Cleopatra,DOLABELLA,THYREUS,1,3.12,3,12
+The Tragedy of Antony and Cleopatra,DOMITIUS ENOBARBUS,EROS,1,3.5,3,5
+The Tragedy of Antony and Cleopatra,DOMITIUS ENOBARBUS,EUPHRONIUS,1,3.13,3,13
+The Tragedy of Antony and Cleopatra,DOMITIUS ENOBARBUS,FIRST ATTENDANT,2,"1.2, 3.13","1, 3","2, 13"
+The Tragedy of Antony and Cleopatra,DOMITIUS ENOBARBUS,FIRST SERVANT,1,2.7,2,7
+The Tragedy of Antony and Cleopatra,DOMITIUS ENOBARBUS,FIRST SOLDIER,1,4.9,4,9
+The Tragedy of Antony and Cleopatra,DOMITIUS ENOBARBUS,IRAS,1,1.2,1,2
+The Tragedy of Antony and Cleopatra,DOMITIUS ENOBARBUS,LEPIDUS,4,"2.2, 2.6, 2.7, 3.2","2, 3","2, 6, 7"
+The Tragedy of Antony and Cleopatra,DOMITIUS ENOBARBUS,MARK ANTONY,8,"1.2, 2.2, 2.6, 2.7, 3.13, 3.2, 3.7, 4.2","1, 2, 3, 4","2, 6, 7, 13"
+The Tragedy of Antony and Cleopatra,DOMITIUS ENOBARBUS,MECAENAS,1,2.2,2,2
+The Tragedy of Antony and Cleopatra,DOMITIUS ENOBARBUS,MENAS,2,"2.6, 2.7",2,"6, 7"
+The Tragedy of Antony and Cleopatra,DOMITIUS ENOBARBUS,MESSENGER,3,"1.2, 3.7, 4.6","1, 3, 4","2, 6, 7"
+The Tragedy of Antony and Cleopatra,DOMITIUS ENOBARBUS,OCTAVIA,1,3.2,3,2
+The Tragedy of Antony and Cleopatra,DOMITIUS ENOBARBUS,OCTAVIUS CAESAR,5,"2.2, 2.6, 2.7, 3.2, 4.6","2, 3, 4","2, 6, 7"
+The Tragedy of Antony and Cleopatra,DOMITIUS ENOBARBUS,POMPEY,2,"2.6, 2.7",2,"6, 7"
+The Tragedy of Antony and Cleopatra,DOMITIUS ENOBARBUS,SCARUS,1,3.10,3,10
+The Tragedy of Antony and Cleopatra,DOMITIUS ENOBARBUS,SECOND ATTENDANT,1,1.2,1,2
+The Tragedy of Antony and Cleopatra,DOMITIUS ENOBARBUS,SECOND MESSENGER,1,1.2,1,2
+The Tragedy of Antony and Cleopatra,DOMITIUS ENOBARBUS,SECOND SERVANT,1,2.7,2,7
+The Tragedy of Antony and Cleopatra,DOMITIUS ENOBARBUS,SECOND SOLDIER,1,4.9,4,9
+The Tragedy of Antony and Cleopatra,DOMITIUS ENOBARBUS,SOLDIER,2,"3.7, 4.6","3, 4","6, 7"
+The Tragedy of Antony and Cleopatra,DOMITIUS ENOBARBUS,SOOTHSAYER,1,1.2,1,2
+The Tragedy of Antony and Cleopatra,DOMITIUS ENOBARBUS,THIRD SOLDIER,1,4.9,4,9
+The Tragedy of Antony and Cleopatra,DOMITIUS ENOBARBUS,THYREUS,1,3.13,3,13
+The Tragedy of Antony and Cleopatra,EGYPTIAN,MECAENAS,1,5.1,5,1
+The Tragedy of Antony and Cleopatra,EGYPTIAN,OCTAVIUS CAESAR,1,5.1,5,1
+The Tragedy of Antony and Cleopatra,EGYPTIAN,PROCULEIUS,1,5.1,5,1
+The Tragedy of Antony and Cleopatra,EROS,FIRST GUARD,1,4.14,4,14
+The Tragedy of Antony and Cleopatra,EROS,IRAS,1,3.11,3,11
+The Tragedy of Antony and Cleopatra,EROS,MARDIAN,1,4.14,4,14
+The Tragedy of Antony and Cleopatra,EROS,MARK ANTONY,5,"3.11, 4.14, 4.4, 4.5, 4.7","3, 4","4, 5, 7, 11, 14"
+The Tragedy of Antony and Cleopatra,EROS,SCARUS,1,4.7,4,7
+The Tragedy of Antony and Cleopatra,EROS,SECOND GUARD,1,4.14,4,14
+The Tragedy of Antony and Cleopatra,EROS,SOLDIER,2,"4.4, 4.5",4,"4, 5"
+The Tragedy of Antony and Cleopatra,EROS,THIRD GUARD,1,4.14,4,14
+The Tragedy of Antony and Cleopatra,EUPHRONIUS,FIRST ATTENDANT,1,3.13,3,13
+The Tragedy of Antony and Cleopatra,EUPHRONIUS,MARK ANTONY,1,3.13,3,13
+The Tragedy of Antony and Cleopatra,EUPHRONIUS,OCTAVIUS CAESAR,1,3.12,3,12
+The Tragedy of Antony and Cleopatra,EUPHRONIUS,THYREUS,2,"3.12, 3.13",3,"12, 13"
+The Tragedy of Antony and Cleopatra,FIRST ATTENDANT,IRAS,1,1.2,1,2
+The Tragedy of Antony and Cleopatra,FIRST ATTENDANT,MARK ANTONY,2,"1.2, 3.13","1, 3","2, 13"
+The Tragedy of Antony and Cleopatra,FIRST ATTENDANT,MESSENGER,1,1.2,1,2
+The Tragedy of Antony and Cleopatra,FIRST ATTENDANT,SECOND ATTENDANT,1,1.2,1,2
+The Tragedy of Antony and Cleopatra,FIRST ATTENDANT,SECOND MESSENGER,1,1.2,1,2
+The Tragedy of Antony and Cleopatra,FIRST ATTENDANT,SOOTHSAYER,1,1.2,1,2
+The Tragedy of Antony and Cleopatra,FIRST ATTENDANT,THYREUS,1,3.13,3,13
+The Tragedy of Antony and Cleopatra,FIRST GUARD,GALLUS,1,5.2,5,2
+The Tragedy of Antony and Cleopatra,FIRST GUARD,GUARD,1,5.2,5,2
+The Tragedy of Antony and Cleopatra,FIRST GUARD,IRAS,1,5.2,5,2
+The Tragedy of Antony and Cleopatra,FIRST GUARD,MARDIAN,1,4.14,4,14
+The Tragedy of Antony and Cleopatra,FIRST GUARD,MARK ANTONY,1,4.14,4,14
+The Tragedy of Antony and Cleopatra,FIRST GUARD,OCTAVIUS CAESAR,1,5.2,5,2
+The Tragedy of Antony and Cleopatra,FIRST GUARD,PROCULEIUS,1,5.2,5,2
+The Tragedy of Antony and Cleopatra,FIRST GUARD,SECOND GUARD,2,"4.14, 5.2","4, 5","2, 14"
+The Tragedy of Antony and Cleopatra,FIRST GUARD,SELEUCUS,1,5.2,5,2
+The Tragedy of Antony and Cleopatra,FIRST GUARD,THIRD GUARD,1,4.14,4,14
+The Tragedy of Antony and Cleopatra,FIRST SERVANT,LEPIDUS,1,2.7,2,7
+The Tragedy of Antony and Cleopatra,FIRST SERVANT,MARK ANTONY,1,2.7,2,7
+The Tragedy of Antony and Cleopatra,FIRST SERVANT,MENAS,1,2.7,2,7
+The Tragedy of Antony and Cleopatra,FIRST SERVANT,OCTAVIUS CAESAR,1,2.7,2,7
+The Tragedy of Antony and Cleopatra,FIRST SERVANT,POMPEY,1,2.7,2,7
+The Tragedy of Antony and Cleopatra,FIRST SERVANT,SECOND SERVANT,1,2.7,2,7
+The Tragedy of Antony and Cleopatra,FIRST SOLDIER,FOURTH SOLDIER,1,4.3,4,3
+The Tragedy of Antony and Cleopatra,FIRST SOLDIER,SECOND SOLDIER,2,"4.3, 4.9",4,"3, 9"
+The Tragedy of Antony and Cleopatra,FIRST SOLDIER,THIRD SOLDIER,2,"4.3, 4.9",4,"3, 9"
+The Tragedy of Antony and Cleopatra,FOURTH SOLDIER,SECOND SOLDIER,1,4.3,4,3
+The Tragedy of Antony and Cleopatra,FOURTH SOLDIER,THIRD SOLDIER,1,4.3,4,3
+The Tragedy of Antony and Cleopatra,GALLUS,GUARD,1,5.2,5,2
+The Tragedy of Antony and Cleopatra,GALLUS,IRAS,1,5.2,5,2
+The Tragedy of Antony and Cleopatra,GALLUS,OCTAVIUS CAESAR,1,5.2,5,2
+The Tragedy of Antony and Cleopatra,GALLUS,PROCULEIUS,1,5.2,5,2
+The Tragedy of Antony and Cleopatra,GALLUS,SECOND GUARD,1,5.2,5,2
+The Tragedy of Antony and Cleopatra,GALLUS,SELEUCUS,1,5.2,5,2
+The Tragedy of Antony and Cleopatra,GUARD,IRAS,1,5.2,5,2
+The Tragedy of Antony and Cleopatra,GUARD,OCTAVIUS CAESAR,1,5.2,5,2
+The Tragedy of Antony and Cleopatra,GUARD,PROCULEIUS,1,5.2,5,2
+The Tragedy of Antony and Cleopatra,GUARD,SECOND GUARD,1,5.2,5,2
+The Tragedy of Antony and Cleopatra,GUARD,SELEUCUS,1,5.2,5,2
+The Tragedy of Antony and Cleopatra,IRAS,MARK ANTONY,3,"1.2, 3.11, 4.15","1, 3, 4","2, 11, 15"
+The Tragedy of Antony and Cleopatra,IRAS,MESSENGER,1,1.2,1,2
+The Tragedy of Antony and Cleopatra,IRAS,OCTAVIUS CAESAR,1,5.2,5,2
+The Tragedy of Antony and Cleopatra,IRAS,PROCULEIUS,1,5.2,5,2
+The Tragedy of Antony and Cleopatra,IRAS,SECOND ATTENDANT,1,1.2,1,2
+The Tragedy of Antony and Cleopatra,IRAS,SECOND GUARD,1,5.2,5,2
+The Tragedy of Antony and Cleopatra,IRAS,SECOND MESSENGER,1,1.2,1,2
+The Tragedy of Antony and Cleopatra,IRAS,SELEUCUS,1,5.2,5,2
+The Tragedy of Antony and Cleopatra,IRAS,SOOTHSAYER,1,1.2,1,2
+The Tragedy of Antony and Cleopatra,LEPIDUS,MARK ANTONY,4,"2.2, 2.6, 2.7, 3.2","2, 3","2, 6, 7"
+The Tragedy of Antony and Cleopatra,LEPIDUS,MECAENAS,2,"2.2, 2.4",2,"2, 4"
+The Tragedy of Antony and Cleopatra,LEPIDUS,MENAS,2,"2.6, 2.7",2,"6, 7"
+The Tragedy of Antony and Cleopatra,LEPIDUS,MESSENGER,1,1.4,1,4
+The Tragedy of Antony and Cleopatra,LEPIDUS,OCTAVIA,1,3.2,3,2
+The Tragedy of Antony and Cleopatra,LEPIDUS,OCTAVIUS CAESAR,5,"1.4, 2.2, 2.6, 2.7, 3.2","1, 2, 3","2, 4, 6, 7"
+The Tragedy of Antony and Cleopatra,LEPIDUS,POMPEY,2,"2.6, 2.7",2,"6, 7"
+The Tragedy of Antony and Cleopatra,LEPIDUS,SECOND SERVANT,1,2.7,2,7
+The Tragedy of Antony and Cleopatra,MARDIAN,MARK ANTONY,1,4.14,4,14
+The Tragedy of Antony and Cleopatra,MARDIAN,MESSENGER,1,2.5,2,5
+The Tragedy of Antony and Cleopatra,MARDIAN,SECOND GUARD,1,4.14,4,14
+The Tragedy of Antony and Cleopatra,MARDIAN,THIRD GUARD,1,4.14,4,14
+The Tragedy of Antony and Cleopatra,MARK ANTONY,MECAENAS,1,2.2,2,2
+The Tragedy of Antony and Cleopatra,MARK ANTONY,MENAS,2,"2.6, 2.7",2,"6, 7"
+The Tragedy of Antony and Cleopatra,MARK ANTONY,MESSENGER,2,"1.2, 3.7","1, 3","2, 7"
+The Tragedy of Antony and Cleopatra,MARK ANTONY,OCTAVIA,3,"2.3, 3.2, 3.4","2, 3","2, 3, 4"
+The Tragedy of Antony and Cleopatra,MARK ANTONY,OCTAVIUS CAESAR,5,"2.2, 2.3, 2.6, 2.7, 3.2","2, 3","2, 3, 6, 7"
+The Tragedy of Antony and Cleopatra,MARK ANTONY,PHILO,1,1.1,1,1
+The Tragedy of Antony and Cleopatra,MARK ANTONY,POMPEY,2,"2.6, 2.7",2,"6, 7"
+The Tragedy of Antony and Cleopatra,MARK ANTONY,SCARUS,3,"4.10, 4.12, 4.7",4,"7, 10, 12"
+The Tragedy of Antony and Cleopatra,MARK ANTONY,SECOND ATTENDANT,1,1.2,1,2
+The Tragedy of Antony and Cleopatra,MARK ANTONY,SECOND GUARD,1,4.14,4,14
+The Tragedy of Antony and Cleopatra,MARK ANTONY,SECOND MESSENGER,1,1.2,1,2
+The Tragedy of Antony and Cleopatra,MARK ANTONY,SECOND SERVANT,1,2.7,2,7
+The Tragedy of Antony and Cleopatra,MARK ANTONY,SOLDIER,3,"3.7, 4.4, 4.5","3, 4","4, 5, 7"
+The Tragedy of Antony and Cleopatra,MARK ANTONY,SOOTHSAYER,2,"1.2, 2.3","1, 2","2, 3"
+The Tragedy of Antony and Cleopatra,MARK ANTONY,THIRD GUARD,1,4.14,4,14
+The Tragedy of Antony and Cleopatra,MARK ANTONY,THYREUS,1,3.13,3,13
+The Tragedy of Antony and Cleopatra,MECAENAS,OCTAVIA,1,3.6,3,6
+The Tragedy of Antony and Cleopatra,MECAENAS,OCTAVIUS CAESAR,4,"2.2, 3.6, 4.1, 5.1","2, 3, 4, 5","1, 2, 6"
+The Tragedy of Antony and Cleopatra,MECAENAS,PROCULEIUS,1,5.1,5,1
+The Tragedy of Antony and Cleopatra,MENAS,MENECRATES,1,2.1,2,1
+The Tragedy of Antony and Cleopatra,MENAS,OCTAVIUS CAESAR,2,"2.6, 2.7",2,"6, 7"
+The Tragedy of Antony and Cleopatra,MENAS,POMPEY,3,"2.1, 2.6, 2.7",2,"1, 6, 7"
+The Tragedy of Antony and Cleopatra,MENAS,SECOND SERVANT,1,2.7,2,7
+The Tragedy of Antony and Cleopatra,MENAS,VARRIUS,1,2.1,2,1
+The Tragedy of Antony and Cleopatra,MENECRATES,POMPEY,1,2.1,2,1
+The Tragedy of Antony and Cleopatra,MENECRATES,VARRIUS,1,2.1,2,1
+The Tragedy of Antony and Cleopatra,MESSENGER,OCTAVIUS CAESAR,2,"1.4, 4.6","1, 4","4, 6"
+The Tragedy of Antony and Cleopatra,MESSENGER,SECOND ATTENDANT,1,1.2,1,2
+The Tragedy of Antony and Cleopatra,MESSENGER,SECOND MESSENGER,1,1.2,1,2
+The Tragedy of Antony and Cleopatra,MESSENGER,SOLDIER,2,"3.7, 4.6","3, 4","6, 7"
+The Tragedy of Antony and Cleopatra,MESSENGER,SOOTHSAYER,1,1.2,1,2
+The Tragedy of Antony and Cleopatra,OCTAVIA,OCTAVIUS CAESAR,3,"2.3, 3.2, 3.6","2, 3","2, 3, 6"
+The Tragedy of Antony and Cleopatra,OCTAVIA,SOOTHSAYER,1,2.3,2,3
+The Tragedy of Antony and Cleopatra,OCTAVIUS CAESAR,POMPEY,2,"2.6, 2.7",2,"6, 7"
+The Tragedy of Antony and Cleopatra,OCTAVIUS CAESAR,PROCULEIUS,2,"5.1, 5.2",5,"1, 2"
+The Tragedy of Antony and Cleopatra,OCTAVIUS CAESAR,SECOND GUARD,1,5.2,5,2
+The Tragedy of Antony and Cleopatra,OCTAVIUS CAESAR,SECOND SERVANT,1,2.7,2,7
+The Tragedy of Antony and Cleopatra,OCTAVIUS CAESAR,SELEUCUS,1,5.2,5,2
+The Tragedy of Antony and Cleopatra,OCTAVIUS CAESAR,SOLDIER,1,4.6,4,6
+The Tragedy of Antony and Cleopatra,OCTAVIUS CAESAR,SOOTHSAYER,1,2.3,2,3
+The Tragedy of Antony and Cleopatra,OCTAVIUS CAESAR,TAURUS,1,3.8,3,8
+The Tragedy of Antony and Cleopatra,OCTAVIUS CAESAR,THYREUS,1,3.12,3,12
+The Tragedy of Antony and Cleopatra,POMPEY,SECOND SERVANT,1,2.7,2,7
+The Tragedy of Antony and Cleopatra,POMPEY,VARRIUS,1,2.1,2,1
+The Tragedy of Antony and Cleopatra,PROCULEIUS,SECOND GUARD,1,5.2,5,2
+The Tragedy of Antony and Cleopatra,PROCULEIUS,SELEUCUS,1,5.2,5,2
+The Tragedy of Antony and Cleopatra,SECOND ATTENDANT,SECOND MESSENGER,1,1.2,1,2
+The Tragedy of Antony and Cleopatra,SECOND ATTENDANT,SOOTHSAYER,1,1.2,1,2
+The Tragedy of Antony and Cleopatra,SECOND GUARD,SELEUCUS,1,5.2,5,2
+The Tragedy of Antony and Cleopatra,SECOND GUARD,THIRD GUARD,1,4.14,4,14
+The Tragedy of Antony and Cleopatra,SECOND MESSENGER,SOOTHSAYER,1,1.2,1,2
+The Tragedy of Antony and Cleopatra,SECOND SOLDIER,THIRD SOLDIER,2,"4.3, 4.9",4,"3, 9"
+The Tragedy of Antony and Cleopatra,SILIUS,VENTIDIUS,1,3.1,3,1

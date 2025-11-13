@@ -1,0 +1,297 @@
+Play,Character A,Character B,Scenes Together,Scenes List,Acts Together,Scenes Together (IDs)
+The Tragedy of Julius Caesar,ALL,ANTONY,1,3.2,3,2
+The Tragedy of Julius Caesar,ALL,BRUTUS,1,3.2,3,2
+The Tragedy of Julius Caesar,ALL,CITIZENS,1,3.2,3,2
+The Tragedy of Julius Caesar,ALL,FIRST CITIZEN,1,3.2,3,2
+The Tragedy of Julius Caesar,ALL,FOURTH CITIZEN,1,3.2,3,2
+The Tragedy of Julius Caesar,ALL,SECOND CITIZEN,1,3.2,3,2
+The Tragedy of Julius Caesar,ALL,SERVANT,1,3.2,3,2
+The Tragedy of Julius Caesar,ALL,SEVERAL CITIZENS,1,3.2,3,2
+The Tragedy of Julius Caesar,ALL,THIRD CITIZEN,1,3.2,3,2
+The Tragedy of Julius Caesar,ANTONY,ARTEMIDORUS,1,3.1,3,1
+The Tragedy of Julius Caesar,ANTONY,BRUTUS,7,"1.2, 2.2, 3.1, 3.2, 5.1, 5.4, 5.5","1, 2, 3, 5","1, 2, 4, 5"
+The Tragedy of Julius Caesar,ANTONY,CAESAR,3,"1.2, 2.2, 3.1","1, 2, 3","1, 2"
+The Tragedy of Julius Caesar,ANTONY,CALPURNIA,2,"1.2, 2.2","1, 2",2
+The Tragedy of Julius Caesar,ANTONY,CASCA,2,"1.2, 3.1","1, 3","1, 2"
+The Tragedy of Julius Caesar,ANTONY,CASSIUS,3,"1.2, 3.1, 5.1","1, 3, 5","1, 2"
+The Tragedy of Julius Caesar,ANTONY,CATO,1,5.4,5,4
+The Tragedy of Julius Caesar,ANTONY,CINNA,1,3.1,3,1
+The Tragedy of Julius Caesar,ANTONY,CITIZENS,1,3.2,3,2
+The Tragedy of Julius Caesar,ANTONY,CLITUS,1,5.5,5,5
+The Tragedy of Julius Caesar,ANTONY,DARDANIUS,1,5.5,5,5
+The Tragedy of Julius Caesar,ANTONY,DECIUS BRUTUS,2,"2.2, 3.1","2, 3","1, 2"
+The Tragedy of Julius Caesar,ANTONY,FIRST CITIZEN,1,3.2,3,2
+The Tragedy of Julius Caesar,ANTONY,FIRST SOLDIER,1,5.4,5,4
+The Tragedy of Julius Caesar,ANTONY,FOURTH CITIZEN,1,3.2,3,2
+The Tragedy of Julius Caesar,ANTONY,LEPIDUS,1,4.1,4,1
+The Tragedy of Julius Caesar,ANTONY,LUCILIUS,3,"5.1, 5.4, 5.5",5,"1, 4, 5"
+The Tragedy of Julius Caesar,ANTONY,MESSALA,2,"5.1, 5.5",5,"1, 5"
+The Tragedy of Julius Caesar,ANTONY,MESSENGER,1,5.1,5,1
+The Tragedy of Julius Caesar,ANTONY,METELLUS CIMBER,1,3.1,3,1
+The Tragedy of Julius Caesar,ANTONY,OCTAVIUS,3,"4.1, 5.1, 5.5","4, 5","1, 5"
+The Tragedy of Julius Caesar,ANTONY,POPILIUS,1,3.1,3,1
+The Tragedy of Julius Caesar,ANTONY,PUBLIUS,2,"2.2, 3.1","2, 3","1, 2"
+The Tragedy of Julius Caesar,ANTONY,SECOND CITIZEN,1,3.2,3,2
+The Tragedy of Julius Caesar,ANTONY,SECOND SOLDIER,1,5.4,5,4
+The Tragedy of Julius Caesar,ANTONY,SERVANT,3,"2.2, 3.1, 3.2","2, 3","1, 2"
+The Tragedy of Julius Caesar,ANTONY,SEVERAL CITIZENS,1,3.2,3,2
+The Tragedy of Julius Caesar,ANTONY,SOOTHSAYER,2,"1.2, 3.1","1, 3","1, 2"
+The Tragedy of Julius Caesar,ANTONY,STRATO,1,5.5,5,5
+The Tragedy of Julius Caesar,ANTONY,THIRD CITIZEN,1,3.2,3,2
+The Tragedy of Julius Caesar,ANTONY,TREBONIUS,2,"2.2, 3.1","2, 3","1, 2"
+The Tragedy of Julius Caesar,ANTONY,VOLUMNIUS,1,5.5,5,5
+The Tragedy of Julius Caesar,ARTEMIDORUS,BRUTUS,1,3.1,3,1
+The Tragedy of Julius Caesar,ARTEMIDORUS,CAESAR,1,3.1,3,1
+The Tragedy of Julius Caesar,ARTEMIDORUS,CASCA,1,3.1,3,1
+The Tragedy of Julius Caesar,ARTEMIDORUS,CASSIUS,1,3.1,3,1
+The Tragedy of Julius Caesar,ARTEMIDORUS,CINNA,1,3.1,3,1
+The Tragedy of Julius Caesar,ARTEMIDORUS,DECIUS BRUTUS,1,3.1,3,1
+The Tragedy of Julius Caesar,ARTEMIDORUS,METELLUS CIMBER,1,3.1,3,1
+The Tragedy of Julius Caesar,ARTEMIDORUS,POPILIUS,1,3.1,3,1
+The Tragedy of Julius Caesar,ARTEMIDORUS,PUBLIUS,1,3.1,3,1
+The Tragedy of Julius Caesar,ARTEMIDORUS,SERVANT,1,3.1,3,1
+The Tragedy of Julius Caesar,ARTEMIDORUS,SOOTHSAYER,1,3.1,3,1
+The Tragedy of Julius Caesar,ARTEMIDORUS,TREBONIUS,1,3.1,3,1
+The Tragedy of Julius Caesar,BRUTUS,CAESAR,3,"1.2, 2.2, 3.1","1, 2, 3","1, 2"
+The Tragedy of Julius Caesar,BRUTUS,CALPURNIA,2,"1.2, 2.2","1, 2",2
+The Tragedy of Julius Caesar,BRUTUS,CASCA,3,"1.2, 2.1, 3.1","1, 2, 3","1, 2"
+The Tragedy of Julius Caesar,BRUTUS,CASSIUS,7,"1.2, 2.1, 3.1, 4.2, 4.3, 5.1, 5.3","1, 2, 3, 4, 5","1, 2, 3"
+The Tragedy of Julius Caesar,BRUTUS,CATO,2,"5.3, 5.4",5,"3, 4"
+The Tragedy of Julius Caesar,BRUTUS,CINNA,2,"2.1, 3.1","2, 3",1
+The Tragedy of Julius Caesar,BRUTUS,CITIZENS,1,3.2,3,2
+The Tragedy of Julius Caesar,BRUTUS,CLAUDIUS,1,4.3,4,3
+The Tragedy of Julius Caesar,BRUTUS,CLITUS,1,5.5,5,5
+The Tragedy of Julius Caesar,BRUTUS,DARDANIUS,1,5.5,5,5
+The Tragedy of Julius Caesar,BRUTUS,DECIUS BRUTUS,3,"2.1, 2.2, 3.1","2, 3","1, 2"
+The Tragedy of Julius Caesar,BRUTUS,FIRST CITIZEN,1,3.2,3,2
+The Tragedy of Julius Caesar,BRUTUS,FIRST SOLDIER,2,"4.2, 5.4","4, 5","2, 4"
+The Tragedy of Julius Caesar,BRUTUS,FOURTH CITIZEN,1,3.2,3,2
+The Tragedy of Julius Caesar,BRUTUS,GHOST,1,4.3,4,3
+The Tragedy of Julius Caesar,BRUTUS,LIGARIUS,1,2.1,2,1
+The Tragedy of Julius Caesar,BRUTUS,LUCILIUS,5,"4.2, 4.3, 5.1, 5.4, 5.5","4, 5","1, 2, 3, 4, 5"
+The Tragedy of Julius Caesar,BRUTUS,LUCIUS,2,"2.1, 4.3","2, 4","1, 3"
+The Tragedy of Julius Caesar,BRUTUS,MESSALA,4,"4.3, 5.1, 5.3, 5.5","4, 5","1, 3, 5"
+The Tragedy of Julius Caesar,BRUTUS,MESSENGER,1,5.1,5,1
+The Tragedy of Julius Caesar,BRUTUS,METELLUS CIMBER,2,"2.1, 3.1","2, 3",1
+The Tragedy of Julius Caesar,BRUTUS,OCTAVIUS,2,"5.1, 5.5",5,"1, 5"
+The Tragedy of Julius Caesar,BRUTUS,PINDARUS,2,"4.2, 5.3","4, 5","2, 3"
+The Tragedy of Julius Caesar,BRUTUS,POET,1,4.3,4,3
+The Tragedy of Julius Caesar,BRUTUS,POPILIUS,1,3.1,3,1
+The Tragedy of Julius Caesar,BRUTUS,PORTIA,1,2.1,2,1
+The Tragedy of Julius Caesar,BRUTUS,PUBLIUS,2,"2.2, 3.1","2, 3","1, 2"
+The Tragedy of Julius Caesar,BRUTUS,SECOND CITIZEN,1,3.2,3,2
+The Tragedy of Julius Caesar,BRUTUS,SECOND SOLDIER,2,"4.2, 5.4","4, 5","2, 4"
+The Tragedy of Julius Caesar,BRUTUS,SERVANT,3,"2.2, 3.1, 3.2","2, 3","1, 2"
+The Tragedy of Julius Caesar,BRUTUS,SEVERAL CITIZENS,1,3.2,3,2
+The Tragedy of Julius Caesar,BRUTUS,SOOTHSAYER,2,"1.2, 3.1","1, 3","1, 2"
+The Tragedy of Julius Caesar,BRUTUS,STRATO,1,5.5,5,5
+The Tragedy of Julius Caesar,BRUTUS,THIRD CITIZEN,1,3.2,3,2
+The Tragedy of Julius Caesar,BRUTUS,THIRD SOLDIER,1,4.2,4,2
+The Tragedy of Julius Caesar,BRUTUS,TITINIUS,2,"4.3, 5.3","4, 5",3
+The Tragedy of Julius Caesar,BRUTUS,TREBONIUS,3,"2.1, 2.2, 3.1","2, 3","1, 2"
+The Tragedy of Julius Caesar,BRUTUS,VARRO,1,4.3,4,3
+The Tragedy of Julius Caesar,BRUTUS,VOLUMNIUS,1,5.5,5,5
+The Tragedy of Julius Caesar,CAESAR,CALPURNIA,2,"1.2, 2.2","1, 2",2
+The Tragedy of Julius Caesar,CAESAR,CASCA,2,"1.2, 3.1","1, 3","1, 2"
+The Tragedy of Julius Caesar,CAESAR,CASSIUS,2,"1.2, 3.1","1, 3","1, 2"
+The Tragedy of Julius Caesar,CAESAR,CINNA,1,3.1,3,1
+The Tragedy of Julius Caesar,CAESAR,DECIUS BRUTUS,2,"2.2, 3.1","2, 3","1, 2"
+The Tragedy of Julius Caesar,CAESAR,METELLUS CIMBER,1,3.1,3,1
+The Tragedy of Julius Caesar,CAESAR,POPILIUS,1,3.1,3,1
+The Tragedy of Julius Caesar,CAESAR,PUBLIUS,2,"2.2, 3.1","2, 3","1, 2"
+The Tragedy of Julius Caesar,CAESAR,SERVANT,2,"2.2, 3.1","2, 3","1, 2"
+The Tragedy of Julius Caesar,CAESAR,SOOTHSAYER,2,"1.2, 3.1","1, 3","1, 2"
+The Tragedy of Julius Caesar,CAESAR,TREBONIUS,2,"2.2, 3.1","2, 3","1, 2"
+The Tragedy of Julius Caesar,CALPURNIA,CASCA,1,1.2,1,2
+The Tragedy of Julius Caesar,CALPURNIA,CASSIUS,1,1.2,1,2
+The Tragedy of Julius Caesar,CALPURNIA,DECIUS BRUTUS,1,2.2,2,2
+The Tragedy of Julius Caesar,CALPURNIA,PUBLIUS,1,2.2,2,2
+The Tragedy of Julius Caesar,CALPURNIA,SERVANT,1,2.2,2,2
+The Tragedy of Julius Caesar,CALPURNIA,SOOTHSAYER,1,1.2,1,2
+The Tragedy of Julius Caesar,CALPURNIA,TREBONIUS,1,2.2,2,2
+The Tragedy of Julius Caesar,CASCA,CASSIUS,4,"1.2, 1.3, 2.1, 3.1","1, 2, 3","1, 2, 3"
+The Tragedy of Julius Caesar,CASCA,CICERO,1,1.3,1,3
+The Tragedy of Julius Caesar,CASCA,CINNA,3,"1.3, 2.1, 3.1","1, 2, 3","1, 3"
+The Tragedy of Julius Caesar,CASCA,DECIUS BRUTUS,2,"2.1, 3.1","2, 3",1
+The Tragedy of Julius Caesar,CASCA,LIGARIUS,1,2.1,2,1
+The Tragedy of Julius Caesar,CASCA,LUCIUS,1,2.1,2,1
+The Tragedy of Julius Caesar,CASCA,METELLUS CIMBER,2,"2.1, 3.1","2, 3",1
+The Tragedy of Julius Caesar,CASCA,POPILIUS,1,3.1,3,1
+The Tragedy of Julius Caesar,CASCA,PORTIA,1,2.1,2,1
+The Tragedy of Julius Caesar,CASCA,PUBLIUS,1,3.1,3,1
+The Tragedy of Julius Caesar,CASCA,SERVANT,1,3.1,3,1
+The Tragedy of Julius Caesar,CASCA,SOOTHSAYER,2,"1.2, 3.1","1, 3","1, 2"
+The Tragedy of Julius Caesar,CASCA,TREBONIUS,2,"2.1, 3.1","2, 3",1
+The Tragedy of Julius Caesar,CASSIUS,CATO,1,5.3,5,3
+The Tragedy of Julius Caesar,CASSIUS,CICERO,1,1.3,1,3
+The Tragedy of Julius Caesar,CASSIUS,CINNA,3,"1.3, 2.1, 3.1","1, 2, 3","1, 3"
+The Tragedy of Julius Caesar,CASSIUS,CLAUDIUS,1,4.3,4,3
+The Tragedy of Julius Caesar,CASSIUS,DECIUS BRUTUS,2,"2.1, 3.1","2, 3",1
+The Tragedy of Julius Caesar,CASSIUS,FIRST SOLDIER,1,4.2,4,2
+The Tragedy of Julius Caesar,CASSIUS,GHOST,1,4.3,4,3
+The Tragedy of Julius Caesar,CASSIUS,LIGARIUS,1,2.1,2,1
+The Tragedy of Julius Caesar,CASSIUS,LUCILIUS,3,"4.2, 4.3, 5.1","4, 5","1, 2, 3"
+The Tragedy of Julius Caesar,CASSIUS,LUCIUS,2,"2.1, 4.3","2, 4","1, 3"
+The Tragedy of Julius Caesar,CASSIUS,MESSALA,3,"4.3, 5.1, 5.3","4, 5","1, 3"
+The Tragedy of Julius Caesar,CASSIUS,MESSENGER,1,5.1,5,1
+The Tragedy of Julius Caesar,CASSIUS,METELLUS CIMBER,2,"2.1, 3.1","2, 3",1
+The Tragedy of Julius Caesar,CASSIUS,OCTAVIUS,1,5.1,5,1
+The Tragedy of Julius Caesar,CASSIUS,PINDARUS,2,"4.2, 5.3","4, 5","2, 3"
+The Tragedy of Julius Caesar,CASSIUS,POET,1,4.3,4,3
+The Tragedy of Julius Caesar,CASSIUS,POPILIUS,1,3.1,3,1
+The Tragedy of Julius Caesar,CASSIUS,PORTIA,1,2.1,2,1
+The Tragedy of Julius Caesar,CASSIUS,PUBLIUS,1,3.1,3,1
+The Tragedy of Julius Caesar,CASSIUS,SECOND SOLDIER,1,4.2,4,2
+The Tragedy of Julius Caesar,CASSIUS,SERVANT,1,3.1,3,1
+The Tragedy of Julius Caesar,CASSIUS,SOOTHSAYER,2,"1.2, 3.1","1, 3","1, 2"
+The Tragedy of Julius Caesar,CASSIUS,THIRD SOLDIER,1,4.2,4,2
+The Tragedy of Julius Caesar,CASSIUS,TITINIUS,2,"4.3, 5.3","4, 5",3
+The Tragedy of Julius Caesar,CASSIUS,TREBONIUS,2,"2.1, 3.1","2, 3",1
+The Tragedy of Julius Caesar,CASSIUS,VARRO,1,4.3,4,3
+The Tragedy of Julius Caesar,CATO,FIRST SOLDIER,1,5.4,5,4
+The Tragedy of Julius Caesar,CATO,LUCILIUS,1,5.4,5,4
+The Tragedy of Julius Caesar,CATO,MESSALA,1,5.3,5,3
+The Tragedy of Julius Caesar,CATO,PINDARUS,1,5.3,5,3
+The Tragedy of Julius Caesar,CATO,SECOND SOLDIER,1,5.4,5,4
+The Tragedy of Julius Caesar,CATO,TITINIUS,1,5.3,5,3
+The Tragedy of Julius Caesar,CICERO,CINNA,1,1.3,1,3
+The Tragedy of Julius Caesar,CINNA,DECIUS BRUTUS,2,"2.1, 3.1","2, 3",1
+The Tragedy of Julius Caesar,CINNA,LIGARIUS,1,2.1,2,1
+The Tragedy of Julius Caesar,CINNA,LUCIUS,1,2.1,2,1
+The Tragedy of Julius Caesar,CINNA,METELLUS CIMBER,2,"2.1, 3.1","2, 3",1
+The Tragedy of Julius Caesar,CINNA,POPILIUS,1,3.1,3,1
+The Tragedy of Julius Caesar,CINNA,PORTIA,1,2.1,2,1
+The Tragedy of Julius Caesar,CINNA,PUBLIUS,1,3.1,3,1
+The Tragedy of Julius Caesar,CINNA,SERVANT,1,3.1,3,1
+The Tragedy of Julius Caesar,CINNA,SOOTHSAYER,1,3.1,3,1
+The Tragedy of Julius Caesar,CINNA,TREBONIUS,2,"2.1, 3.1","2, 3",1
+The Tragedy of Julius Caesar,CINNA THE POET,FIRST CITIZEN,1,3.3,3,3
+The Tragedy of Julius Caesar,CINNA THE POET,FOURTH CITIZEN,1,3.3,3,3
+The Tragedy of Julius Caesar,CINNA THE POET,SECOND CITIZEN,1,3.3,3,3
+The Tragedy of Julius Caesar,CINNA THE POET,THIRD CITIZEN,1,3.3,3,3
+The Tragedy of Julius Caesar,CITIZENS,FIRST CITIZEN,1,3.2,3,2
+The Tragedy of Julius Caesar,CITIZENS,FOURTH CITIZEN,1,3.2,3,2
+The Tragedy of Julius Caesar,CITIZENS,SECOND CITIZEN,1,3.2,3,2
+The Tragedy of Julius Caesar,CITIZENS,SERVANT,1,3.2,3,2
+The Tragedy of Julius Caesar,CITIZENS,SEVERAL CITIZENS,1,3.2,3,2
+The Tragedy of Julius Caesar,CITIZENS,THIRD CITIZEN,1,3.2,3,2
+The Tragedy of Julius Caesar,CLAUDIUS,GHOST,1,4.3,4,3
+The Tragedy of Julius Caesar,CLAUDIUS,LUCILIUS,1,4.3,4,3
+The Tragedy of Julius Caesar,CLAUDIUS,LUCIUS,1,4.3,4,3
+The Tragedy of Julius Caesar,CLAUDIUS,MESSALA,1,4.3,4,3
+The Tragedy of Julius Caesar,CLAUDIUS,POET,1,4.3,4,3
+The Tragedy of Julius Caesar,CLAUDIUS,TITINIUS,1,4.3,4,3
+The Tragedy of Julius Caesar,CLAUDIUS,VARRO,1,4.3,4,3
+The Tragedy of Julius Caesar,CLITUS,DARDANIUS,1,5.5,5,5
+The Tragedy of Julius Caesar,CLITUS,LUCILIUS,1,5.5,5,5
+The Tragedy of Julius Caesar,CLITUS,MESSALA,1,5.5,5,5
+The Tragedy of Julius Caesar,CLITUS,OCTAVIUS,1,5.5,5,5
+The Tragedy of Julius Caesar,CLITUS,STRATO,1,5.5,5,5
+The Tragedy of Julius Caesar,CLITUS,VOLUMNIUS,1,5.5,5,5
+The Tragedy of Julius Caesar,DARDANIUS,LUCILIUS,1,5.5,5,5
+The Tragedy of Julius Caesar,DARDANIUS,MESSALA,1,5.5,5,5
+The Tragedy of Julius Caesar,DARDANIUS,OCTAVIUS,1,5.5,5,5
+The Tragedy of Julius Caesar,DARDANIUS,STRATO,1,5.5,5,5
+The Tragedy of Julius Caesar,DARDANIUS,VOLUMNIUS,1,5.5,5,5
+The Tragedy of Julius Caesar,DECIUS BRUTUS,LIGARIUS,1,2.1,2,1
+The Tragedy of Julius Caesar,DECIUS BRUTUS,LUCIUS,1,2.1,2,1
+The Tragedy of Julius Caesar,DECIUS BRUTUS,METELLUS CIMBER,2,"2.1, 3.1","2, 3",1
+The Tragedy of Julius Caesar,DECIUS BRUTUS,POPILIUS,1,3.1,3,1
+The Tragedy of Julius Caesar,DECIUS BRUTUS,PORTIA,1,2.1,2,1
+The Tragedy of Julius Caesar,DECIUS BRUTUS,PUBLIUS,2,"2.2, 3.1","2, 3","1, 2"
+The Tragedy of Julius Caesar,DECIUS BRUTUS,SERVANT,2,"2.2, 3.1","2, 3","1, 2"
+The Tragedy of Julius Caesar,DECIUS BRUTUS,SOOTHSAYER,1,3.1,3,1
+The Tragedy of Julius Caesar,DECIUS BRUTUS,TREBONIUS,3,"2.1, 2.2, 3.1","2, 3","1, 2"
+The Tragedy of Julius Caesar,FIRST CITIZEN,FOURTH CITIZEN,2,"3.2, 3.3",3,"2, 3"
+The Tragedy of Julius Caesar,FIRST CITIZEN,SECOND CITIZEN,2,"3.2, 3.3",3,"2, 3"
+The Tragedy of Julius Caesar,FIRST CITIZEN,SERVANT,1,3.2,3,2
+The Tragedy of Julius Caesar,FIRST CITIZEN,SEVERAL CITIZENS,1,3.2,3,2
+The Tragedy of Julius Caesar,FIRST CITIZEN,THIRD CITIZEN,2,"3.2, 3.3",3,"2, 3"
+The Tragedy of Julius Caesar,FIRST COMMONER,FLAVIUS,1,1.1,1,1
+The Tragedy of Julius Caesar,FIRST COMMONER,MARULLUS,1,1.1,1,1
+The Tragedy of Julius Caesar,FIRST COMMONER,SECOND COMMONER,1,1.1,1,1
+The Tragedy of Julius Caesar,FIRST SOLDIER,LUCILIUS,2,"4.2, 5.4","4, 5","2, 4"
+The Tragedy of Julius Caesar,FIRST SOLDIER,PINDARUS,1,4.2,4,2
+The Tragedy of Julius Caesar,FIRST SOLDIER,SECOND SOLDIER,2,"4.2, 5.4","4, 5","2, 4"
+The Tragedy of Julius Caesar,FIRST SOLDIER,THIRD SOLDIER,1,4.2,4,2
+The Tragedy of Julius Caesar,FLAVIUS,MARULLUS,1,1.1,1,1
+The Tragedy of Julius Caesar,FLAVIUS,SECOND COMMONER,1,1.1,1,1
+The Tragedy of Julius Caesar,FOURTH CITIZEN,SECOND CITIZEN,2,"3.2, 3.3",3,"2, 3"
+The Tragedy of Julius Caesar,FOURTH CITIZEN,SERVANT,1,3.2,3,2
+The Tragedy of Julius Caesar,FOURTH CITIZEN,SEVERAL CITIZENS,1,3.2,3,2
+The Tragedy of Julius Caesar,FOURTH CITIZEN,THIRD CITIZEN,2,"3.2, 3.3",3,"2, 3"
+The Tragedy of Julius Caesar,GHOST,LUCILIUS,1,4.3,4,3
+The Tragedy of Julius Caesar,GHOST,LUCIUS,1,4.3,4,3
+The Tragedy of Julius Caesar,GHOST,MESSALA,1,4.3,4,3
+The Tragedy of Julius Caesar,GHOST,POET,1,4.3,4,3
+The Tragedy of Julius Caesar,GHOST,TITINIUS,1,4.3,4,3
+The Tragedy of Julius Caesar,GHOST,VARRO,1,4.3,4,3
+The Tragedy of Julius Caesar,LEPIDUS,OCTAVIUS,1,4.1,4,1
+The Tragedy of Julius Caesar,LIGARIUS,LUCIUS,1,2.1,2,1
+The Tragedy of Julius Caesar,LIGARIUS,METELLUS CIMBER,1,2.1,2,1
+The Tragedy of Julius Caesar,LIGARIUS,PORTIA,1,2.1,2,1
+The Tragedy of Julius Caesar,LIGARIUS,TREBONIUS,1,2.1,2,1
+The Tragedy of Julius Caesar,LUCILIUS,LUCIUS,1,4.3,4,3
+The Tragedy of Julius Caesar,LUCILIUS,MESSALA,3,"4.3, 5.1, 5.5","4, 5","1, 3, 5"
+The Tragedy of Julius Caesar,LUCILIUS,MESSENGER,1,5.1,5,1
+The Tragedy of Julius Caesar,LUCILIUS,OCTAVIUS,2,"5.1, 5.5",5,"1, 5"
+The Tragedy of Julius Caesar,LUCILIUS,PINDARUS,1,4.2,4,2
+The Tragedy of Julius Caesar,LUCILIUS,POET,1,4.3,4,3
+The Tragedy of Julius Caesar,LUCILIUS,SECOND SOLDIER,2,"4.2, 5.4","4, 5","2, 4"
+The Tragedy of Julius Caesar,LUCILIUS,STRATO,1,5.5,5,5
+The Tragedy of Julius Caesar,LUCILIUS,THIRD SOLDIER,1,4.2,4,2
+The Tragedy of Julius Caesar,LUCILIUS,TITINIUS,1,4.3,4,3
+The Tragedy of Julius Caesar,LUCILIUS,VARRO,1,4.3,4,3
+The Tragedy of Julius Caesar,LUCILIUS,VOLUMNIUS,1,5.5,5,5
+The Tragedy of Julius Caesar,LUCIUS,MESSALA,1,4.3,4,3
+The Tragedy of Julius Caesar,LUCIUS,METELLUS CIMBER,1,2.1,2,1
+The Tragedy of Julius Caesar,LUCIUS,POET,1,4.3,4,3
+The Tragedy of Julius Caesar,LUCIUS,PORTIA,2,"2.1, 2.4",2,"1, 4"
+The Tragedy of Julius Caesar,LUCIUS,SOOTHSAYER,1,2.4,2,4
+The Tragedy of Julius Caesar,LUCIUS,TITINIUS,1,4.3,4,3
+The Tragedy of Julius Caesar,LUCIUS,TREBONIUS,1,2.1,2,1
+The Tragedy of Julius Caesar,LUCIUS,VARRO,1,4.3,4,3
+The Tragedy of Julius Caesar,MARULLUS,SECOND COMMONER,1,1.1,1,1
+The Tragedy of Julius Caesar,MESSALA,MESSENGER,1,5.1,5,1
+The Tragedy of Julius Caesar,MESSALA,OCTAVIUS,2,"5.1, 5.5",5,"1, 5"
+The Tragedy of Julius Caesar,MESSALA,PINDARUS,1,5.3,5,3
+The Tragedy of Julius Caesar,MESSALA,POET,1,4.3,4,3
+The Tragedy of Julius Caesar,MESSALA,STRATO,1,5.5,5,5
+The Tragedy of Julius Caesar,MESSALA,TITINIUS,2,"4.3, 5.3","4, 5",3
+The Tragedy of Julius Caesar,MESSALA,VARRO,1,4.3,4,3
+The Tragedy of Julius Caesar,MESSALA,VOLUMNIUS,1,5.5,5,5
+The Tragedy of Julius Caesar,MESSENGER,OCTAVIUS,1,5.1,5,1
+The Tragedy of Julius Caesar,METELLUS CIMBER,POPILIUS,1,3.1,3,1
+The Tragedy of Julius Caesar,METELLUS CIMBER,PORTIA,1,2.1,2,1
+The Tragedy of Julius Caesar,METELLUS CIMBER,PUBLIUS,1,3.1,3,1
+The Tragedy of Julius Caesar,METELLUS CIMBER,SERVANT,1,3.1,3,1
+The Tragedy of Julius Caesar,METELLUS CIMBER,SOOTHSAYER,1,3.1,3,1
+The Tragedy of Julius Caesar,METELLUS CIMBER,TREBONIUS,2,"2.1, 3.1","2, 3",1
+The Tragedy of Julius Caesar,OCTAVIUS,STRATO,1,5.5,5,5
+The Tragedy of Julius Caesar,OCTAVIUS,VOLUMNIUS,1,5.5,5,5
+The Tragedy of Julius Caesar,PINDARUS,SECOND SOLDIER,1,4.2,4,2
+The Tragedy of Julius Caesar,PINDARUS,THIRD SOLDIER,1,4.2,4,2
+The Tragedy of Julius Caesar,PINDARUS,TITINIUS,1,5.3,5,3
+The Tragedy of Julius Caesar,POET,TITINIUS,1,4.3,4,3
+The Tragedy of Julius Caesar,POET,VARRO,1,4.3,4,3
+The Tragedy of Julius Caesar,POPILIUS,PUBLIUS,1,3.1,3,1
+The Tragedy of Julius Caesar,POPILIUS,SERVANT,1,3.1,3,1
+The Tragedy of Julius Caesar,POPILIUS,SOOTHSAYER,1,3.1,3,1
+The Tragedy of Julius Caesar,POPILIUS,TREBONIUS,1,3.1,3,1
+The Tragedy of Julius Caesar,PORTIA,SOOTHSAYER,1,2.4,2,4
+The Tragedy of Julius Caesar,PORTIA,TREBONIUS,1,2.1,2,1
+The Tragedy of Julius Caesar,PUBLIUS,SERVANT,2,"2.2, 3.1","2, 3","1, 2"
+The Tragedy of Julius Caesar,PUBLIUS,SOOTHSAYER,1,3.1,3,1
+The Tragedy of Julius Caesar,PUBLIUS,TREBONIUS,2,"2.2, 3.1","2, 3","1, 2"
+The Tragedy of Julius Caesar,SECOND CITIZEN,SERVANT,1,3.2,3,2
+The Tragedy of Julius Caesar,SECOND CITIZEN,SEVERAL CITIZENS,1,3.2,3,2
+The Tragedy of Julius Caesar,SECOND CITIZEN,THIRD CITIZEN,2,"3.2, 3.3",3,"2, 3"
+The Tragedy of Julius Caesar,SECOND SOLDIER,THIRD SOLDIER,1,4.2,4,2
+The Tragedy of Julius Caesar,SERVANT,SEVERAL CITIZENS,1,3.2,3,2
+The Tragedy of Julius Caesar,SERVANT,SOOTHSAYER,1,3.1,3,1
+The Tragedy of Julius Caesar,SERVANT,THIRD CITIZEN,1,3.2,3,2
+The Tragedy of Julius Caesar,SERVANT,TREBONIUS,2,"2.2, 3.1","2, 3","1, 2"
+The Tragedy of Julius Caesar,SEVERAL CITIZENS,THIRD CITIZEN,1,3.2,3,2
+The Tragedy of Julius Caesar,SOOTHSAYER,TREBONIUS,1,3.1,3,1
+The Tragedy of Julius Caesar,STRATO,VOLUMNIUS,1,5.5,5,5
+The Tragedy of Julius Caesar,TITINIUS,VARRO,1,4.3,4,3

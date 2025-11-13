@@ -138,3 +138,158 @@ The Tragedy of Romeo and Juliet,THIRD WATCHMAN,1,3,1,1,0.12,0.1,1.0,3.0,3.0,1.0,
 The Tragedy of Romeo and Juliet,MUSICIAN,1,1,1,1,0.12,0.03,1.0,1.0,1.0,1.0,0.03,1.0,0.04,side
 The Tragedy of Romeo and Juliet,SECOND WATCHMAN,1,1,1,1,0.12,0.03,1.0,1.0,1.0,1.0,0.03,1.0,0.04,side
 The Tragedy of Romeo and Juliet,THIRD MUSICIAN,1,1,1,1,0.12,0.03,1.0,1.0,1.0,1.0,0.03,1.0,0.04,side
+The Tragedy of Antony and Cleopatra,MARK ANTONY,204,851,22,4,17.3,23.87,9.27,4.17,4.17,9.27,23.87,212.75,0.52,main
+The Tragedy of Antony and Cleopatra,CLEOPATRA,204,686,16,5,17.3,19.24,12.75,3.36,3.36,12.75,19.24,137.2,0.38,main
+The Tragedy of Antony and Cleopatra,OCTAVIUS CAESAR,98,421,14,5,8.31,11.81,7.0,4.3,4.3,7.0,11.81,84.2,0.33,main
+The Tragedy of Antony and Cleopatra,DOMITIUS ENOBARBUS,113,355,12,4,9.58,9.96,9.42,3.14,3.14,9.42,9.96,88.75,0.29,main
+The Tragedy of Antony and Cleopatra,POMPEY,41,140,3,1,3.48,3.93,13.67,3.41,3.41,13.67,3.93,140.0,0.07,side
+The Tragedy of Antony and Cleopatra,CHARMIAN,63,105,10,5,5.34,2.95,6.3,1.67,1.67,6.3,2.95,21.0,0.24,main
+The Tragedy of Antony and Cleopatra,MESSENGER,42,78,6,4,3.56,2.19,7.0,1.86,1.86,7.0,2.19,19.5,0.14,side
+The Tragedy of Antony and Cleopatra,LEPIDUS,32,68,6,3,2.71,1.91,5.33,2.12,2.12,5.33,1.91,22.67,0.14,side
+The Tragedy of Antony and Cleopatra,MENAS,35,64,3,1,2.97,1.8,11.67,1.83,1.83,11.67,1.8,64.0,0.07,main
+The Tragedy of Antony and Cleopatra,AGRIPPA,29,61,7,4,2.46,1.71,4.14,2.1,2.1,4.14,1.71,15.25,0.17,main
+The Tragedy of Antony and Cleopatra,DOLABELLA,23,48,3,2,1.95,1.35,7.67,2.09,2.09,7.67,1.35,24.0,0.07,main
+The Tragedy of Antony and Cleopatra,EROS,27,47,6,2,2.29,1.32,4.5,1.74,1.74,4.5,1.32,23.5,0.14,main
+The Tragedy of Antony and Cleopatra,SCARUS,12,40,4,2,1.02,1.12,3.0,3.33,3.33,3.0,1.12,20.0,0.1,main
+The Tragedy of Antony and Cleopatra,SOLDIER,13,38,4,2,1.1,1.07,3.25,2.92,2.92,3.25,1.07,19.0,0.1,side
+The Tragedy of Antony and Cleopatra,MECAENAS,16,37,5,4,1.36,1.04,3.2,2.31,2.31,3.2,1.04,9.25,0.12,main
+The Tragedy of Antony and Cleopatra,OCTAVIA,13,36,4,2,1.1,1.01,3.25,2.77,2.77,3.25,1.01,18.0,0.1,main
+The Tragedy of Antony and Cleopatra,PROCULEIUS,10,32,2,1,0.85,0.9,5.0,3.2,3.2,5.0,0.9,32.0,0.05,main
+The Tragedy of Antony and Cleopatra,SOOTHSAYER,14,31,2,2,1.19,0.87,7.0,2.21,2.21,7.0,0.87,15.5,0.05,side
+The Tragedy of Antony and Cleopatra,THYREUS,12,31,2,1,1.02,0.87,6.0,2.58,2.58,6.0,0.87,31.0,0.05,main
+The Tragedy of Antony and Cleopatra,ALEXAS,15,31,3,2,1.27,0.87,5.0,2.07,2.07,5.0,0.87,15.5,0.07,main
+The Tragedy of Antony and Cleopatra,VENTIDIUS,4,30,1,1,0.34,0.84,4.0,7.5,7.5,4.0,0.84,30.0,0.02,main
+The Tragedy of Antony and Cleopatra,CLOWN,8,28,1,1,0.68,0.79,8.0,3.5,3.5,8.0,0.79,28.0,0.02,side
+The Tragedy of Antony and Cleopatra,FIRST SOLDIER,14,26,2,1,1.19,0.73,7.0,1.86,1.86,7.0,0.73,26.0,0.05,side
+The Tragedy of Antony and Cleopatra,CANIDIUS,10,25,2,1,0.85,0.7,5.0,2.5,2.5,5.0,0.7,25.0,0.05,main
+The Tragedy of Antony and Cleopatra,IRAS,18,25,4,4,1.53,0.7,4.5,1.39,1.39,4.5,0.7,6.25,0.1,main
+The Tragedy of Antony and Cleopatra,DERCETAS,5,21,2,2,0.42,0.59,2.5,4.2,4.2,2.5,0.59,10.5,0.05,main
+The Tragedy of Antony and Cleopatra,DIOMEDES,7,19,2,1,0.59,0.53,3.5,2.71,2.71,3.5,0.53,19.0,0.05,main
+The Tragedy of Antony and Cleopatra,MARDIAN,7,19,3,3,0.59,0.53,2.33,2.71,2.71,2.33,0.53,6.33,0.07,side
+The Tragedy of Antony and Cleopatra,FIRST GUARD,11,19,2,2,0.93,0.53,5.5,1.73,1.73,5.5,0.53,9.5,0.05,side
+The Tragedy of Antony and Cleopatra,PHILO,2,17,1,1,0.17,0.48,2.0,8.5,8.5,2.0,0.48,17.0,0.02,main
+The Tragedy of Antony and Cleopatra,EUPHRONIUS,5,16,2,1,0.42,0.45,2.5,3.2,3.2,2.5,0.45,16.0,0.05,main
+The Tragedy of Antony and Cleopatra,SECOND SOLDIER,11,14,2,1,0.93,0.39,5.5,1.27,1.27,5.5,0.39,14.0,0.05,side
+The Tragedy of Antony and Cleopatra,THIRD SOLDIER,10,13,2,1,0.85,0.36,5.0,1.3,1.3,5.0,0.36,13.0,0.05,side
+The Tragedy of Antony and Cleopatra,SILIUS,3,12,1,1,0.25,0.34,3.0,4.0,4.0,3.0,0.34,12.0,0.02,main
+The Tragedy of Antony and Cleopatra,ALL,9,10,7,3,0.76,0.28,1.29,1.11,1.11,1.29,0.28,3.33,0.17,side
+The Tragedy of Antony and Cleopatra,FIRST SERVANT,4,9,1,1,0.34,0.25,4.0,2.25,2.25,4.0,0.25,9.0,0.02,side
+The Tragedy of Antony and Cleopatra,SECOND SERVANT,3,7,1,1,0.25,0.2,3.0,2.33,2.33,3.0,0.2,7.0,0.02,side
+The Tragedy of Antony and Cleopatra,EGYPTIAN,2,6,1,1,0.17,0.17,2.0,3.0,3.0,2.0,0.17,6.0,0.02,side
+The Tragedy of Antony and Cleopatra,MENECRATES,2,6,1,1,0.17,0.17,2.0,3.0,3.0,2.0,0.17,6.0,0.02,main
+The Tragedy of Antony and Cleopatra,SELEUCUS,3,5,1,1,0.25,0.14,3.0,1.67,1.67,3.0,0.14,5.0,0.02,main
+The Tragedy of Antony and Cleopatra,FOURTH SOLDIER,3,5,1,1,0.25,0.14,3.0,1.67,1.67,3.0,0.14,5.0,0.02,side
+The Tragedy of Antony and Cleopatra,DEMETRIUS,2,5,1,1,0.17,0.14,2.0,2.5,2.5,2.0,0.14,5.0,0.02,main
+The Tragedy of Antony and Cleopatra,SECOND GUARD,4,4,2,2,0.34,0.11,2.0,1.0,1.0,2.0,0.11,2.0,0.05,side
+The Tragedy of Antony and Cleopatra,VARRIUS,1,4,1,1,0.08,0.11,1.0,4.0,4.0,1.0,0.11,4.0,0.02,main
+The Tragedy of Antony and Cleopatra,GUARD,2,4,1,1,0.17,0.11,2.0,2.0,2.0,2.0,0.11,4.0,0.02,side
+The Tragedy of Antony and Cleopatra,SECOND MESSENGER,2,4,1,1,0.17,0.11,2.0,2.0,2.0,2.0,0.11,4.0,0.02,side
+The Tragedy of Antony and Cleopatra,FIRST ATTENDANT,3,3,2,2,0.25,0.08,1.5,1.0,1.0,1.5,0.08,1.5,0.05,side
+The Tragedy of Antony and Cleopatra,ATTENDANT,2,2,2,2,0.17,0.06,1.0,1.0,1.0,1.0,0.06,1.0,0.05,side
+The Tragedy of Antony and Cleopatra,GALLUS,1,2,1,1,0.08,0.06,1.0,2.0,2.0,1.0,0.06,2.0,0.02,main
+The Tragedy of Antony and Cleopatra,TAURUS,1,1,1,1,0.08,0.03,1.0,1.0,1.0,1.0,0.03,1.0,0.02,main
+The Tragedy of Antony and Cleopatra,THIRD GUARD,1,1,1,1,0.08,0.03,1.0,1.0,1.0,1.0,0.03,1.0,0.02,side
+The Tragedy of Antony and Cleopatra,ATTENDANTS,1,1,1,1,0.08,0.03,1.0,1.0,1.0,1.0,0.03,1.0,0.02,side
+The Tragedy of Antony and Cleopatra,SECOND ATTENDANT,1,1,1,1,0.08,0.03,1.0,1.0,1.0,1.0,0.03,1.0,0.02,side
+The Tragedy of Antony and Cleopatra,CAPTAIN,1,1,1,1,0.08,0.03,1.0,1.0,1.0,1.0,0.03,1.0,0.02,side
+The Tragedy of Julius Caesar,BRUTUS,194,728,12,5,24.31,28.01,16.17,3.75,3.75,16.17,28.01,145.6,0.67,side
+The Tragedy of Julius Caesar,CASSIUS,140,525,8,5,17.54,20.2,17.5,3.75,3.75,17.5,20.2,105.0,0.44,main
+The Tragedy of Julius Caesar,ANTONY,51,329,8,5,6.39,12.66,6.38,6.45,6.45,6.38,12.66,65.8,0.44,side
+The Tragedy of Julius Caesar,CAESAR,39,135,3,3,4.89,5.19,13.0,3.46,3.46,13.0,5.19,45.0,0.17,side
+The Tragedy of Julius Caesar,CASCA,39,133,4,3,4.89,5.12,9.75,3.41,3.41,9.75,5.12,44.33,0.22,main
+The Tragedy of Julius Caesar,PORTIA,16,92,2,1,2.01,3.54,8.0,5.75,5.75,8.0,3.54,92.0,0.11,main
+The Tragedy of Julius Caesar,OCTAVIUS,19,46,3,2,2.38,1.77,6.33,2.42,2.42,6.33,1.77,23.0,0.17,side
+The Tragedy of Julius Caesar,DECIUS BRUTUS,12,44,3,2,1.5,1.69,4.0,3.67,3.67,4.0,1.69,22.0,0.17,main
+The Tragedy of Julius Caesar,MESSALA,21,39,4,2,2.63,1.5,5.25,1.86,1.86,5.25,1.5,19.5,0.22,main
+The Tragedy of Julius Caesar,LUCIUS,24,33,3,2,3.01,1.27,8.0,1.38,1.38,8.0,1.27,16.5,0.17,main
+The Tragedy of Julius Caesar,TITINIUS,10,32,2,2,1.25,1.23,5.0,3.2,3.2,5.0,1.23,16.0,0.11,main
+The Tragedy of Julius Caesar,MARULLUS,6,31,1,1,0.75,1.19,6.0,5.17,5.17,6.0,1.19,31.0,0.06,main
+The Tragedy of Julius Caesar,SERVANT,11,30,3,2,1.38,1.15,3.67,2.73,2.73,3.67,1.15,15.0,0.17,side
+The Tragedy of Julius Caesar,CALPURNIA,6,27,2,2,0.75,1.04,3.0,4.5,4.5,3.0,1.04,13.5,0.11,main
+The Tragedy of Julius Caesar,FLAVIUS,5,26,1,1,0.63,1.0,5.0,5.2,5.2,5.0,1.0,26.0,0.06,main
+The Tragedy of Julius Caesar,LUCILIUS,10,26,5,2,1.25,1.0,2.0,2.6,2.6,2.0,1.0,13.0,0.28,main
+The Tragedy of Julius Caesar,FIRST CITIZEN,18,22,2,1,2.26,0.85,9.0,1.22,1.22,9.0,0.85,22.0,0.11,side
+The Tragedy of Julius Caesar,THIRD CITIZEN,16,22,2,1,2.01,0.85,8.0,1.38,1.38,8.0,0.85,22.0,0.11,side
+The Tragedy of Julius Caesar,SECOND CITIZEN,18,21,2,1,2.26,0.81,9.0,1.17,1.17,9.0,0.81,21.0,0.11,side
+The Tragedy of Julius Caesar,FOURTH CITIZEN,16,20,2,1,2.01,0.77,8.0,1.25,1.25,8.0,0.77,20.0,0.11,side
+The Tragedy of Julius Caesar,ARTEMIDORUS,4,19,2,2,0.5,0.73,2.0,4.75,4.75,2.0,0.73,9.5,0.11,side
+The Tragedy of Julius Caesar,SOOTHSAYER,9,18,3,3,1.13,0.69,3.0,2.0,2.0,3.0,0.69,6.0,0.17,side
+The Tragedy of Julius Caesar,CINNA,11,18,3,3,1.38,0.69,3.67,1.64,1.64,3.67,0.69,6.0,0.17,main
+The Tragedy of Julius Caesar,PINDARUS,5,17,2,2,0.63,0.65,2.5,3.4,3.4,2.5,0.65,8.5,0.11,main
+The Tragedy of Julius Caesar,METELLUS CIMBER,5,17,2,2,0.63,0.65,2.5,3.4,3.4,2.5,0.65,8.5,0.11,main
+The Tragedy of Julius Caesar,SECOND COMMONER,6,16,1,1,0.75,0.62,6.0,2.67,2.67,6.0,0.62,16.0,0.06,side
+The Tragedy of Julius Caesar,LIGARIUS,5,15,1,1,0.63,0.58,5.0,3.0,3.0,5.0,0.58,15.0,0.06,main
+The Tragedy of Julius Caesar,CINNA THE POET,8,14,1,1,1.0,0.54,8.0,1.75,1.75,8.0,0.54,14.0,0.06,side
+The Tragedy of Julius Caesar,ALL,9,10,1,1,1.13,0.38,9.0,1.11,1.11,9.0,0.38,10.0,0.06,side
+The Tragedy of Julius Caesar,CLITUS,8,10,1,1,1.0,0.38,8.0,1.25,1.25,8.0,0.38,10.0,0.06,main
+The Tragedy of Julius Caesar,TREBONIUS,4,9,3,2,0.5,0.35,1.33,2.25,2.25,1.33,0.35,4.5,0.17,main
+The Tragedy of Julius Caesar,CICERO,4,9,1,1,0.5,0.35,4.0,2.25,2.25,4.0,0.35,9.0,0.06,main
+The Tragedy of Julius Caesar,CATO,3,8,2,1,0.38,0.31,1.5,2.67,2.67,1.5,0.31,8.0,0.11,side
+The Tragedy of Julius Caesar,POET,3,7,1,1,0.38,0.27,3.0,2.33,2.33,3.0,0.27,7.0,0.06,side
+The Tragedy of Julius Caesar,STRATO,4,7,1,1,0.5,0.27,4.0,1.75,1.75,4.0,0.27,7.0,0.06,main
+The Tragedy of Julius Caesar,VARRO,6,6,1,1,0.75,0.23,6.0,1.0,1.0,6.0,0.23,6.0,0.06,main
+The Tragedy of Julius Caesar,FIRST SOLDIER,4,5,2,2,0.5,0.19,2.0,1.25,1.25,2.0,0.19,2.5,0.11,side
+The Tragedy of Julius Caesar,MESSENGER,1,4,1,1,0.13,0.15,1.0,4.0,4.0,1.0,0.15,4.0,0.06,side
+The Tragedy of Julius Caesar,CLAUDIUS,4,4,1,1,0.5,0.15,4.0,1.0,1.0,4.0,0.15,4.0,0.06,main
+The Tragedy of Julius Caesar,LEPIDUS,3,4,1,1,0.38,0.15,3.0,1.33,1.33,3.0,0.15,4.0,0.06,side
+The Tragedy of Julius Caesar,VOLUMNIUS,3,3,1,1,0.38,0.12,3.0,1.0,1.0,3.0,0.12,3.0,0.06,main
+The Tragedy of Julius Caesar,DARDANIUS,3,3,1,1,0.38,0.12,3.0,1.0,1.0,3.0,0.12,3.0,0.06,main
+The Tragedy of Julius Caesar,GHOST,3,3,1,1,0.38,0.12,3.0,1.0,1.0,3.0,0.12,3.0,0.06,side
+The Tragedy of Julius Caesar,SEVERAL CITIZENS,2,2,1,1,0.25,0.08,2.0,1.0,1.0,2.0,0.08,2.0,0.06,side
+The Tragedy of Julius Caesar,CITIZENS,2,2,1,1,0.25,0.08,2.0,1.0,1.0,2.0,0.08,2.0,0.06,side
+The Tragedy of Julius Caesar,PUBLIUS,2,2,2,2,0.25,0.08,1.0,1.0,1.0,1.0,0.08,1.0,0.11,main
+The Tragedy of Julius Caesar,POPILIUS,2,2,1,1,0.25,0.08,2.0,1.0,1.0,2.0,0.08,2.0,0.06,side
+The Tragedy of Julius Caesar,SECOND SOLDIER,2,2,2,2,0.25,0.08,1.0,1.0,1.0,1.0,0.08,1.0,0.11,side
+The Tragedy of Julius Caesar,THIRD SOLDIER,1,1,1,1,0.13,0.04,1.0,1.0,1.0,1.0,0.04,1.0,0.06,side
+The Tragedy of Julius Caesar,FIRST COMMONER,1,1,1,1,0.13,0.04,1.0,1.0,1.0,1.0,0.04,1.0,0.06,side
+The Merchant of Venice,PORTIA,117,588,9,5,18.4,22.08,13.0,5.03,5.03,13.0,22.08,117.6,0.45,main
+The Merchant of Venice,SHYLOCK,79,355,5,4,12.42,13.33,15.8,4.49,4.49,15.8,13.33,88.75,0.25,main
+The Merchant of Venice,BASSANIO,73,336,6,5,11.48,12.62,12.17,4.6,4.6,12.17,12.62,67.2,0.3,main
+The Merchant of Venice,ANTONIO,47,188,6,5,7.39,7.06,7.83,4.0,4.0,7.83,7.06,37.6,0.3,main
+The Merchant of Venice,LORENZO,47,179,7,4,7.39,6.72,6.71,3.81,3.81,6.71,6.72,44.75,0.35,main
+The Merchant of Venice,GRATIANO,48,175,8,5,7.55,6.57,6.0,3.65,3.65,6.0,6.57,35.0,0.4,main
+The Merchant of Venice,LAUNCELOT,44,168,6,3,6.92,6.31,7.33,3.82,3.82,7.33,6.31,56.0,0.3,side
+The Merchant of Venice,SALARINO,27,104,6,3,4.25,3.91,4.5,3.85,3.85,4.5,3.91,34.67,0.3,main
+The Merchant of Venice,MOROCCO,7,103,2,1,1.1,3.87,3.5,14.71,14.71,3.5,3.87,103.0,0.1,side
+The Merchant of Venice,JESSICA,26,86,7,3,4.09,3.23,3.71,3.31,3.31,3.71,3.23,28.67,0.35,main
+The Merchant of Venice,NERISSA,36,84,7,5,5.66,3.15,5.14,2.33,2.33,5.14,3.15,16.8,0.35,main
+The Merchant of Venice,ARRAGON,4,65,1,1,0.63,2.44,4.0,16.25,16.25,4.0,2.44,65.0,0.05,side
+The Merchant of Venice,DUKE,18,57,1,1,2.83,2.14,18.0,3.17,3.17,18.0,2.14,57.0,0.05,side
+The Merchant of Venice,SALANIO,18,56,4,3,2.83,2.1,4.5,3.11,3.11,4.5,2.1,18.67,0.2,main
+The Merchant of Venice,GOBBO,19,37,1,1,2.99,1.39,19.0,1.95,1.95,19.0,1.39,37.0,0.05,side
+The Merchant of Venice,SALERIO,6,24,2,2,0.94,0.9,3.0,4.0,4.0,3.0,0.9,12.0,0.1,main
+The Merchant of Venice,SERVANT,4,17,3,3,0.63,0.64,1.33,4.25,4.25,1.33,0.64,5.67,0.15,side
+The Merchant of Venice,CLERK,1,17,1,1,0.16,0.64,1.0,17.0,17.0,1.0,0.64,17.0,0.05,side
+The Merchant of Venice,TUBAL,8,12,1,1,1.26,0.45,8.0,1.5,1.5,8.0,0.45,12.0,0.05,main
+The Merchant of Venice,STEPHANO,3,8,1,1,0.47,0.3,3.0,2.67,2.67,3.0,0.3,8.0,0.05,main
+The Merchant of Venice,LEONARDO,2,2,1,1,0.31,0.08,2.0,1.0,1.0,2.0,0.08,2.0,0.05,main
+The Merchant of Venice,BALTHASAR,1,1,1,1,0.16,0.04,1.0,1.0,1.0,1.0,0.04,1.0,0.05,main
+The Merchant of Venice,ALL,1,1,1,1,0.16,0.04,1.0,1.0,1.0,1.0,0.04,1.0,0.05,side
+"The Tragedy of Othello, the Moor of Venice",IAGO,272,1097,13,5,22.99,30.83,20.92,4.03,4.03,20.92,30.83,219.4,0.87,main
+"The Tragedy of Othello, the Moor of Venice",OTHELLO,274,887,12,5,23.16,24.93,22.83,3.24,3.24,22.83,24.93,177.4,0.8,main
+"The Tragedy of Othello, the Moor of Venice",DESDEMONA,165,388,9,5,13.95,10.91,18.33,2.35,2.35,18.33,10.91,77.6,0.6,main
+"The Tragedy of Othello, the Moor of Venice",CASSIO,111,278,9,5,9.38,7.81,12.33,2.5,2.5,12.33,7.81,55.6,0.6,main
+"The Tragedy of Othello, the Moor of Venice",EMILIA,103,245,8,4,8.71,6.89,12.88,2.38,2.38,12.88,6.89,61.25,0.53,main
+"The Tragedy of Othello, the Moor of Venice",BRABANTIO,30,139,3,1,2.54,3.91,10.0,4.63,4.63,10.0,3.91,139.0,0.2,side
+"The Tragedy of Othello, the Moor of Venice",RODERIGO,59,114,7,4,4.99,3.2,8.43,1.93,1.93,8.43,3.2,28.5,0.47,main
+"The Tragedy of Othello, the Moor of Venice",LODOVICO,33,76,4,2,2.79,2.14,8.25,2.3,2.3,8.25,2.14,38.0,0.27,main
+"The Tragedy of Othello, the Moor of Venice",DUKE OF VENICE,25,73,1,1,2.11,2.05,25.0,2.92,2.92,25.0,2.05,73.0,0.07,main
+"The Tragedy of Othello, the Moor of Venice",MONTANO,24,61,3,2,2.03,1.71,8.0,2.54,2.54,8.0,1.71,30.5,0.2,main
+"The Tragedy of Othello, the Moor of Venice",BIANCA,15,34,3,3,1.27,0.96,5.0,2.27,2.27,5.0,0.96,11.33,0.2,main
+"The Tragedy of Othello, the Moor of Venice",GRATIANO,20,32,2,1,1.69,0.9,10.0,1.6,1.6,10.0,0.9,32.0,0.13,main
+"The Tragedy of Othello, the Moor of Venice",CLOWN,14,27,2,1,1.18,0.76,7.0,1.93,1.93,7.0,0.76,27.0,0.13,side
+"The Tragedy of Othello, the Moor of Venice",FIRST SENATOR,8,26,1,1,0.68,0.73,8.0,3.25,3.25,8.0,0.73,26.0,0.07,side
+"The Tragedy of Othello, the Moor of Venice",THIRD GENTLEMAN,4,17,1,1,0.34,0.48,4.0,4.25,4.25,4.0,0.48,17.0,0.07,side
+"The Tragedy of Othello, the Moor of Venice",HERALD,1,12,1,1,0.08,0.34,1.0,12.0,12.0,1.0,0.34,12.0,0.07,side
+"The Tragedy of Othello, the Moor of Venice",SECOND GENTLEMAN,4,12,1,1,0.34,0.34,4.0,3.0,3.0,4.0,0.34,12.0,0.07,side
+"The Tragedy of Othello, the Moor of Venice",MESSENGER,2,9,1,1,0.17,0.25,2.0,4.5,4.5,2.0,0.25,9.0,0.07,side
+"The Tragedy of Othello, the Moor of Venice",FIRST OFFICER,3,5,2,1,0.25,0.14,1.5,1.67,1.67,1.5,0.14,5.0,0.13,side
+"The Tragedy of Othello, the Moor of Venice",FIRST MUSICIAN,5,5,1,1,0.42,0.14,5.0,1.0,1.0,5.0,0.14,5.0,0.07,side
+"The Tragedy of Othello, the Moor of Venice",SECOND SENATOR,1,5,1,1,0.08,0.14,1.0,5.0,5.0,1.0,0.14,5.0,0.07,side
+"The Tragedy of Othello, the Moor of Venice",SAILOR,2,4,1,1,0.17,0.11,2.0,2.0,2.0,2.0,0.11,4.0,0.07,side
+"The Tragedy of Othello, the Moor of Venice",FIRST GENTLEMAN,1,3,1,1,0.08,0.08,1.0,3.0,3.0,1.0,0.08,3.0,0.07,side
+"The Tragedy of Othello, the Moor of Venice",FOURTH GENTLEMAN,1,2,1,1,0.08,0.06,1.0,2.0,2.0,1.0,0.06,2.0,0.07,side
+"The Tragedy of Othello, the Moor of Venice",SECOND GENTLEMEN,1,2,1,1,0.08,0.06,1.0,2.0,2.0,1.0,0.06,2.0,0.07,side
+"The Tragedy of Othello, the Moor of Venice",SENATOR,2,2,1,1,0.17,0.06,2.0,1.0,1.0,2.0,0.06,2.0,0.07,side
+"The Tragedy of Othello, the Moor of Venice",ALL,2,2,2,2,0.17,0.06,1.0,1.0,1.0,1.0,0.06,1.0,0.13,side
+"The Tragedy of Othello, the Moor of Venice",GENTLEMAN,1,1,1,1,0.08,0.03,1.0,1.0,1.0,1.0,0.03,1.0,0.07,side

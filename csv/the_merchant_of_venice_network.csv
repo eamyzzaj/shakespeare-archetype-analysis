@@ -1,0 +1,112 @@
+Play,Character A,Character B,Scenes Together,Scenes List,Acts Together,Scenes Together (IDs)
+The Merchant of Venice,ALL,BASSANIO,1,3.2,3,2
+The Merchant of Venice,ALL,GRATIANO,1,3.2,3,2
+The Merchant of Venice,ALL,JESSICA,1,3.2,3,2
+The Merchant of Venice,ALL,LORENZO,1,3.2,3,2
+The Merchant of Venice,ALL,NERISSA,1,3.2,3,2
+The Merchant of Venice,ALL,PORTIA,1,3.2,3,2
+The Merchant of Venice,ALL,SALERIO,1,3.2,3,2
+The Merchant of Venice,ANTONIO,BASSANIO,4,"1.1, 1.3, 4.1, 5.1","1, 4, 5","1, 3"
+The Merchant of Venice,ANTONIO,CLERK,1,4.1,4,1
+The Merchant of Venice,ANTONIO,DUKE,1,4.1,4,1
+The Merchant of Venice,ANTONIO,GRATIANO,4,"1.1, 2.6, 4.1, 5.1","1, 2, 4, 5","1, 6"
+The Merchant of Venice,ANTONIO,JESSICA,2,"2.6, 5.1","2, 5","1, 6"
+The Merchant of Venice,ANTONIO,LAUNCELOT,1,5.1,5,1
+The Merchant of Venice,ANTONIO,LORENZO,3,"1.1, 2.6, 5.1","1, 2, 5","1, 6"
+The Merchant of Venice,ANTONIO,NERISSA,2,"4.1, 5.1","4, 5",1
+The Merchant of Venice,ANTONIO,PORTIA,2,"4.1, 5.1","4, 5",1
+The Merchant of Venice,ANTONIO,SALANIO,1,1.1,1,1
+The Merchant of Venice,ANTONIO,SALARINO,3,"1.1, 2.6, 3.3","1, 2, 3","1, 3, 6"
+The Merchant of Venice,ANTONIO,SALERIO,1,4.1,4,1
+The Merchant of Venice,ANTONIO,SHYLOCK,3,"1.3, 3.3, 4.1","1, 3, 4","1, 3"
+The Merchant of Venice,ANTONIO,STEPHANO,1,5.1,5,1
+The Merchant of Venice,ARRAGON,NERISSA,1,2.9,2,9
+The Merchant of Venice,ARRAGON,PORTIA,1,2.9,2,9
+The Merchant of Venice,ARRAGON,SERVANT,1,2.9,2,9
+The Merchant of Venice,BALTHASAR,JESSICA,1,3.4,3,4
+The Merchant of Venice,BALTHASAR,LORENZO,1,3.4,3,4
+The Merchant of Venice,BALTHASAR,NERISSA,1,3.4,3,4
+The Merchant of Venice,BALTHASAR,PORTIA,1,3.4,3,4
+The Merchant of Venice,BASSANIO,CLERK,1,4.1,4,1
+The Merchant of Venice,BASSANIO,DUKE,1,4.1,4,1
+The Merchant of Venice,BASSANIO,GOBBO,1,2.2,2,2
+The Merchant of Venice,BASSANIO,GRATIANO,5,"1.1, 2.2, 3.2, 4.1, 5.1","1, 2, 3, 4, 5","1, 2"
+The Merchant of Venice,BASSANIO,JESSICA,2,"3.2, 5.1","3, 5","1, 2"
+The Merchant of Venice,BASSANIO,LAUNCELOT,2,"2.2, 5.1","2, 5","1, 2"
+The Merchant of Venice,BASSANIO,LEONARDO,1,2.2,2,2
+The Merchant of Venice,BASSANIO,LORENZO,3,"1.1, 3.2, 5.1","1, 3, 5","1, 2"
+The Merchant of Venice,BASSANIO,NERISSA,3,"3.2, 4.1, 5.1","3, 4, 5","1, 2"
+The Merchant of Venice,BASSANIO,PORTIA,3,"3.2, 4.1, 5.1","3, 4, 5","1, 2"
+The Merchant of Venice,BASSANIO,SALANIO,1,1.1,1,1
+The Merchant of Venice,BASSANIO,SALARINO,1,1.1,1,1
+The Merchant of Venice,BASSANIO,SALERIO,2,"3.2, 4.1","3, 4","1, 2"
+The Merchant of Venice,BASSANIO,SHYLOCK,2,"1.3, 4.1","1, 4","1, 3"
+The Merchant of Venice,BASSANIO,STEPHANO,1,5.1,5,1
+The Merchant of Venice,CLERK,DUKE,1,4.1,4,1
+The Merchant of Venice,CLERK,GRATIANO,1,4.1,4,1
+The Merchant of Venice,CLERK,NERISSA,1,4.1,4,1
+The Merchant of Venice,CLERK,PORTIA,1,4.1,4,1
+The Merchant of Venice,CLERK,SALERIO,1,4.1,4,1
+The Merchant of Venice,CLERK,SHYLOCK,1,4.1,4,1
+The Merchant of Venice,DUKE,GRATIANO,1,4.1,4,1
+The Merchant of Venice,DUKE,NERISSA,1,4.1,4,1
+The Merchant of Venice,DUKE,PORTIA,1,4.1,4,1
+The Merchant of Venice,DUKE,SALERIO,1,4.1,4,1
+The Merchant of Venice,DUKE,SHYLOCK,1,4.1,4,1
+The Merchant of Venice,GOBBO,GRATIANO,1,2.2,2,2
+The Merchant of Venice,GOBBO,LAUNCELOT,1,2.2,2,2
+The Merchant of Venice,GOBBO,LEONARDO,1,2.2,2,2
+The Merchant of Venice,GRATIANO,JESSICA,3,"2.6, 3.2, 5.1","2, 3, 5","1, 2, 6"
+The Merchant of Venice,GRATIANO,LAUNCELOT,3,"2.2, 2.4, 5.1","2, 5","1, 2, 4"
+The Merchant of Venice,GRATIANO,LEONARDO,1,2.2,2,2
+The Merchant of Venice,GRATIANO,LORENZO,5,"1.1, 2.4, 2.6, 3.2, 5.1","1, 2, 3, 5","1, 2, 4, 6"
+The Merchant of Venice,GRATIANO,NERISSA,4,"3.2, 4.1, 4.2, 5.1","3, 4, 5","1, 2"
+The Merchant of Venice,GRATIANO,PORTIA,4,"3.2, 4.1, 4.2, 5.1","3, 4, 5","1, 2"
+The Merchant of Venice,GRATIANO,SALANIO,2,"1.1, 2.4","1, 2","1, 4"
+The Merchant of Venice,GRATIANO,SALARINO,3,"1.1, 2.4, 2.6","1, 2","1, 4, 6"
+The Merchant of Venice,GRATIANO,SALERIO,2,"3.2, 4.1","3, 4","1, 2"
+The Merchant of Venice,GRATIANO,SHYLOCK,1,4.1,4,1
+The Merchant of Venice,GRATIANO,STEPHANO,1,5.1,5,1
+The Merchant of Venice,JESSICA,LAUNCELOT,4,"2.3, 2.5, 3.5, 5.1","2, 3, 5","1, 3, 5"
+The Merchant of Venice,JESSICA,LORENZO,5,"2.6, 3.2, 3.4, 3.5, 5.1","2, 3, 5","1, 2, 4, 5, 6"
+The Merchant of Venice,JESSICA,NERISSA,3,"3.2, 3.4, 5.1","3, 5","1, 2, 4"
+The Merchant of Venice,JESSICA,PORTIA,3,"3.2, 3.4, 5.1","3, 5","1, 2, 4"
+The Merchant of Venice,JESSICA,SALARINO,1,2.6,2,6
+The Merchant of Venice,JESSICA,SALERIO,1,3.2,3,2
+The Merchant of Venice,JESSICA,SHYLOCK,1,2.5,2,5
+The Merchant of Venice,JESSICA,STEPHANO,1,5.1,5,1
+The Merchant of Venice,LAUNCELOT,LEONARDO,1,2.2,2,2
+The Merchant of Venice,LAUNCELOT,LORENZO,3,"2.4, 3.5, 5.1","2, 3, 5","1, 4, 5"
+The Merchant of Venice,LAUNCELOT,NERISSA,1,5.1,5,1
+The Merchant of Venice,LAUNCELOT,PORTIA,1,5.1,5,1
+The Merchant of Venice,LAUNCELOT,SALANIO,1,2.4,2,4
+The Merchant of Venice,LAUNCELOT,SALARINO,1,2.4,2,4
+The Merchant of Venice,LAUNCELOT,SHYLOCK,1,2.5,2,5
+The Merchant of Venice,LAUNCELOT,STEPHANO,1,5.1,5,1
+The Merchant of Venice,LORENZO,NERISSA,3,"3.2, 3.4, 5.1","3, 5","1, 2, 4"
+The Merchant of Venice,LORENZO,PORTIA,3,"3.2, 3.4, 5.1","3, 5","1, 2, 4"
+The Merchant of Venice,LORENZO,SALANIO,2,"1.1, 2.4","1, 2","1, 4"
+The Merchant of Venice,LORENZO,SALARINO,3,"1.1, 2.4, 2.6","1, 2","1, 4, 6"
+The Merchant of Venice,LORENZO,SALERIO,1,3.2,3,2
+The Merchant of Venice,LORENZO,STEPHANO,1,5.1,5,1
+The Merchant of Venice,MOROCCO,PORTIA,2,"2.1, 2.7",2,"1, 7"
+The Merchant of Venice,NERISSA,PORTIA,7,"1.2, 2.9, 3.2, 3.4, 4.1, 4.2, 5.1","1, 2, 3, 4, 5","1, 2, 4, 9"
+The Merchant of Venice,NERISSA,SALERIO,2,"3.2, 4.1","3, 4","1, 2"
+The Merchant of Venice,NERISSA,SERVANT,2,"1.2, 2.9","1, 2","2, 9"
+The Merchant of Venice,NERISSA,SHYLOCK,1,4.1,4,1
+The Merchant of Venice,NERISSA,STEPHANO,1,5.1,5,1
+The Merchant of Venice,PORTIA,SALERIO,2,"3.2, 4.1","3, 4","1, 2"
+The Merchant of Venice,PORTIA,SERVANT,2,"1.2, 2.9","1, 2","2, 9"
+The Merchant of Venice,PORTIA,SHYLOCK,1,4.1,4,1
+The Merchant of Venice,PORTIA,STEPHANO,1,5.1,5,1
+The Merchant of Venice,SALANIO,SALARINO,4,"1.1, 2.4, 2.8, 3.1","1, 2, 3","1, 4, 8"
+The Merchant of Venice,SALANIO,SERVANT,1,3.1,3,1
+The Merchant of Venice,SALANIO,SHYLOCK,1,3.1,3,1
+The Merchant of Venice,SALANIO,TUBAL,1,3.1,3,1
+The Merchant of Venice,SALARINO,SERVANT,1,3.1,3,1
+The Merchant of Venice,SALARINO,SHYLOCK,2,"3.1, 3.3",3,"1, 3"
+The Merchant of Venice,SALARINO,TUBAL,1,3.1,3,1
+The Merchant of Venice,SALERIO,SHYLOCK,1,4.1,4,1
+The Merchant of Venice,SERVANT,SHYLOCK,1,3.1,3,1
+The Merchant of Venice,SERVANT,TUBAL,1,3.1,3,1
+The Merchant of Venice,SHYLOCK,TUBAL,1,3.1,3,1

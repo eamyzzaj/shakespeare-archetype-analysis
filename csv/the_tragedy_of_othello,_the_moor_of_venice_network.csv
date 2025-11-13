@@ -1,0 +1,173 @@
+Play,Character A,Character B,Scenes Together,Scenes List,Acts Together,Scenes Together (IDs)
+"The Tragedy of Othello, the Moor of Venice",ALL,CASSIO,2,"2.3, 5.2","2, 5","2, 3"
+"The Tragedy of Othello, the Moor of Venice",ALL,DESDEMONA,2,"2.3, 5.2","2, 5","2, 3"
+"The Tragedy of Othello, the Moor of Venice",ALL,EMILIA,1,5.2,5,2
+"The Tragedy of Othello, the Moor of Venice",ALL,GRATIANO,1,5.2,5,2
+"The Tragedy of Othello, the Moor of Venice",ALL,IAGO,2,"2.3, 5.2","2, 5","2, 3"
+"The Tragedy of Othello, the Moor of Venice",ALL,LODOVICO,1,5.2,5,2
+"The Tragedy of Othello, the Moor of Venice",ALL,MONTANO,2,"2.3, 5.2","2, 5","2, 3"
+"The Tragedy of Othello, the Moor of Venice",ALL,OTHELLO,2,"2.3, 5.2","2, 5","2, 3"
+"The Tragedy of Othello, the Moor of Venice",ALL,RODERIGO,1,2.3,2,3
+"The Tragedy of Othello, the Moor of Venice",BIANCA,CASSIO,3,"3.4, 4.1, 5.1","3, 4, 5","1, 4"
+"The Tragedy of Othello, the Moor of Venice",BIANCA,CLOWN,1,3.4,3,4
+"The Tragedy of Othello, the Moor of Venice",BIANCA,DESDEMONA,2,"3.4, 4.1","3, 4","1, 4"
+"The Tragedy of Othello, the Moor of Venice",BIANCA,EMILIA,2,"3.4, 5.1","3, 5","1, 4"
+"The Tragedy of Othello, the Moor of Venice",BIANCA,GRATIANO,1,5.1,5,1
+"The Tragedy of Othello, the Moor of Venice",BIANCA,IAGO,3,"3.4, 4.1, 5.1","3, 4, 5","1, 4"
+"The Tragedy of Othello, the Moor of Venice",BIANCA,LODOVICO,2,"4.1, 5.1","4, 5",1
+"The Tragedy of Othello, the Moor of Venice",BIANCA,OTHELLO,3,"3.4, 4.1, 5.1","3, 4, 5","1, 4"
+"The Tragedy of Othello, the Moor of Venice",BIANCA,RODERIGO,1,5.1,5,1
+"The Tragedy of Othello, the Moor of Venice",BRABANTIO,CASSIO,1,1.2,1,2
+"The Tragedy of Othello, the Moor of Venice",BRABANTIO,DESDEMONA,1,1.3,1,3
+"The Tragedy of Othello, the Moor of Venice",BRABANTIO,DUKE OF VENICE,1,1.3,1,3
+"The Tragedy of Othello, the Moor of Venice",BRABANTIO,FIRST OFFICER,2,"1.2, 1.3",1,"2, 3"
+"The Tragedy of Othello, the Moor of Venice",BRABANTIO,FIRST SENATOR,1,1.3,1,3
+"The Tragedy of Othello, the Moor of Venice",BRABANTIO,IAGO,3,"1.1, 1.2, 1.3",1,"1, 2, 3"
+"The Tragedy of Othello, the Moor of Venice",BRABANTIO,MESSENGER,1,1.3,1,3
+"The Tragedy of Othello, the Moor of Venice",BRABANTIO,OTHELLO,2,"1.2, 1.3",1,"2, 3"
+"The Tragedy of Othello, the Moor of Venice",BRABANTIO,RODERIGO,3,"1.1, 1.2, 1.3",1,"1, 2, 3"
+"The Tragedy of Othello, the Moor of Venice",BRABANTIO,SAILOR,1,1.3,1,3
+"The Tragedy of Othello, the Moor of Venice",BRABANTIO,SECOND SENATOR,1,1.3,1,3
+"The Tragedy of Othello, the Moor of Venice",BRABANTIO,SENATOR,1,1.3,1,3
+"The Tragedy of Othello, the Moor of Venice",CASSIO,CLOWN,2,"3.1, 3.4",3,"1, 4"
+"The Tragedy of Othello, the Moor of Venice",CASSIO,DESDEMONA,6,"2.1, 2.3, 3.3, 3.4, 4.1, 5.2","2, 3, 4, 5","1, 2, 3, 4"
+"The Tragedy of Othello, the Moor of Venice",CASSIO,EMILIA,6,"2.1, 3.1, 3.3, 3.4, 5.1, 5.2","2, 3, 5","1, 2, 3, 4"
+"The Tragedy of Othello, the Moor of Venice",CASSIO,FIRST GENTLEMAN,1,2.1,2,1
+"The Tragedy of Othello, the Moor of Venice",CASSIO,FIRST MUSICIAN,1,3.1,3,1
+"The Tragedy of Othello, the Moor of Venice",CASSIO,FIRST OFFICER,1,1.2,1,2
+"The Tragedy of Othello, the Moor of Venice",CASSIO,FOURTH GENTLEMAN,1,2.1,2,1
+"The Tragedy of Othello, the Moor of Venice",CASSIO,GRATIANO,2,"5.1, 5.2",5,"1, 2"
+"The Tragedy of Othello, the Moor of Venice",CASSIO,IAGO,9,"1.2, 2.1, 2.3, 3.1, 3.3, 3.4, 4.1, 5.1, 5.2","1, 2, 3, 4, 5","1, 2, 3, 4"
+"The Tragedy of Othello, the Moor of Venice",CASSIO,LODOVICO,3,"4.1, 5.1, 5.2","4, 5","1, 2"
+"The Tragedy of Othello, the Moor of Venice",CASSIO,MONTANO,3,"2.1, 2.3, 5.2","2, 5","1, 2, 3"
+"The Tragedy of Othello, the Moor of Venice",CASSIO,OTHELLO,8,"1.2, 2.1, 2.3, 3.3, 3.4, 4.1, 5.1, 5.2","1, 2, 3, 4, 5","1, 2, 3, 4"
+"The Tragedy of Othello, the Moor of Venice",CASSIO,RODERIGO,4,"1.2, 2.1, 2.3, 5.1","1, 2, 5","1, 2, 3"
+"The Tragedy of Othello, the Moor of Venice",CASSIO,SECOND GENTLEMAN,1,2.1,2,1
+"The Tragedy of Othello, the Moor of Venice",CASSIO,SECOND GENTLEMEN,1,2.1,2,1
+"The Tragedy of Othello, the Moor of Venice",CASSIO,THIRD GENTLEMAN,1,2.1,2,1
+"The Tragedy of Othello, the Moor of Venice",CLOWN,DESDEMONA,1,3.4,3,4
+"The Tragedy of Othello, the Moor of Venice",CLOWN,EMILIA,2,"3.1, 3.4",3,"1, 4"
+"The Tragedy of Othello, the Moor of Venice",CLOWN,FIRST MUSICIAN,1,3.1,3,1
+"The Tragedy of Othello, the Moor of Venice",CLOWN,IAGO,2,"3.1, 3.4",3,"1, 4"
+"The Tragedy of Othello, the Moor of Venice",CLOWN,OTHELLO,1,3.4,3,4
+"The Tragedy of Othello, the Moor of Venice",DESDEMONA,DUKE OF VENICE,1,1.3,1,3
+"The Tragedy of Othello, the Moor of Venice",DESDEMONA,EMILIA,6,"2.1, 3.3, 3.4, 4.2, 4.3, 5.2","2, 3, 4, 5","1, 2, 3, 4"
+"The Tragedy of Othello, the Moor of Venice",DESDEMONA,FIRST GENTLEMAN,1,2.1,2,1
+"The Tragedy of Othello, the Moor of Venice",DESDEMONA,FIRST OFFICER,1,1.3,1,3
+"The Tragedy of Othello, the Moor of Venice",DESDEMONA,FIRST SENATOR,1,1.3,1,3
+"The Tragedy of Othello, the Moor of Venice",DESDEMONA,FOURTH GENTLEMAN,1,2.1,2,1
+"The Tragedy of Othello, the Moor of Venice",DESDEMONA,GRATIANO,1,5.2,5,2
+"The Tragedy of Othello, the Moor of Venice",DESDEMONA,IAGO,8,"1.3, 2.1, 2.3, 3.3, 3.4, 4.1, 4.2, 5.2","1, 2, 3, 4, 5","1, 2, 3, 4"
+"The Tragedy of Othello, the Moor of Venice",DESDEMONA,LODOVICO,3,"4.1, 4.3, 5.2","4, 5","1, 2, 3"
+"The Tragedy of Othello, the Moor of Venice",DESDEMONA,MESSENGER,1,1.3,1,3
+"The Tragedy of Othello, the Moor of Venice",DESDEMONA,MONTANO,3,"2.1, 2.3, 5.2","2, 5","1, 2, 3"
+"The Tragedy of Othello, the Moor of Venice",DESDEMONA,OTHELLO,9,"1.3, 2.1, 2.3, 3.3, 3.4, 4.1, 4.2, 4.3, 5.2","1, 2, 3, 4, 5","1, 2, 3, 4"
+"The Tragedy of Othello, the Moor of Venice",DESDEMONA,RODERIGO,4,"1.3, 2.1, 2.3, 4.2","1, 2, 4","1, 2, 3"
+"The Tragedy of Othello, the Moor of Venice",DESDEMONA,SAILOR,1,1.3,1,3
+"The Tragedy of Othello, the Moor of Venice",DESDEMONA,SECOND GENTLEMAN,1,2.1,2,1
+"The Tragedy of Othello, the Moor of Venice",DESDEMONA,SECOND GENTLEMEN,1,2.1,2,1
+"The Tragedy of Othello, the Moor of Venice",DESDEMONA,SECOND SENATOR,1,1.3,1,3
+"The Tragedy of Othello, the Moor of Venice",DESDEMONA,SENATOR,1,1.3,1,3
+"The Tragedy of Othello, the Moor of Venice",DESDEMONA,THIRD GENTLEMAN,1,2.1,2,1
+"The Tragedy of Othello, the Moor of Venice",DUKE OF VENICE,FIRST OFFICER,1,1.3,1,3
+"The Tragedy of Othello, the Moor of Venice",DUKE OF VENICE,FIRST SENATOR,1,1.3,1,3
+"The Tragedy of Othello, the Moor of Venice",DUKE OF VENICE,IAGO,1,1.3,1,3
+"The Tragedy of Othello, the Moor of Venice",DUKE OF VENICE,MESSENGER,1,1.3,1,3
+"The Tragedy of Othello, the Moor of Venice",DUKE OF VENICE,OTHELLO,1,1.3,1,3
+"The Tragedy of Othello, the Moor of Venice",DUKE OF VENICE,RODERIGO,1,1.3,1,3
+"The Tragedy of Othello, the Moor of Venice",DUKE OF VENICE,SAILOR,1,1.3,1,3
+"The Tragedy of Othello, the Moor of Venice",DUKE OF VENICE,SECOND SENATOR,1,1.3,1,3
+"The Tragedy of Othello, the Moor of Venice",DUKE OF VENICE,SENATOR,1,1.3,1,3
+"The Tragedy of Othello, the Moor of Venice",EMILIA,FIRST GENTLEMAN,1,2.1,2,1
+"The Tragedy of Othello, the Moor of Venice",EMILIA,FIRST MUSICIAN,1,3.1,3,1
+"The Tragedy of Othello, the Moor of Venice",EMILIA,FOURTH GENTLEMAN,1,2.1,2,1
+"The Tragedy of Othello, the Moor of Venice",EMILIA,GRATIANO,2,"5.1, 5.2",5,"1, 2"
+"The Tragedy of Othello, the Moor of Venice",EMILIA,IAGO,7,"2.1, 3.1, 3.3, 3.4, 4.2, 5.1, 5.2","2, 3, 4, 5","1, 2, 3, 4"
+"The Tragedy of Othello, the Moor of Venice",EMILIA,LODOVICO,3,"4.3, 5.1, 5.2","4, 5","1, 2, 3"
+"The Tragedy of Othello, the Moor of Venice",EMILIA,MONTANO,2,"2.1, 5.2","2, 5","1, 2"
+"The Tragedy of Othello, the Moor of Venice",EMILIA,OTHELLO,7,"2.1, 3.3, 3.4, 4.2, 4.3, 5.1, 5.2","2, 3, 4, 5","1, 2, 3, 4"
+"The Tragedy of Othello, the Moor of Venice",EMILIA,RODERIGO,3,"2.1, 4.2, 5.1","2, 4, 5","1, 2"
+"The Tragedy of Othello, the Moor of Venice",EMILIA,SECOND GENTLEMAN,1,2.1,2,1
+"The Tragedy of Othello, the Moor of Venice",EMILIA,SECOND GENTLEMEN,1,2.1,2,1
+"The Tragedy of Othello, the Moor of Venice",EMILIA,THIRD GENTLEMAN,1,2.1,2,1
+"The Tragedy of Othello, the Moor of Venice",FIRST GENTLEMAN,FOURTH GENTLEMAN,1,2.1,2,1
+"The Tragedy of Othello, the Moor of Venice",FIRST GENTLEMAN,IAGO,1,2.1,2,1
+"The Tragedy of Othello, the Moor of Venice",FIRST GENTLEMAN,MONTANO,1,2.1,2,1
+"The Tragedy of Othello, the Moor of Venice",FIRST GENTLEMAN,OTHELLO,1,2.1,2,1
+"The Tragedy of Othello, the Moor of Venice",FIRST GENTLEMAN,RODERIGO,1,2.1,2,1
+"The Tragedy of Othello, the Moor of Venice",FIRST GENTLEMAN,SECOND GENTLEMAN,1,2.1,2,1
+"The Tragedy of Othello, the Moor of Venice",FIRST GENTLEMAN,SECOND GENTLEMEN,1,2.1,2,1
+"The Tragedy of Othello, the Moor of Venice",FIRST GENTLEMAN,THIRD GENTLEMAN,1,2.1,2,1
+"The Tragedy of Othello, the Moor of Venice",FIRST MUSICIAN,IAGO,1,3.1,3,1
+"The Tragedy of Othello, the Moor of Venice",FIRST OFFICER,FIRST SENATOR,1,1.3,1,3
+"The Tragedy of Othello, the Moor of Venice",FIRST OFFICER,IAGO,2,"1.2, 1.3",1,"2, 3"
+"The Tragedy of Othello, the Moor of Venice",FIRST OFFICER,MESSENGER,1,1.3,1,3
+"The Tragedy of Othello, the Moor of Venice",FIRST OFFICER,OTHELLO,2,"1.2, 1.3",1,"2, 3"
+"The Tragedy of Othello, the Moor of Venice",FIRST OFFICER,RODERIGO,2,"1.2, 1.3",1,"2, 3"
+"The Tragedy of Othello, the Moor of Venice",FIRST OFFICER,SAILOR,1,1.3,1,3
+"The Tragedy of Othello, the Moor of Venice",FIRST OFFICER,SECOND SENATOR,1,1.3,1,3
+"The Tragedy of Othello, the Moor of Venice",FIRST OFFICER,SENATOR,1,1.3,1,3
+"The Tragedy of Othello, the Moor of Venice",FIRST SENATOR,IAGO,1,1.3,1,3
+"The Tragedy of Othello, the Moor of Venice",FIRST SENATOR,MESSENGER,1,1.3,1,3
+"The Tragedy of Othello, the Moor of Venice",FIRST SENATOR,OTHELLO,1,1.3,1,3
+"The Tragedy of Othello, the Moor of Venice",FIRST SENATOR,RODERIGO,1,1.3,1,3
+"The Tragedy of Othello, the Moor of Venice",FIRST SENATOR,SAILOR,1,1.3,1,3
+"The Tragedy of Othello, the Moor of Venice",FIRST SENATOR,SECOND SENATOR,1,1.3,1,3
+"The Tragedy of Othello, the Moor of Venice",FIRST SENATOR,SENATOR,1,1.3,1,3
+"The Tragedy of Othello, the Moor of Venice",FOURTH GENTLEMAN,IAGO,1,2.1,2,1
+"The Tragedy of Othello, the Moor of Venice",FOURTH GENTLEMAN,MONTANO,1,2.1,2,1
+"The Tragedy of Othello, the Moor of Venice",FOURTH GENTLEMAN,OTHELLO,1,2.1,2,1
+"The Tragedy of Othello, the Moor of Venice",FOURTH GENTLEMAN,RODERIGO,1,2.1,2,1
+"The Tragedy of Othello, the Moor of Venice",FOURTH GENTLEMAN,SECOND GENTLEMAN,1,2.1,2,1
+"The Tragedy of Othello, the Moor of Venice",FOURTH GENTLEMAN,SECOND GENTLEMEN,1,2.1,2,1
+"The Tragedy of Othello, the Moor of Venice",FOURTH GENTLEMAN,THIRD GENTLEMAN,1,2.1,2,1
+"The Tragedy of Othello, the Moor of Venice",GENTLEMAN,IAGO,1,3.2,3,2
+"The Tragedy of Othello, the Moor of Venice",GENTLEMAN,OTHELLO,1,3.2,3,2
+"The Tragedy of Othello, the Moor of Venice",GRATIANO,IAGO,2,"5.1, 5.2",5,"1, 2"
+"The Tragedy of Othello, the Moor of Venice",GRATIANO,LODOVICO,2,"5.1, 5.2",5,"1, 2"
+"The Tragedy of Othello, the Moor of Venice",GRATIANO,MONTANO,1,5.2,5,2
+"The Tragedy of Othello, the Moor of Venice",GRATIANO,OTHELLO,2,"5.1, 5.2",5,"1, 2"
+"The Tragedy of Othello, the Moor of Venice",GRATIANO,RODERIGO,1,5.1,5,1
+"The Tragedy of Othello, the Moor of Venice",IAGO,LODOVICO,3,"4.1, 5.1, 5.2","4, 5","1, 2"
+"The Tragedy of Othello, the Moor of Venice",IAGO,MESSENGER,1,1.3,1,3
+"The Tragedy of Othello, the Moor of Venice",IAGO,MONTANO,3,"2.1, 2.3, 5.2","2, 5","1, 2, 3"
+"The Tragedy of Othello, the Moor of Venice",IAGO,OTHELLO,11,"1.2, 1.3, 2.1, 2.3, 3.2, 3.3, 3.4, 4.1, 4.2, 5.1, 5.2","1, 2, 3, 4, 5","1, 2, 3, 4"
+"The Tragedy of Othello, the Moor of Venice",IAGO,RODERIGO,7,"1.1, 1.2, 1.3, 2.1, 2.3, 4.2, 5.1","1, 2, 4, 5","1, 2, 3"
+"The Tragedy of Othello, the Moor of Venice",IAGO,SAILOR,1,1.3,1,3
+"The Tragedy of Othello, the Moor of Venice",IAGO,SECOND GENTLEMAN,1,2.1,2,1
+"The Tragedy of Othello, the Moor of Venice",IAGO,SECOND GENTLEMEN,1,2.1,2,1
+"The Tragedy of Othello, the Moor of Venice",IAGO,SECOND SENATOR,1,1.3,1,3
+"The Tragedy of Othello, the Moor of Venice",IAGO,SENATOR,1,1.3,1,3
+"The Tragedy of Othello, the Moor of Venice",IAGO,THIRD GENTLEMAN,1,2.1,2,1
+"The Tragedy of Othello, the Moor of Venice",LODOVICO,MONTANO,1,5.2,5,2
+"The Tragedy of Othello, the Moor of Venice",LODOVICO,OTHELLO,4,"4.1, 4.3, 5.1, 5.2","4, 5","1, 2, 3"
+"The Tragedy of Othello, the Moor of Venice",LODOVICO,RODERIGO,1,5.1,5,1
+"The Tragedy of Othello, the Moor of Venice",MESSENGER,OTHELLO,1,1.3,1,3
+"The Tragedy of Othello, the Moor of Venice",MESSENGER,RODERIGO,1,1.3,1,3
+"The Tragedy of Othello, the Moor of Venice",MESSENGER,SAILOR,1,1.3,1,3
+"The Tragedy of Othello, the Moor of Venice",MESSENGER,SECOND SENATOR,1,1.3,1,3
+"The Tragedy of Othello, the Moor of Venice",MESSENGER,SENATOR,1,1.3,1,3
+"The Tragedy of Othello, the Moor of Venice",MONTANO,OTHELLO,3,"2.1, 2.3, 5.2","2, 5","1, 2, 3"
+"The Tragedy of Othello, the Moor of Venice",MONTANO,RODERIGO,2,"2.1, 2.3",2,"1, 3"
+"The Tragedy of Othello, the Moor of Venice",MONTANO,SECOND GENTLEMAN,1,2.1,2,1
+"The Tragedy of Othello, the Moor of Venice",MONTANO,SECOND GENTLEMEN,1,2.1,2,1
+"The Tragedy of Othello, the Moor of Venice",MONTANO,THIRD GENTLEMAN,1,2.1,2,1
+"The Tragedy of Othello, the Moor of Venice",OTHELLO,RODERIGO,6,"1.2, 1.3, 2.1, 2.3, 4.2, 5.1","1, 2, 4, 5","1, 2, 3"
+"The Tragedy of Othello, the Moor of Venice",OTHELLO,SAILOR,1,1.3,1,3
+"The Tragedy of Othello, the Moor of Venice",OTHELLO,SECOND GENTLEMAN,1,2.1,2,1
+"The Tragedy of Othello, the Moor of Venice",OTHELLO,SECOND GENTLEMEN,1,2.1,2,1
+"The Tragedy of Othello, the Moor of Venice",OTHELLO,SECOND SENATOR,1,1.3,1,3
+"The Tragedy of Othello, the Moor of Venice",OTHELLO,SENATOR,1,1.3,1,3
+"The Tragedy of Othello, the Moor of Venice",OTHELLO,THIRD GENTLEMAN,1,2.1,2,1
+"The Tragedy of Othello, the Moor of Venice",RODERIGO,SAILOR,1,1.3,1,3
+"The Tragedy of Othello, the Moor of Venice",RODERIGO,SECOND GENTLEMAN,1,2.1,2,1
+"The Tragedy of Othello, the Moor of Venice",RODERIGO,SECOND GENTLEMEN,1,2.1,2,1
+"The Tragedy of Othello, the Moor of Venice",RODERIGO,SECOND SENATOR,1,1.3,1,3
+"The Tragedy of Othello, the Moor of Venice",RODERIGO,SENATOR,1,1.3,1,3
+"The Tragedy of Othello, the Moor of Venice",RODERIGO,THIRD GENTLEMAN,1,2.1,2,1
+"The Tragedy of Othello, the Moor of Venice",SAILOR,SECOND SENATOR,1,1.3,1,3
+"The Tragedy of Othello, the Moor of Venice",SAILOR,SENATOR,1,1.3,1,3
+"The Tragedy of Othello, the Moor of Venice",SECOND GENTLEMAN,SECOND GENTLEMEN,1,2.1,2,1
+"The Tragedy of Othello, the Moor of Venice",SECOND GENTLEMAN,THIRD GENTLEMAN,1,2.1,2,1
+"The Tragedy of Othello, the Moor of Venice",SECOND GENTLEMEN,THIRD GENTLEMAN,1,2.1,2,1
+"The Tragedy of Othello, the Moor of Venice",SECOND SENATOR,SENATOR,1,1.3,1,3
