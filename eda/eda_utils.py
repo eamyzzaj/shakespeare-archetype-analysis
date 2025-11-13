@@ -3,6 +3,10 @@ from collections import defaultdict
 import pandas as pd
 
 
+def extract_title_xml(single_lit_work):
+    xml_tree = single_lit_work["work_xml"]
+    single_lit_work["work_name"] = xml_tree.find('.//TITLE').text 
+
 # -----------------------------------------------
 # 1. Extract character data
 # -----------------------------------------------
@@ -517,3 +521,167 @@ def extract_all_speeches(works):
         out_path = "../csv/" + play_name.lower().replace(" ", "_").replace("'", "") + "_speeches.csv"
         df.to_csv(out_path, index=False)
         print(f"Saved {out_path} ({len(df)} speeches)")
+
+# -----------------------
+# Quantitative Stats about Play
+# -----------------------
+
+import os
+import pandas as pd
+
+def count_story_lines(xml_tree):
+    """
+    Count only dialogue <LINE> elements inside <SPEECH> blocks.
+    Returns (play_title, total_lines, total_speeches).
+    """
+    root = xml_tree
+    title = root.find(".//TITLE").text if root.find(".//TITLE") is not None else "Unknown Play"
+
+    line_count = 0
+    speech_count = 0
+
+    for speech in root.findall(".//SPEECH"):
+        has_line = False
+        for line in speech.findall(".//LINE"):
+            text = line.text.strip() if line.text else ""
+            if text:
+                line_count += 1
+                has_line = True
+        if has_line:
+            speech_count += 1
+
+    return title, line_count, speech_count
+
+
+def count_characters(lit_work: dict):
+    """
+    Count main and side characters defined in the dramatis personae.
+    """
+    main_char_ct = len(lit_work.get("main_charcs", []))
+    side_char_ct = len(lit_work.get("side_charcs", []))
+    total_char_ct = main_char_ct + side_char_ct
+    return main_char_ct, side_char_ct, total_char_ct
+
+
+def create_story_stats(works: list):
+    """
+    Creates both:
+    - Play-level quantitative summaries (acts, scenes, speeches, etc.)
+    - Scene-level layout summaries (act/scene + speeches, lines, unique characters)
+    For each play in the list.
+    Saves all outputs into ../csv/.
+    """
+    import os
+    import pandas as pd
+
+    os.makedirs("../csv", exist_ok=True)
+
+    all_play_summaries = []  # store all play-level summaries together
+
+    for lit_work in works:
+        xml_tree = lit_work["work_xml"]
+        play_title = lit_work["work_name"]
+
+        # -----------------------
+        # Count global structure
+        # -----------------------
+        acts = xml_tree.findall(".//ACT")
+        act_count = len(acts)
+        scene_count = sum(len(act.findall(".//SCENE")) for act in acts)
+
+        # Dialogue totals
+        title, line_count, speech_count = count_story_lines(xml_tree)
+
+        # Character counts
+        main_ct, side_ct, total_ct = count_characters(lit_work)
+
+        # Derived averages
+        avg_lines_scene = round(line_count / scene_count, 2) if scene_count else 0
+        avg_speeches_scene = round(speech_count / scene_count, 2) if scene_count else 0
+        avg_lines_speech = round(line_count / speech_count, 2) if speech_count else 0
+
+        # -----------------------
+        # Play-level summary
+        # -----------------------
+        summary_df = pd.DataFrame([{
+            "Play": play_title,
+            "Acts": act_count,
+            "Scenes": scene_count,
+            "Speeches": speech_count,
+            "Dialogue Lines": line_count,
+            "Main Characters": main_ct,
+            "Side Characters": side_ct,
+            "Total Characters": total_ct,
+            "Avg Lines/Scene": avg_lines_scene,
+            "Avg Speeches/Scene": avg_speeches_scene,
+            "Avg Lines/Speech": avg_lines_speech
+        }])
+        all_play_summaries.append(summary_df)
+
+        safe_name = play_title.lower().replace(" ", "_").replace("'", "")
+        story_stats_path = f"../csv/{safe_name}_story_stats.csv"
+        summary_df.to_csv(story_stats_path, index=False)
+        print(f"Saved play summary: {story_stats_path}")
+
+        # -----------------------
+        # Scene-level layout (with cast size)
+        # -----------------------
+        layout_rows = []
+        for act_i, act in enumerate(acts, start=1):
+            scenes = act.findall(".//SCENE")
+            print(f"{play_title} - Act {act_i}: {len(scenes)} scenes")
+
+            for scene_i, scene in enumerate(scenes, start=1):
+                speech_count_scene = 0
+                line_count_scene = 0
+                speakers_in_scene = set()
+
+                for speech in scene.findall(".//SPEECH"):
+                    lines = [l.text.strip() for l in speech.findall(".//LINE") if l.text and l.text.strip()]
+                    speakers = [s.text.strip().upper() for s in speech.findall(".//SPEAKER") if s.text]
+
+                    if lines:
+                        speech_count_scene += 1
+                        line_count_scene += len(lines)
+                        speakers_in_scene.update(speakers)
+
+                layout_rows.append({
+                    "Play": play_title,
+                    "Act": act_i,
+                    "Scene": scene_i,
+                    "Speeches": speech_count_scene,
+                    "Dialogue Lines": line_count_scene,
+                    "Unique Speakers": len(speakers_in_scene)
+                })
+
+        layout_df = pd.DataFrame(layout_rows)
+
+        # Aggregate summaries per act
+        act_summary = (
+            layout_df.groupby("Act")
+            .agg({
+                "Scene": "count",
+                "Speeches": "sum",
+                "Dialogue Lines": "sum",
+                "Unique Speakers": "mean"
+            })
+            .rename(columns={"Scene": "Scenes", "Unique Speakers": "Avg Unique Speakers"})
+            .reset_index()
+        )
+
+        print("\nAct-Level Summary:")
+        print(act_summary.to_string(index=False))
+
+        layout_path = f"../csv/{safe_name}_layout.csv"
+        layout_df.to_csv(layout_path, index=False)
+        print(f"Saved detailed layout: {layout_path}\n")
+
+    # -----------------------
+    # Combine all play-level summaries
+    # -----------------------
+    combined_summary = pd.concat(all_play_summaries, ignore_index=True)
+    combined_summary_path = "../csv/all_plays_story_stats.csv"
+    combined_summary.to_csv(combined_summary_path, index=False)
+    print(f"Saved combined story summary for all plays: {combined_summary_path}")
+
+    return combined_summary
