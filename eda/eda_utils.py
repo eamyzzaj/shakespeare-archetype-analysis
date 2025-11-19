@@ -226,7 +226,7 @@ import pandas as pd
 class CharStats:
     speeches: int = 0
     lines: int = 0
-    scenes: int = 0
+    scenes: set[tuple[int, int]] = field(default_factory=set)
     acts: set[int] = field(default_factory=set)
 
 
@@ -243,6 +243,7 @@ def summarize_play_stats(merged_play, main_charcs=None, side_charcs=None, print_
         act_index = act["act"]
         act_total = 0
         for scene in act["scenes"]:
+            scene_index = scene["scene"]
             total_scenes += 1
             for s in scene["speakers"]:
                 name = s["name"]
@@ -253,9 +254,7 @@ def summarize_play_stats(merged_play, main_charcs=None, side_charcs=None, print_
                 stats.speeches += speeches
                 stats.lines += lines
                 stats.acts.add(act_index)
-                if speeches > 0 or lines > 0:
-                    stats.scenes += 1
-
+                stats.scenes.add((act_index, scene_index)) 
                 total_speeches += speeches
                 total_lines += lines
                 act_total += speeches
@@ -273,7 +272,7 @@ def summarize_play_stats(merged_play, main_charcs=None, side_charcs=None, print_
         acts_count = len(stats.acts)
         speeches = stats.speeches
         lines = stats.lines
-        scenes = stats.scenes
+        scenes = len(stats.scenes)
 
         speech_share = (speeches / total_speeches * 100) if total_speeches > 0 else 0
         line_share = (lines / total_lines * 100) if total_lines > 0 else 0
@@ -292,66 +291,71 @@ def summarize_play_stats(merged_play, main_charcs=None, side_charcs=None, print_
         ) else "side"
 
         data.append({
-            "Play": merged_play["title"],
-            "Character": name,
-            "Total Speeches": speeches,
-            "Total Lines": lines,
-            "Scenes Appeared": scenes,
-            "Acts Appeared": acts_count,
-            "Speech Share (%)": round(speech_share, 2),
-            "Line Share (%)": round(line_share, 2),
-            "Avg Speeches/Scene": round(avg_speeches_per_scene, 2),
-            "Avg Lines/Speech": round(avg_lines_per_speech, 2),
-            "Verbosity": round(verbosity, 2),
-            "Talkativeness": round(talkativeness, 2),
-            "Dominance": round(dominance, 2),
-            "Focus (Lines/Act)": round(focus, 2),
-            "Breadth (Scene Ratio)": round(breadth, 2),
-            "Role Type": role_type,
-            "Acts (Total)": total_acts,
-            "Scenes (Total)": total_scenes,
-            "Speeches (Total)": total_speeches,
-            "Lines (Total)": total_lines,
-            "Main:Side Ratio": main_side_ratio
+            "play": merged_play["title"],
+            "character": name,
+            "total_speeches": speeches,  # Character's speeches
+            "total_lines": lines,  # Character's lines
+            "scenes_appeared": scenes,
+            "acts_appeared": acts_count,
+            "speech_share_pct": round(speech_share, 2),
+            "line_share_pct": round(line_share, 2),
+            "avg_speeches_per_scene": round(avg_speeches_per_scene, 2),
+            "avg_lines_per_speech": round(avg_lines_per_speech, 2),
+            "verbosity": round(verbosity, 2),
+            "talkativeness": round(talkativeness, 2),
+            "dominance": round(dominance, 2),
+            "focus": round(focus, 2),
+            "breadth": round(breadth, 2),
+            "role_type": role_type,
+            "play_total_acts": total_acts,  # Renamed
+            "play_total_scenes": total_scenes,  # Renamed
+            "play_total_speeches": total_speeches,  # Renamed
+            "play_total_lines": total_lines,  # Renamed
+            "main_side_ratio": main_side_ratio  # Fixed typo
         })
 
     # --- Normalize names (spacing + case) ---
     for entry in data:
-        entry["Character"] = " ".join(entry["Character"].split()).strip().upper()
+        entry["character"] = " ".join(entry["character"].split()).strip().upper()
 
     df = pd.DataFrame(data)
 
     # --- Merge duplicates regardless of Role Type ---
     agg_cols = {
-        "Total Speeches": "sum",
-        "Total Lines": "sum",
-        "Scenes Appeared": "sum",
-        "Acts Appeared": "max",
-        "Speech Share (%)": "mean",
-        "Line Share (%)": "mean",
-        "Avg Speeches/Scene": "mean",
-        "Avg Lines/Speech": "mean",
-        "Verbosity": "mean",
-        "Talkativeness": "mean",
-        "Dominance": "mean",
-        "Focus (Lines/Act)": "mean",
-        "Breadth (Scene Ratio)": "mean",
+        "total_speeches": "sum",
+        "total_lines": "sum",
+        "scenes_appeared": "sum",
+        "acts_appeared": "max",
+        "speech_share_pct": "mean",
+        "line_share_pct": "mean",
+        "avg_speeches_per_scene": "mean",
+        "avg_lines_per_speech": "mean",
+        "verbosity": "mean",
+        "talkativeness": "mean",
+        "dominance": "mean",
+        "focus": "mean",
+        "breadth": "mean",
+        "play_total_acts": "first", 
+        "play_total_scenes": "first",
+        "play_total_speeches": "first",
+        "play_total_lines": "first",
+        "main_side_ratio": "first"
     }
 
     merged_df = (
-        df.groupby(["Play", "Character"], as_index=False)
-          .agg(agg_cols)
+        df.groupby(["play", "character"], as_index=False)
+        .agg(agg_cols)
     )
 
     # Reassign Role Type: main if any entry for that character was main
     role_map = (
-        df.groupby(["Play", "Character"])["Role Type"]
+        df.groupby(["play", "character"])["role_type"]
           .apply(lambda x: "main" if "main" in x.values else "side")
           .reset_index()
     )
 
-    df = merged_df.merge(role_map, on=["Play", "Character"], how="left")
-    df = df.sort_values("Total Lines", ascending=False).reset_index(drop=True)
+    df = merged_df.merge(role_map, on=["play", "character"], how="left")
+    df = df.sort_values("total_lines", ascending=False).reset_index(drop=True)
 
     summary = {
         "play_title": merged_play["title"],
@@ -466,21 +470,21 @@ def build_networks_for_all(works):
         print(f"Saved cleaned network for {play_name}: {out_path}")
 
 
-# -----------------------
-# Speech-level extraction
-# -----------------------
+import pandas as pd
 
-def extract_speeches_by_scene(xml_tree):
+def extract_speeches_and_lines_by_scene(xml_tree):
     """
-    Extracts every speech (sequence of lines) from the play,
-    tagging each with Act and Scene numbers.
-    Returns a DataFrame with:
-        Play, Act, Scene, Character, Line Count, Text
+    Extracts both speech-level and line-level data from a play XML tree.
+
+    Returns two DataFrames:
+        1. speeches_df: Play, Act, Scene, Character, Line Count, Text
+        2. lines_df: Play, Act, Scene, Character, Line Number, Text
     """
     root = xml_tree
     title = root.find(".//TITLE").text if root.find(".//TITLE") is not None else "Unknown Play"
 
-    rows = []
+    speech_rows = []
+    line_rows = []
 
     for act_i, act in enumerate(root.findall(".//ACT"), start=1):
         for scene_i, scene in enumerate(act.findall(".//SCENE"), start=1):
@@ -489,38 +493,58 @@ def extract_speeches_by_scene(xml_tree):
                 lines = [l.text.strip() for l in speech.findall(".//LINE") if l.text and l.text.strip()]
                 if not speakers or not lines:
                     continue
-                text = " ".join(lines)
-                line_count = len(text.split())
+
+                # Combine all lines for speech-level text
+                speech_text = " ".join(lines)
+                line_count = len(speech_text.split())
 
                 for speaker in speakers:
-                    rows.append({
+                    # Add speech-level record
+                    speech_rows.append({
                         "Play": title,
                         "Act": act_i,
                         "Scene": scene_i,
                         "Character": speaker,
                         "Line Count": line_count,
-                        "Text": text
+                        "Text": speech_text
                     })
 
-    df = pd.DataFrame(rows)
-    return df
+                    # Add line-level records
+                    for line_num, line_text in enumerate(lines, start=1):
+                        line_rows.append({
+                            "Play": title,
+                            "Act": act_i,
+                            "Scene": scene_i,
+                            "Character": speaker,
+                            "Line Number": line_num,
+                            "Text": line_text
+                        })
+
+    return pd.DataFrame(speech_rows), pd.DataFrame(line_rows)
 
 
-def extract_all_speeches(works):
+def extract_all_speeches_and_lines(works):
     """
-    Extract speech-level data for each play and save separate CSVs.
-    (Renamed from extract_all_plays to avoid name collision)
+    Extract speech-level and line-level data for each play.
+    Saves both as separate CSVs per play.
     """
     for w in works:
         xml_tree = w["work_xml"]
         play_name = w["work_name"]
-        print(f"Extracting speeches for {play_name}...")
+        print(f"Extracting speeches and lines for {play_name}...")
 
-        df = extract_speeches_by_scene(xml_tree)
+        speeches_df, lines_df = extract_speeches_and_lines_by_scene(xml_tree)
 
-        out_path = "../csv/" + play_name.lower().replace(" ", "_").replace("'", "") + "_speeches.csv"
-        df.to_csv(out_path, index=False)
-        print(f"Saved {out_path} ({len(df)} speeches)")
+        base_name = play_name.lower().replace(" ", "_").replace("'", "")
+        speech_path = f"../csv/{base_name}_speeches.csv"
+        line_path = f"../csv/{base_name}_lines.csv"
+
+        speeches_df.to_csv(speech_path, index=False)
+        lines_df.to_csv(line_path, index=False)
+
+        print(f"Saved {speech_path} ({len(speeches_df)} speeches)")
+        print(f"Saved {line_path} ({len(lines_df)} lines)")
+
 
 # -----------------------
 # Quantitative Stats about Play
